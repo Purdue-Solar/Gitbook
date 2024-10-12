@@ -7,10 +7,18 @@
 ## Mechanical
 
 * [Brakes](mechanical/brakes.md)
-* [Dynamics](mechanical/dynamics.md)
+* [Dynamics](mechanical/dynamics/README.md)
+  * [Introduction and Resources](mechanical/dynamics/introduction-and-resources.md)
+  * [Vehicle Dynamics Lecture Series](mechanical/dynamics/vehicle-dynamics-lecture-series.md)
 * [Interiors](mechanical/interiors.md)
-* [Steering](mechanical/steering.md)
-* [Suspension](mechanical/suspension.md)
+* [Steering](mechanical/steering/README.md)
+  * [How Lux?](mechanical/steering/how-lux/README.md)
+    * [45 degrees of play ain't that much tbh](mechanical/steering/how-lux/45-degrees-of-play-aint-that-much-tbh.md)
+  * [Random Ideas and Research Projects](mechanical/steering/random-ideas-and-research-projects.md)
+* [Suspension](mechanical/suspension/README.md)
+  * [How Lux?](mechanical/suspension/how-lux/README.md)
+    * [What Went Wrong? What Could be Better?](mechanical/suspension/how-lux/what-went-wrong-what-could-be-better.md)
+  * [Random Ideas and Research Projects](mechanical/suspension/random-ideas-and-research-projects.md)
 * [Machining Practices](mechanical/machining-practices.md)
 
 ## Electrical
