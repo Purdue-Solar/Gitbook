@@ -9,6 +9,7 @@
 * [Brakes](mechanical/brakes.md)
 * [Dynamics](mechanical/dynamics/README.md)
   * [Introduction and Resources](mechanical/dynamics/introduction-and-resources.md)
+  * [Page](mechanical/dynamics/page.md)
   * [Vehicle Dynamics Lecture Series](mechanical/dynamics/vehicle-dynamics-lecture-series.md)
 * [Interiors](mechanical/interiors.md)
 * [Steering](mechanical/steering/README.md)
