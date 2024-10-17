@@ -20,7 +20,9 @@ layout:
 
 # Home Page
 
-Welcome to the Purdue Solar Racing Gitbook webpage. This is a replacement for confluence where we document ideas and process used in building our vehicles.
+Welcome to the Purdue Solar Racing Gitbook webpage. This is a replacement for confluence where we document ideas and process used in building our vehicles.\
+\
+A massive thank you to GitBook for providing their software free to us!!!
 
 ### Jump right in
 
