@@ -24,8 +24,13 @@
 
 ## Electrical
 
-* [Embedded](electrical/embedded.md)
-* [High Voltage](electrical/high-voltage.md)
+* [Embedded](electrical/embedded/README.md)
+  * [Telemetry](electrical/embedded/telemetry.md)
+  * [Steering Wheel](electrical/embedded/steering-wheel.md)
+* [High Voltage](electrical/high-voltage/README.md)
+  * [Battery](electrical/high-voltage/battery.md)
+  * [Motor](electrical/high-voltage/motor.md)
+  * [Motor Controller](electrical/high-voltage/motor-controller.md)
 * [Low Voltage](electrical/low-voltage.md)
 * [Solar](electrical/solar.md)
 
