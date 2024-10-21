@@ -13,6 +13,7 @@
   * [Vehicle Dynamics Lecture Series](mechanical/dynamics/vehicle-dynamics-lecture-series.md)
 * [Interiors](mechanical/interiors.md)
 * [Steering](mechanical/steering/README.md)
+  * [Bevel Gear Steering Column](mechanical/steering/bevel-gear-steering-column.md)
   * [How Lux?](mechanical/steering/how-lux/README.md)
     * [45 degrees of play ain't that much tbh](mechanical/steering/how-lux/45-degrees-of-play-aint-that-much-tbh.md)
   * [Random Ideas and Research Projects](mechanical/steering/random-ideas-and-research-projects.md)
