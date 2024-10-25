@@ -53,7 +53,8 @@
 
 ## Operations
 
-* [Business](operations/business.md)
+* [Business](operations/business/README.md)
+  * [TooCool (Reimbursements and Storefront)](operations/business/toocool-reimbursements-and-storefront.md)
 * [Marketing](operations/marketing/README.md)
   * [Community Outreach](operations/marketing/community-outreach.md)
   * [Student Events](operations/marketing/student-events.md)
