@@ -7,6 +7,7 @@
 ## Mechanical
 
 * [Brakes](mechanical/brakes.md)
+* [ASC 2026 Car Design Parameters](mechanical/asc-2026-car-design-parameters.md)
 * [Dynamics](mechanical/dynamics/README.md)
   * [Introduction and Resources](mechanical/dynamics/introduction-and-resources.md)
   * [Page](mechanical/dynamics/page.md)
