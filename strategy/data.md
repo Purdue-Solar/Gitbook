@@ -4,9 +4,7 @@ description: This page covers the data that is collected, the format, and some a
 
 # Data
 
-{% synced-block url="https://app.gitbook.com/o/VgqQpOyMtIqpSG170vlO/blocks/syb_j0FLC" %}
-[Seth's Card](https://app.gitbook.com/o/VgqQpOyMtIqpSG170vlO/blocks/syb\_j0FLC)
-{% endsynced-block %}
+{% include "../.gitbook/includes/owners-block-seth.md" %}
 
 ## Apollo
 
