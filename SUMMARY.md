@@ -51,7 +51,7 @@
 * [Current Work](strategy/current-work.md)
 * [Data](strategy/data.md)
 * [Models](strategy/models.md)
-* [Simulation](strategy/simulation.md)
+* [Augmented Reality](strategy/augmented-reality.md)
 
 ## Operations
 
