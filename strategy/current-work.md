@@ -14,6 +14,10 @@ Finish Telemetry board for Lux (Vineet)
 
 Graphs of Energy Input and Performance (Mohit)
 
+Solar in from the car based on forecasts, incorporate to energy estimator
+
+^ Add cloud shading
+
 
 
 Estimate energy burned in brakes, What could have been saved with regenerative braking
