@@ -21,3 +21,68 @@ This program should be valid to find the energy consumed between two positions w
 {% file src="../.gitbook/assets/ELEN_alperkerem-Motor_Research.pdf" %}
 Motor Research Paper
 {% endfile %}
+
+## Google Maps Elevation API
+
+```python
+"""
+Required folder structure:
+top level directory
+|_(this code file)
+|_input
+  |_files with coordinates
+|_output
+  |_store files with elevations
+"""
+
+import requests
+
+files = ["Enter filenames here; files should be in the input directory"]
+
+url = 'https://maps.googleapis.com/maps/api/elevation/json'
+
+for file in files:
+    coordinates = []
+    with open(f"input/{file}", 'r') as f:
+        coordinates = f.readlines() # Coordinates in the files should be in "latitude,longitude" format
+
+    with open(f"output/{file}", 'a') as f:
+        num_coord = len(coordinates)
+        while (num_coord >= 512):
+            locations = ""
+            for idx in range(512):
+                locations += coordinates[idx].strip() + '|'
+            locations = locations[:-1]
+
+            params = {
+                'locations': locations,
+                'key': "ENTER YOUR API KEY HERE" # Get the API key on the google maps platform
+            }
+
+            response = requests.get(url, params=params)
+            data = response.json()
+
+            for idx in range(512):
+                f.write(f"{round(data['results'][idx]['elevation'], 6)}\n")
+
+            num_coord -= 512
+            coordinates = coordinates[512:]
+
+        locations = ""
+        for idx in range(num_coord):
+            locations += coordinates[idx].strip() + '|'
+        locations = locations[:-1]
+
+        params = {
+            'locations': locations,
+            'key': "ENTER YOUR API KEY HERE"
+        }
+
+        response = requests.get(url, params=params)
+        data = response.json()
+
+        for idx in range(num_coord):
+            f.write(f"{round(data['results'][idx]['elevation'], 6)}\n")
+
+print("done")
+```
