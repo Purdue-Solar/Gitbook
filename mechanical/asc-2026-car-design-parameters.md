@@ -29,7 +29,7 @@ Composites:
 * Aeroshell Bullet: 16 kg
 * 4Wheel Cat: 18 kg
 * Chassis Bullet: 15 kg
-  * Rough Shape: Rectangle L80" x W25" x H21"
+  * <mark style="color:green;">Rough Shape: Rectangle L80" x W24" x H21"</mark>
 * Chassis Cat: 17 kg&#x20;
 * Roll Cage: Steel: 13 kg
   * Import shape into NX
@@ -39,31 +39,34 @@ Composites:
 Mech: -Front Suspension with Wheels + Brakes: 8.1 kg each
 
 * Wheels: 3.703 kg each
-  * Cylinder: D22" x W4"
+  * <mark style="color:green;">Cylinder: D550mm x W100mm</mark>
 * Rear Suspension + Brakes (without wheel or motor): 2.92 kg
-  * Bounding box: L9.8" x W15.5" x H18.3"
+  * <mark style="color:green;">Bounding box: L9" x W15" x H12"</mark>
+* Front Suspension + Brakes (without wheel): 8.1 kg - 3.703 kg = 4.397 kg
+  * <mark style="color:green;">Bounding box: L8" x W9" x H10", 4" behind front axle</mark>
 * Steering Rack: 1.4 kg
-  * Bounding box: L40" x W5" x H5.5"
+  * <mark style="color:green;">Bounding box: L40" x W5" x H5" (make cylinder)</mark>
 * Steering Column: 0.5 kg
-  * Bounding box: L3.25" x W14.5" x H13.8"
+  * <mark style="color:green;">Bounding box: 65-degree angled cylinder L19.5" x D1"</mark>
 * Interiors: 8 kg
-  * Steering wheel bounding box (in front of driver): L10" x W7" x H4"
+  * <mark style="color:green;">Steering wheel bounding box (in front of driver): L10" x W4" x H7"</mark>
 * Master cylinder + Pedal: 1.27 kg
-  * Bounding box: L3.75" x W6.
+  * <mark style="color:green;">Bounding box: L3.75" x W6.5" x H11.5"</mark>
 
 Electrical:
 
 * Battery: Weigh 25 kg - ish
-  * Rough Shape: Rectangle L30" x W12.5" x H8.5"
+  * <mark style="color:green;">Rough Shape: Rectangle L30" x W12.5" x H8.5"</mark>
 * Motor: 11 kg&#x20;
-  * Rough shape: Cylinder D10.3" x H2.2"
+  * <mark style="color:green;">Rough shape: Cylinder D10.3" x H2.2"</mark>
 * Motor Controller: 500 g
-  * Rough shape: Rectangle&#x20;
+  * <mark style="color:green;">Rough shape: Rectangle L10" x W5.5" x H1.5"</mark>
 
 Misc:
 
 * Driver Weight: 55 kg
-* Ballast: 80 kg
+  * <mark style="color:green;">Rough shape: 5' 10" driver height</mark>
+* Ballast up to max weight of 80 kg
 
 Interiors Specific:
 
