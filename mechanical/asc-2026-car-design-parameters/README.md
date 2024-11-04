@@ -72,3 +72,24 @@ Interiors Specific:
 
 Accelerator Pedal (missing some washers): 1.3lbs, Ballast Box Hinges and Latch(missing some hardware): .4lbs, Button Box (missing wires, nut too big): .7lbs, Canopy Hinges & Latches (missing some hardware, wire likely too heavy, massive 3d print difference): 4.8lbs, External E-stop (needs trimming, 3d print diff): .6lbs, Harness (purchased part, answer in Q\&A): 6lbs, Steering Wheel (3d print diff): 2lbs, Top Shell Hinges: (rough design, print diff): 1.2lbs, Towing Hardpoint: .1lbs on car but .3lbs with hook installed, Display\&Pi mounting box (not designed yet): .5lbs? for a grand total of 17.6lbs or 8kg.
 
+
+
+## Why We Chose Big Bullet
+
+There were 3 main designs that wer seriously considered: 3 wheel catamaran (similar to Brunel's Nuna 11-12), 4 wheel catamaran, 3 wheel bullet. We had each team present their concerns for each design, pros and cons, and their vote for what they most prefer (1 is highest, 3 is lowest). Preliminary vehicle stability caclulations were done for each configuration to determine if each shape was even feasible from a stability standpoint. For 4WCAT and Big Bullet, the 45 degree tilt test was used, and for 3WCAT, a less conservative approach of using the maximum g's achieved during dynamic scrutineering was used. See the subpage on vehicle stability for details.
+
+### Mechanical Considerations
+
+**Constaints**: vehicle stability, attainable CG location, compliance with 45 degree tilt test (or dynamic scrutineering), braking regs, suspension space allocation
+
+**Big Bullet**: Ranked 1\
+Pros: Prior experience, stable at high speeds, easy CG manipulation, suspension design is easiest, aero is not a huge constraint, symmetric wheel loads left to right, steering design is easy, we have actionable improvements from Lux\
+Cons: We don't know vehicle size restrictions yet
+
+**4 Wheel Catamaran**: Ranked 2\
+Pros: Lots of prior art, inherently more stable than 3WCAT, dynamics has more stuff to play with / more potential for optimization with 4 wheels, historically "the gold standard"\
+Cons: suspension packaging can be tough (all cats), stability decreases with speed (all cats), asymmetric wheel loads, CG is tougher to manipulate (all cats), arguably heavier than bullet, there's lots of unknowns with switching to catamaran, more wheel = more rolling resistance
+
+**3 Wheel Catamaran**: Ranked 3\
+Pros: it's cool as shit, lighter than 4WCAT,&#x20;
+
