@@ -3,6 +3,7 @@
 * [Home Page](README.md)
   * [CAD Standards and Pratices](readme/cad-standards-and-pratices.md)
   * [Our Sponsors](readme/our-sponsors.md)
+  * [Shop Safety](readme/shop-safety.md)
 
 ## Mechanical
 
