@@ -22,7 +22,7 @@
 
 ### Wheel Bearings
 
-* humunah
+* huh
 
 ## 1. Setting Parameters and Choosing Hardpoints
 

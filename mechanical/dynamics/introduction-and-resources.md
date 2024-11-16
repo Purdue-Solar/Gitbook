@@ -1,7 +1,7 @@
 ---
 description: >-
   This page is laid out in order of complexity and depth: the further down you
-  scroll, the more iin-depth and dense the information becomes.
+  scroll, the more in-depth and dense the information becomes.
 layout:
   title:
     visible: true
@@ -17,7 +17,7 @@ layout:
 
 # Introduction and Resources
 
-## Nomeclature, Important Geometries, and Visualization
+## Nomenclature, Important Geometries, and Visualization
 
 Let's start with some terminology and definitions ([#glossary](introduction-and-resources.md#glossary "mention")). I recommend coming back to this section often to remember certain definitions. New terms or definitions are highlighted in <mark style="color:green;">green</mark> or <mark style="color:yellow;">yellow</mark> or <mark style="color:blue;">blue</mark>, with the <mark style="color:yellow;">yellow</mark> terms being an alternative name and the <mark style="color:blue;">blue</mark> terms being a new definition not directly listed in the glossary. Some hard-to-visualize definitions mention a <mark style="color:purple;">video</mark> to reference.
 
@@ -72,9 +72,27 @@ Let's start with some terminology and definitions ([#glossary](introduction-and-
 <mark style="color:green;">**Side View Instant Center**</mark> (<mark style="color:green;">**SVIC**</mark>) and <mark style="color:green;">**Side View Swing Arm**</mark> (<mark style="color:green;">**SVSA**</mark>): From a side view, the side view instant center is the imaginary intersection created by tracing lines through the inboard chassis hardpoints. The SVSA is created by drawing a line from the center of the tire contact patch to the SVIC.\
 &#x20;   Now you may be asking: "what happens to the SVIC in a multilink suspension?" The answer is: I have no fucking clue, ask someone smarter. But for real I think when you get to the level of multi-link suspension, you stop relying on these neat and easy to understand tools that we use, and you begin to rely mostly on large and complex systems of nonlinear equations to design and model your suspension. You shouldn't touch multilink suspensions unless you know exactly what you're doing. There's a reason F1 suspension engineers make a lot of money.
 
-<mark style="color:green;">**Pitch Center**</mark>: From a side view, the pitch center is the intersection of the SVSAs of the front and rear wheels. <mark style="color:red;">Note</mark>: As with roll centers, the line joining the left and right side pitche centers creates the <mark style="color:blue;">pitch axis</mark>. The car pitch about the pitch axis. Ideall the pitch axis is perpendicular to the side view plane of the vehicle.
+<mark style="color:green;">**Pitch Center**</mark>: From a side view, the pitch center is the intersection of the SVSAs of the front and rear wheels. <mark style="color:red;">Note</mark>: As with roll centers, the line joining the left and right side pitch centers creates the <mark style="color:blue;">pitch axis</mark>. The car will pitch about the pitch axis. Ideally the pitch axis is perpendicular to the side view plane of the vehicle.
 
 <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption><p>SVICs (blue dots), SVSAs (red lines), and pitch center (yellow dot)</p></figcaption></figure>
+
+<mark style="color:green;">**Bump Steer**</mark>: Bump steer is the phenomenon where the wheel toes in or toes out as it moves through its travel with no steering input. This occurs when the tie rod axis does not intersect the instant center from a front view, and when the tie rod does not terminate on the kingpin axis and chassis axis from a front view (for a flat chassis in the x-direction). Bump steer can lead to vehicle instability on a bumpy road, unwanted forces through the steering system, and it can change wheel angles in high-speed cornering. Bump steer due to cornering or roll angle is called <mark style="color:blue;">roll steer</mark>.
+
+<figure><img src="https://www.racingaspirations.com/wp-content/uploads/2017/08/bump-steer.png" alt="" width="375"><figcaption><p>Geometry with no bump steer</p></figcaption></figure>
+
+<mark style="color:green;">**Camber Thrust**</mark>: Camber thrust is a force that pushes the car in the direction of whatever side of the tire is deformed. If you have negative camber, the camber thrust points toward the chassis. This is one is a little tough to describe, but take the picture shown below: a single point on the inside of the tire (if negative camber) wants to roll on an ellipse when projected on the ground from a top view. Due to the no-slip condition with the road, friction causes this point is pulled into the straight line on the road, and this effect is known as camber thrust. This is why, when traveling in a straight line, camber wastes energy and increases tire wear, reducing the efficiency of the solar car.
+
+<figure><img src="../../.gitbook/assets/Camber_thrust.png" alt="" width="224"><figcaption><p>Depiction of path traveled by point on<br>tire with camber, and how camber<br>thrust arises</p></figcaption></figure>
+
+<mark style="color:green;">**Ackermann Steering**</mark>: A steering geometry where the inside wheel turns at a sharper angle than the outside wheel is called Ackermann geometry. The reason this is exists is to reduce the the scrub on the tire during low-speed cornering. In the picture, the lines perpendicular to the wheels' headings intersect at the same point on the rear axle, so this would be called 100% Ackermann. Anti-Ackermann means that the outside wheel turns more than the inside wheel. Anti-Ackermann is really only desirable in high-speed corners, where an anti-Ackermann setup can increase the traction on the inside tire. Since we don't care about high-speed cornering and tire wear is crucial for us, we will typically run 100% Ackermann.
+
+<figure><img src="https://www.researchgate.net/publication/346561431/figure/fig1/AS:964195352850433@1606893494660/Ackermann-steering-mechanism-This-is-the-diagram-for-the-Ackermann-steering-mechanism.jpg" alt="" width="375"><figcaption><p>100% Ackermann angles</p></figcaption></figure>
+
+<mark style="color:green;">**Anti-Dive / Anti-Squat Geometry**</mark>: Anti-geometry refers to changing the amount that the springs will compress under due to acceleration or braking. Anti-dive refers to putting less of the weight transfer under braking through the front springs, and anti-squat refers to putting less of the weight transfer under acceleration through the rear springs. This helps control how much the car will pitch under braking and acceleration. 100% anti-dive means that 100% of the pitch moment from braking will be counteracted in the suspension arms and none will be absorbed by the springs. <mark style="color:red;">Note</mark>: anti-geometry does not change the weight transfer or the wheel loads; it only affects how the weight transfer is distributed between the control arms and the springs.
+
+<figure><img src="../../.gitbook/assets/galleryImage1681287136-2.webp" alt="" width="375"><figcaption><p>Anti-dive geometry</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-11-13 181343.png" alt="" width="375"><figcaption><p>Anti-dive calculation: there are conflicting sources on how this is<br>actually calculated. I encourage you to research this or write a<br>quick matlab script that varies parameters of interest and<br>calculates percentage<br>(change in force through spring)/(weight transfer) </p></figcaption></figure>
 
 ***
 
