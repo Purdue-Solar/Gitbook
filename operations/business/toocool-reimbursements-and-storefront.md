@@ -23,7 +23,8 @@ External Resources:&#x20;
     <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxmUKqzkgsDMEQwRwIKoM7XJt-XsWEsYJXXlcI0pVfGqCYifie7GDomMnIlaOWJNUMJ4FqSA6gdjYB4yJHhBmNHdsZV-5syvUHJFje_dOCfR_i6EFdBrhb0bqXaRLMZ0GhbaJ7rnII4BT-uIrCAlicEliA?key=6lZSCt1vMzqLgEZWCn4PkQ" alt=""><figcaption><p>Banking Page in TooCool</p></figcaption></figure>
 4. “Please Select” > Type in the payee’s name.
    1. If a new payee is being added, select “Add Payee” and add their name, address, and what general expense account they would be reimbursed for(refer to the link above)
-   2. If you need to change the address for an existing payee, add a note in the “Note” section.
+   2. If the Payee is from outside of Purdue, add a note in the "Note" section confirming this fact explicitly. BOSO requires explicit confirmation of this fact to approve such transactions.&#x20;
+   3. If you need to change the address for an existing payee, add a note in the “Note” section.
       1. “Address Change: (new address)”
 5. &#x20;Mark “Hold For Pick Up” if they want to pick up the cheque at BOSO Office (Krach Third Floor)
    1. The treasurer and president can pick up anyone's cheque with an ID and then deliver it to the payee.&#x20;
