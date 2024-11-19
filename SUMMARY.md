@@ -38,7 +38,9 @@
   * [Motor](electrical/high-voltage/motor.md)
   * [Motor Controller](electrical/high-voltage/motor-controller.md)
 * [Low Voltage](electrical/low-voltage.md)
-* [Solar](electrical/solar.md)
+* [Solar](electrical/solar/README.md)
+  * [Array Design](electrical/solar/array-design.md)
+  * [Array Manufacturing](electrical/solar/array-manufacturing.md)
 
 ## Composites
 
