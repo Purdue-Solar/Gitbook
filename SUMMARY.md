@@ -7,7 +7,11 @@
 
 ## Mechanical
 
-* [Brakes](mechanical/brakes.md)
+* [Brakes](mechanical/brakes/README.md)
+  * [Intro and Background](mechanical/brakes/intro-and-background.md)
+  * [Brake Rotor](mechanical/brakes/brake-rotor.md)
+  * [Brake Pedal](mechanical/brakes/brake-pedal.md)
+  * [Parking Brake](mechanical/brakes/parking-brake.md)
 * [ASC 2026 Car Design Parameters](mechanical/asc-2026-car-design-parameters/README.md)
   * [ASC 2026 System Space Allocation](mechanical/asc-2026-car-design-parameters/asc-2026-system-space-allocation.md)
   * [ASC 2026 Vehicle Stability](mechanical/asc-2026-car-design-parameters/asc-2026-vehicle-stability.md)
