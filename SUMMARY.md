@@ -26,7 +26,7 @@
     * [How Lux?](mechanical/dynamics/suspension/how-lux/README.md)
       * [What Went Wrong? What Could be Better?](mechanical/dynamics/suspension/how-lux/what-went-wrong-what-could-be-better.md)
     * [Random Ideas and Research Projects](mechanical/dynamics/suspension/random-ideas-and-research-projects.md)
-  * [Suspension Style](mechanical/dynamics/suspension-style.md)
+    * [Suspension Style](mechanical/dynamics/suspension/suspension-style.md)
 * [Interiors](mechanical/interiors.md)
 * [Machining Practices](mechanical/machining-practices.md)
 
