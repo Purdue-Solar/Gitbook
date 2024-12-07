@@ -3,6 +3,7 @@ description: >-
   Interiors generally controls everything the driver touches except the brake
   pedal. The ergonomics of how the driver interacts with each component is
   critical. This all references Lux as of 10/29/2024.
+coverY: 0
 ---
 
 # Interiors

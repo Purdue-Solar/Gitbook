@@ -76,7 +76,7 @@ Accelerator Pedal (missing some washers): 1.3lbs, Ballast Box Hinges and Latch(m
 
 ## Why We Chose Big Bullet
 
-There were 3 main designs that were seriously considered: 3 wheel catamaran (similar to Brunel's Nuna 11-12), 4 wheel catamaran, 3 wheel bullet. We had each team present their concerns for each design, pros and cons, and their vote for what they most prefer (1 is highest, 3 is lowest). Preliminary vehicle stability calculations were done for each configuration to determine if each shape was even feasible from a stability standpoint. For 4WCAT and Big Bullet, the 45 degree tilt test was used, and for 3WCAT, a less conservative approach of using the maximum g's achieved during dynamic scrutineering was used. See the subpage on vehicle stability for details.
+There were 3 main designs that were seriously considered: 3 wheel catamaran (similar to Brunel's Nuna 11-12), 4 wheel catamaran, 3 wheel bullet. We had each team present their concerns for each design, pros and cons, and their vote for what they most prefer (1 is highest, 3 is lowest). Preliminary vehicle stability calculations were done for each configuration to determine if each shape was even feasible from a stability standpoint. For 4WCAT and Big Bullet, the 45 degree tilt test was used, and for 3WCAT, a less conservative approach of using the maximum g's achieved during dynamic scrutineering was used. See the subpage on vehicle stability for details.&#x20;
 
 ### Mechanical Considerations
 
@@ -84,12 +84,16 @@ There were 3 main designs that were seriously considered: 3 wheel catamaran (sim
 
 **Big Bullet**: Ranked 1\
 Pros: Prior experience, stable at high speeds, easy CG manipulation, suspension design is easiest, fewer constraints on wheel placement, aero is not a huge constraint, symmetric wheel loads left to right, steering design is easy, we have actionable improvements from Lux, probably lightest option for mech\
-Cons: We don't know vehicle size restrictions yet, 3 wheels is inherently less stable than 4 wheels (arguably),&#x20;
+Cons: We don't know vehicle size restrictions yet, 3 wheels is inherently less stable than 4 wheels (arguably). Tipping point is over the line connecting fron wheels and back wheel.&#x20;
 
 **4 Wheel Catamaran**: Ranked 2\
 Pros: Lots of prior art, inherently more stable than 3WCAT, dynamics has more stuff to play with / more potential for optimization with 4 wheels, historically "the gold standard"\
 Cons: suspension packaging can be tough (all cats), stability decreases with speed (all cats), asymmetric wheel loads, CG is tougher to manipulate (all cats), arguably heavier than bullet, there's lots of unknowns with switching to catamaran, more wheel = more rolling resistance
 
 **3 Wheel Catamaran**: Ranked 3\
-Pros: it's cool as shit, lighter than 4WCAT,&#x20;
+Pros: it's cool as shit, lighter than 4WCAT, but also we've never made it before.&#x20;
+
+Prior examples: Brunel Nuna 11-12, Durham University&#x20;
+
+
 
