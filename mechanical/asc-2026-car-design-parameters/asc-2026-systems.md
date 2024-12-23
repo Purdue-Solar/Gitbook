@@ -21,12 +21,16 @@
 ## Mechanical
 
 * Interiors
-  * Accelerate Pedal
-  * Towing Hardpoint
+  * Steering Wheel
   * Top shell hinge/latch
   * Canopy hinge/latch
-  * Steering Wheel
-  * Display
+  * Accelerator Pedal
+  * Towing Hardpoint
+  * Ballast Box
+  * Button Box
+  * External E-Stop
+  * Display & Rear view Mounting
+  * Harness
 * Roll Cage
 * Dynamics
   * Rear Suspension Assembly
