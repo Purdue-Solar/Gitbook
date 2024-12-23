@@ -13,7 +13,7 @@
   * [Brake Pedal](mechanical/brakes/brake-pedal.md)
   * [Parking Brake](mechanical/brakes/parking-brake.md)
 * [ASC 2026 Car Design Parameters](mechanical/asc-2026-car-design-parameters/README.md)
-  * [ASC 2026 System Space Allocation](mechanical/asc-2026-car-design-parameters/asc-2026-system-space-allocation.md)
+  * [ASC 2026 Systems](mechanical/asc-2026-car-design-parameters/asc-2026-systems.md)
   * [ASC 2026 Vehicle Stability](mechanical/asc-2026-car-design-parameters/asc-2026-vehicle-stability.md)
 * [Dynamics](mechanical/dynamics/README.md)
   * [Introduction and Resources](mechanical/dynamics/introduction-and-resources.md)
