@@ -4,6 +4,7 @@
   * [CAD Standards and Pratices](readme/cad-standards-and-pratices.md)
   * [Our Sponsors](readme/our-sponsors.md)
   * [Shop Safety](readme/shop-safety.md)
+  * [Gate 1 Design Review Expectations](readme/gate-1-design-review-expectations.md)
 
 ## Mechanical
 
