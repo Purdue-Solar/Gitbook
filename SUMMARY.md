@@ -29,6 +29,8 @@
     * [Random Ideas and Research Projects](mechanical/dynamics/suspension/random-ideas-and-research-projects.md)
     * [Suspension Style](mechanical/dynamics/suspension/suspension-style.md)
 * [Interiors](mechanical/interiors.md)
+* [Roll Cage](mechanical/roll-cage/README.md)
+  * [Lux FSGP 2025 RC FEA Issues Changelog](mechanical/roll-cage/lux-fsgp-2025-rc-fea-issues-changelog.md)
 * [Machining Practices](mechanical/machining-practices.md)
 
 ## Electrical
