@@ -45,7 +45,14 @@ The .fem
         * honestly just use shells i think. The difference is weird so google it.
     * 3D
   * cubes ("hex") or pyramids (tetrahedrons ("tets")
-    *
+
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 The .sim
 
