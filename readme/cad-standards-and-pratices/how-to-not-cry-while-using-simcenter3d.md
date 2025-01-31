@@ -26,7 +26,7 @@ Files/Saving/Logistics
 
 The .fem
 
-* “FEM options” is a useful menu
+* Right click the fem in the simulation navigator > edit > useful menu
   * ALWAYS change polygon body resolution to high if not already
   * Can change geometry options here too&#x20;
     * Import points
