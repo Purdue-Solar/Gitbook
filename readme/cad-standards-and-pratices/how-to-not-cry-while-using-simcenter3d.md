@@ -20,6 +20,9 @@ Files/Saving/Logistics
   * DONT USE NEW REVISION! This does weird things to the original
 * When creating a new .fem: ALWAYS set polygon body resolution to high
 * .dat is where everything gets saved once you click solve. This is the NASTRAN file that is actually run and processed.
+  * you can right click solution (?) i think? to view file location
+* Importing files
+  * Dont "auto stitch bodies" it does shitty things. not sure why
 
 \
 
