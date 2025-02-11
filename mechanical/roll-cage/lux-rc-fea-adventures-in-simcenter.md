@@ -18,16 +18,18 @@ NX hates strange loops. Trying to do FEA on a soup can? You are cooked. Add a ra
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The mesher likes to chop up our soup cans for us. This is sketchy sometimes but mostly works, actually.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The mesher likes to chop up our soup cans for us. This is sketchy sometimes but mostly works, actually.</p></figcaption></figure>
 
 
 
-The merge face tool in polygon geometry can be used to fix this (i used edge based). You can get rid of the crappy edges it generates and mesh again. Itll typically do better the second time.&#x20;
+The merge face tool in polygon geometry can be used to fix this (face based then box select everything). This gets rid of the crappy edges it generates. Delete mesh and remesh. Itll typically do better the second time.&#x20;
 
-What if it doesnt? Well idk tbh.
+What if it doesnt? Well idk tbh. Keep trying. Maybe try edge based. Little this, little that
+
+Ok it finally worked. damn.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
 
-
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
