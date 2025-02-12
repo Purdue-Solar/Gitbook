@@ -4,7 +4,25 @@ description: Specifically for use with the NASTRAN solver
 
 # How to not cry while using SimCenter3D
 
-General
+**Prologue**
+
+Anyone can be trained to perform FEA. Only capable engineers can create high quality simulations _that accurately model the real world_ and produce accurate, useful results.
+
+How do you become a capable (structural) engineer? You start with the basics. Know your Statics, know your Mechanics of Materials. Notice I didnt say "Take ME 270". Classes will help you learn the material, but you can learn the material without classes, and you can certainly pass a class without learning the material.
+
+One of the fastest ways to cover these topics is:&#x20;
+
+[https://efficientengineer.com/topics/](https://efficientengineer.com/topics/)&#x20;
+
+This channel is great. Start here:&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+A good place to start with SimCenter3D is with 1d beam analysis:&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=fFddyaSDfmI" %}
+
+**General**
 
 * TURN ON ADVANCED ROLE ALWAYS!
 * Name everything
@@ -13,7 +31,7 @@ General
 \
 
 
-Files/Saving/Logistics
+**Files/Saving/Logistics**
 
 * Simulation files are organized as a .sim, attached to a FEM model in a .sim, referencing a part in a .prt (and/or an idealized part, .i)
 * Want a copy of a sim/fem? Save As > New Item&#x20;
@@ -27,7 +45,7 @@ Files/Saving/Logistics
 \
 
 
-The .fem
+**The .fem**
 
 * Right click the fem in the simulation navigator > edit > useful menu
   * ALWAYS change polygon body resolution to high if not already
@@ -57,9 +75,12 @@ The .fem
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt="" width="375"><figcaption></figcaption></figure>
 
-The .sim
+**The .sim**
 
 * Model Setup check is kinda useless
   * honestly idk what it even does
 * Want other info in your solution results?
   * right click the solution > "edit" > case control > structural output requests > edit > rerun sim
+  * I highly recommend turning on strain energy and then viewing strain energy _density_ in the results. This is a great tool for visualizing the flow of strain (load) throughout your structure.
+* Convergence
+  * When stress-elemental and stress-elemental-nodal are about equal, your solution is most accurate (your mesh is typically fine enough).

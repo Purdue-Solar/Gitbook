@@ -39,7 +39,7 @@ Let's start with some terminology and definitions ([#glossary](introduction-and-
 
 <mark style="color:green;">**Wheel Center Offset**</mark>: From a front view, wheel center offset is the horizontal distance from the center of the wheel to the kingpin axis. This parameter is often constrained as a minimum value for packaging reasons.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption><p>Wheel Center Offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption><p>Wheel Center Offset</p></figcaption></figure>
 
 <mark style="color:green;">**Caster Angle**</mark>: From a side view, caster angle is the angle of the kingpin axis relative to vertical. A <mark style="color:green;">positive caster angle</mark> means the lower ball joint is closer to the front of the car. Sometimes caster angle is referred to simply as <mark style="color:yellow;">caster</mark>.
 
