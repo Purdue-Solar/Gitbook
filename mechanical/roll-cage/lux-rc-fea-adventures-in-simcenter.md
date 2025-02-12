@@ -33,3 +33,12 @@ Ok it finally worked. damn.
 
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
+
+Time to increase fillet size from this.
+
+File is giving Fatal Message 1250 for insufficient disk space. Didnt end up needing these but seem like useful/helpful articles:&#x20;
+
+[https://www.learningfea.com/2016/01/debugging-a-nastran-fatal/](https://www.learningfea.com/2016/01/debugging-a-nastran-fatal/)
+
+{% embed url="https://support.sw.siemens.com/en-US/okba/KB000153645_EN_US/How-to-Change-the-Nastran-Scratch-Directory-in-Simcenter-3D-A-Step-by-Step-Guide/index.html" %}
+
