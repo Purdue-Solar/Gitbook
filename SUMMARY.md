@@ -2,6 +2,7 @@
 
 * [Home Page](README.md)
   * [CAD Standards and Pratices](readme/cad-standards-and-pratices/README.md)
+    * [Guide to Product Data Management](readme/cad-standards-and-pratices/guide-to-product-data-management.md)
     * [How to not cry while using SimCenter3D](readme/cad-standards-and-pratices/how-to-not-cry-while-using-simcenter3d.md)
   * [Our Sponsors](readme/our-sponsors.md)
   * [Shop Safety](readme/shop-safety.md)
