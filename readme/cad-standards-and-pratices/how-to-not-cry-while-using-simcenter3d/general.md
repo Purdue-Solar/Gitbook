@@ -23,3 +23,9 @@ A good place to start with SimCenter3D is with 1d beam analysis:&#x20;
   * you can right click solution (?) i think? to view file location
 * Importing files
   * Dont "auto stitch bodies" it does shitty things. not sure why
+
+
+
+(Ignore this) CBUSH Stiffness Calculation
+
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
