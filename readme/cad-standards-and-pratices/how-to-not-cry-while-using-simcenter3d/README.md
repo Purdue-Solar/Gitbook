@@ -16,5 +16,5 @@ One of the fastest ways to cover these topics is:&#x20;
 
 This channel is great. Start with these topics, in order:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
