@@ -39,7 +39,7 @@
   * [Lux RC FEA - Adventures in Simcenter](mechanical/roll-cage/lux-rc-fea-adventures-in-simcenter.md)
   * [Prior Art](mechanical/roll-cage/prior-art.md)
   * [Roll Cage Rules](mechanical/roll-cage/roll-cage-rules.md)
-  * [General Roll Cage Info](mechanical/roll-cage/general-roll-cage-info.md)
+  * [General Artemis Roll Cage Stuff](mechanical/roll-cage/general-artemis-roll-cage-stuff.md)
 * [Machining Practices](mechanical/machining-practices.md)
 
 ## Electrical

@@ -1,4 +1,4 @@
-# General Roll Cage Info
+# General Artemis Roll Cage Stuff
 
 Questions to ask:
 
@@ -63,4 +63,5 @@ The front roll bars shall be positioned far enough in front of the driver's head
 
 [https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026\_Regulations\_RevisionA.pdf](https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026_Regulations_RevisionA.pdf)
 
-\
+![](../../.gitbook/assets/image.png)\
+Shear mounting ideas
