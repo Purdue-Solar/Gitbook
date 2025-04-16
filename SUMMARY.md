@@ -54,7 +54,8 @@
   * [Motor Controller](electrical/high-voltage/motor-controller.md)
 * [Low Voltage](electrical/low-voltage.md)
 * [Solar](electrical/solar/README.md)
-  * [Array Design](electrical/solar/array-design.md)
+  * [Array Design](electrical/solar/array-design/README.md)
+    * [Artemis Array Design](electrical/solar/array-design/artemis-array-design.md)
   * [Array Manufacturing](electrical/solar/array-manufacturing.md)
 
 ## Composites
