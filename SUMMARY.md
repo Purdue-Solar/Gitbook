@@ -3,7 +3,7 @@
 * [Home Page](README.md)
   * [CAD Standards and Pratices](readme/cad-standards-and-pratices/README.md)
     * [Guide to Product Data Management](readme/cad-standards-and-pratices/guide-to-product-data-management.md)
-  * [How to not cry while using SimCenter3D](readme/how-to-not-cry-while-using-simcenter3d/README.md)
+  * [How to not cry while using SimCenter3D](readme/cad-standards-and-pratices/how-to-not-cry-while-using-simcenter3d.md)
     * [General](readme/how-to-not-cry-while-using-simcenter3d/general.md)
     * [The .fem](readme/how-to-not-cry-while-using-simcenter3d/the-.fem.md)
     * [The .sim](readme/how-to-not-cry-while-using-simcenter3d/the-.sim.md)
