@@ -40,6 +40,7 @@
   * [Prior Art](mechanical/roll-cage/prior-art.md)
   * [Roll Cage Rules](mechanical/roll-cage/roll-cage-rules.md)
   * [General Artemis Roll Cage Stuff](mechanical/roll-cage/general-artemis-roll-cage-stuff.md)
+  * [Artemis FEA](mechanical/roll-cage/artemis-fea.md)
 * [Machining Practices](mechanical/machining-practices.md)
 
 ## Electrical
