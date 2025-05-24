@@ -87,6 +87,11 @@
   * [Community Outreach](operations/marketing/community-outreach.md)
   * [Student Events](operations/marketing/student-events.md)
 
+***
+
+* [Team Meetings](team-meetings/README.md)
+  * [5/24/2025](team-meetings/5-24-2025.md)
+
 ## Page Creation Examples
 
 * [Page 4](page-creation-examples/page-4.md)
