@@ -43,6 +43,7 @@
   * [General Artemis Roll Cage Stuff](mechanical/roll-cage/general-artemis-roll-cage-stuff.md)
   * [Artemis FEA](mechanical/roll-cage/artemis-fea.md)
 * [Machining Practices](mechanical/machining-practices.md)
+* [Mech Meetings](mechanical/mech-meetings.md)
 
 ## Electrical
 
