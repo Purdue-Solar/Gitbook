@@ -91,6 +91,9 @@
 
 * [Team Meetings](team-meetings/README.md)
   * [5/24/2025](team-meetings/5-24-2025.md)
+  * [5/31/2025](team-meetings/5-31-2025.md)
+  * [6/8/2025](team-meetings/6-8-2025.md)
+  * [6/21/2025](team-meetings/6-21-2025.md)
 
 ## Page Creation Examples
 

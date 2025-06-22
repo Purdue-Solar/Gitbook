@@ -63,5 +63,5 @@ The front roll bars shall be positioned far enough in front of the driver's head
 
 [https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026\_Regulations\_RevisionA.pdf](https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026_Regulations_RevisionA.pdf)
 
-![](<../../.gitbook/assets/image (1) (1).png>)\
+![](<../../.gitbook/assets/image (1) (1) (2).png>)\
 Shear mounting ideas
