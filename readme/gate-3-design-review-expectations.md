@@ -63,6 +63,7 @@ description: Gate 3 DR Expectations To Follow
 * Show all the CAD and integration with other systems
 * All parts that are used and why they were chosen
 * Mounting points and human factor considered
+* Interfacing between bottom and top-shell interaction
 * FEA on necessary parts, show how the top shell supports are working
 * Safety factors and rule applications
 
@@ -86,7 +87,6 @@ description: Gate 3 DR Expectations To Follow
 * Methods behind why they were designed the way they are
 * How to bond to the topshell and chassis and bottom shell
 * Material selection
-* Interfacing between bottom and top-shell interaction
 * Show application to rules and safety factor
 
 #### Battery Box
