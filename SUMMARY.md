@@ -44,6 +44,7 @@
   * [Artemis FEA](mechanical/roll-cage/artemis-fea.md)
 * [Machining Practices](mechanical/machining-practices.md)
 * [Mech Meetings](mechanical/mech-meetings.md)
+* [Team Meetings](mechanical/team-meetings.md)
 
 ## Electrical
 
