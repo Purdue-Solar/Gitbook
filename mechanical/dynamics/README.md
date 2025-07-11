@@ -6,20 +6,6 @@ description: >-
 icon: tricycle-adult
 cover: ../../.gitbook/assets/2019_01_07_01.webp
 coverY: -136.44533333333334
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Dynamics

@@ -67,7 +67,10 @@
 
 ## Composites
 
-* [Aerodynamics](composites/aerodynamics.md)
+* [Aerodynamics](composites/aerodynamics/README.md)
+  * [Fundamentals](composites/aerodynamics/fundamentals.md)
+  * [Design](composites/aerodynamics/design.md)
+  * [Simulation](composites/aerodynamics/simulation.md)
 * [Bottom Shell](composites/bottom-shell.md)
 * [Structures](composites/structures/README.md)
   * [Molds](composites/structures/molds.md)
