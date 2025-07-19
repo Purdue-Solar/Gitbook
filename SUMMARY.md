@@ -101,6 +101,7 @@
   * [6/21/2025](team-meetings/6-21-2025.md)
   * [7/8/2025 - FSGP 2025 Debrief](team-meetings/7-8-2025-fsgp-2025-debrief.md)
   * [7/12/2025](team-meetings/7-12-2025.md)
+  * [7/19/2025](team-meetings/7-19-2025.md)
 
 ## Page Creation Examples
 
