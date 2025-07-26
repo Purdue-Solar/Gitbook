@@ -44,6 +44,7 @@
   * [Artemis FEA](mechanical/roll-cage/artemis-fea.md)
 * [Machining Practices](mechanical/machining-practices.md)
 * [Mech Meetings](mechanical/mech-meetings.md)
+* [Artemis CAD](mechanical/artemis-cad.md)
 * [Team Meetings](mechanical/team-meetings.md)
 
 ## Electrical
@@ -102,6 +103,7 @@
   * [7/8/2025 - FSGP 2025 Debrief](team-meetings/7-8-2025-fsgp-2025-debrief.md)
   * [7/12/2025](team-meetings/7-12-2025.md)
   * [7/19/2025](team-meetings/7-19-2025.md)
+  * [7/26/2025](team-meetings/7-26-2025.md)
 
 ## Page Creation Examples
 
