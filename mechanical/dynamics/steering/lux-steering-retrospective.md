@@ -13,11 +13,11 @@ The steering system consists of a **Steering Wheel,** connected to the **Steerin
 
 ### Goals
 
-The main goal for our steering system is to maximize efficiency by eliminating scrub. This will be achieved by 1) eliminating bump steer and 2) implementing ackermann steering.
+The main goal for our steering system is to maximize efficiency by eliminating scrub. This will be achieved by 1) eliminating bump steer and 2) implementing Ackermann steering.
 
 ### Project Requirements
 
-<table><thead><tr><th width="151">Requirements</th><th width="80">Priority</th><th width="250">Requirement Description</th><th>Notes/Comments</th><th>Metric</th></tr></thead><tbody><tr><td>Eliminate bump steer</td><td>High<br></td><td>The tie rod and hardpoint system must maintain an instant center as close as possible to the FVSA IC of the suspension (See Hardpoints discussion within dynamics pages)</td><td>Not only does this affect Driver experience, but also efficiency and tire wear.</td><td>Qualitative</td></tr><tr><td>Effective Ackermann Geometry</td><td>Medium<br></td><td>Each "steering hardpoint" must have optimal size/offset from the upright in order to achieve ideal ackermann steering.</td><td>The precise geometry must be determined from the desired turning radius and wheelbase.</td><td>Quantitative steering/tire angle analysis</td></tr><tr><td>Eliminate "Slop"</td><td>Medium<br></td><td>Fittings should be tight, yet designed-for-assembly</td><td>Need effective tolerancing and manufacturing processes</td><td>Qualitative</td></tr></tbody></table>
+<table><thead><tr><th width="151">Requirements</th><th width="80">Priority</th><th width="250">Requirement Description</th><th>Notes/Comments</th><th>Metric</th></tr></thead><tbody><tr><td>Eliminate bump steer</td><td>High<br></td><td>The tie rod and hardpoint system must maintain an instant center as close as possible to the FVSA IC of the suspension (See Hardpoints discussion within dynamics pages)</td><td>Not only does this affect Driver experience, but also efficiency and tire wear.</td><td>Qualitative</td></tr><tr><td>Effective Ackermann Geometry</td><td>Medium<br></td><td>Each "steering hardpoint" must have optimal size/offset from the upright in order to achieve ideal Ackermann steering.</td><td>The precise geometry must be determined from the desired turning radius and wheelbase.</td><td>Quantitative steering/tire angle analysis</td></tr><tr><td>Eliminate "Slop"</td><td>Medium<br></td><td>Fittings should be tight, yet designed-for-assembly</td><td>Need effective tolerancing and manufacturing processes</td><td>Qualitative</td></tr></tbody></table>
 
 
 
@@ -75,7 +75,7 @@ The **Upright** is a part that serves as an interface between the wheel hub, bal
 
 ### Steering Rack
 
-The **Steering Rack** translates driver rotational input to linear "pushing" of the wheels to turn the car. OTS Part.
+The **Steering Rack** translates driver rotational input to linear "pushing" of the wheels to turn the car. COTS Part.
 
 **Chassis Consideration:** Chassis wall-wall length is 20 inches. Need to account for 2.5+ in of travel in steering rack. Therefore rack (+extensions) needs to be \~27 inches total.
 
@@ -119,7 +119,7 @@ _The geometry of Ackermann steering_ (Carroll, ch 9)
 
 ![](https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/Ackerman_Steering_Linkage.gif)
 
-_Depiction of Ackermann steering prinicple in motion. NOTE: This is not what actual implementation of geometry should look like. The steering bar must be constrained to move linearly._
+_Depiction of Ackermann steering principle in motion. NOTE: This is not what actual implementation of geometry should look like. The steering bar must be constrained to move linearly._
 
 <figure><img src="https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-9-23_13-55-37.png" alt="" width="375"><figcaption></figcaption></figure>
 
