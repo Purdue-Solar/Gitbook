@@ -22,7 +22,7 @@ Let's start with some terminology and definitions ([#glossary](introduction-and-
 
 <mark style="color:green;">**Kingpin Inclination**</mark> (<mark style="color:green;">**KPI**</mark>) / <mark style="color:yellow;">**Steering Axis Inclination**</mark>: From a front view (or a rear view), KPI is the angle of the kingpin axis relative to vertical. A <mark style="color:green;">positive KPI</mark> means the upper ball joint is closer to the chassis (more inboard).
 
-<mark style="color:green;">**Scrub Radius**</mark>: From a front view, scrub radius is the horizontal distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. A <mark style="color:green;">positive scrub radius</mark> means the intersection point of the kingpin axis with the ground in more inboard than the center of the tire contact patch.
+<mark style="color:green;">**Scrub Radius**</mark>: From a front view, scrub radius is the horizontal distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. A <mark style="color:green;">positive scrub radius</mark> means the intersection point of the kingpin axis with the ground is more inboard than the center of the tire contact patch.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="231"><figcaption><p>Positive KPI and positive scrub radius</p></figcaption></figure>
 
@@ -34,7 +34,7 @@ Let's start with some terminology and definitions ([#glossary](introduction-and-
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>Positive caster angle</p></figcaption></figure>
 
-<mark style="color:green;">**Mechanical Trail**</mark> (or <mark style="color:yellow;">**Caster Offset**</mark>): From a side view, mechanical trail (or **caster offset**) is the distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. <mark style="color:green;">Positive mechanical trail</mark> means the kingpin axis insection with the ground leads the tire contact patch.&#x20;
+<mark style="color:green;">**Mechanical Trail**</mark> (or <mark style="color:yellow;">**Caster Offset**</mark>): From a side view, mechanical trail (or **caster offset**) is the distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. <mark style="color:green;">Positive mechanical trail</mark> means the kingpin axis intersection with the ground leads the tire contact patch.&#x20;
 
 <mark style="color:green;">**Caster Displacement**</mark>: From a side view, caster displacement is the horizontal distance from the center of the wheel (or the <mark style="color:blue;">axis of wheel rotation</mark>) to the kingpin axis. <mark style="color:green;">Positive caster displacement</mark> means the kingpin axis leads the center of the wheel. Negative caster displacement is sometimes called "<mark style="color:yellow;">caster trail</mark>."
 
