@@ -114,6 +114,8 @@
   * [9/22/2025](team-meetings/9-22-2025.md)
   * [9/29/2025](team-meetings/9-29-2025.md)
   * [10/6/2025](team-meetings/10-6-2025.md)
+  * [10/20/2025](team-meetings/10-20-2025.md)
+  * [10/27/2025](team-meetings/10-27-2025.md)
 
 ## Page Creation Examples
 
