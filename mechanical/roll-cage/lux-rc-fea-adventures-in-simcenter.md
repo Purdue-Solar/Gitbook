@@ -18,7 +18,7 @@ NX hates strange loops. Trying to do FEA on a soup can? You are cooked. Add a ra
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The mesher likes to chop up our soup cans for us. This is sketchy sometimes but mostly works, actually.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The mesher likes to chop up our soup cans for us. This is sketchy sometimes but mostly works, actually.</p></figcaption></figure>
 
 
 
@@ -28,11 +28,11 @@ What if it doesnt? Well idk tbh. Keep trying. Maybe try edge based. Little this,
 
 Ok it finally worked. damn.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
 
 Time to increase fillet size from this.
 

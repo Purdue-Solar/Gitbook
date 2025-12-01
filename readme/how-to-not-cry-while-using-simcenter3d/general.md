@@ -11,8 +11,7 @@ Next, run through this 1d beam analysis:&#x20;
   * If its for PSR, someone else will one day look at your .fem and theyll need to know whats what.&#x20;
   * Collectors, meshes, CBUSH’s, everything. This is an absolute must in an organizational setting where others will review/colloborate on/debug your .fem
 
-\
-
+<br>
 
 **Files/Saving/Logistics**
 

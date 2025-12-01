@@ -151,8 +151,7 @@ theta - Max angle of tire (18+ degrees inside, 15.7 degrees outside, average: 16
 
 Required angle to complete this test: atan(1/3) = 13.24 deg
 
-\
-
+<br>
 
 ![](https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-9-27_23-50-53.png)
 
@@ -160,13 +159,11 @@ _"A reasonable approximation to this geometry may be made as shown in Figure 19.
 
 _**For Lux:** This is the first iteration that needs to be designed for. Also, this looks exactly like a 3 wheel car triangle..._
 
-\
-
+<br>
 
 _For more resources on determining proper geometry: see Pages 271-273 of The Winning Solar Car and chapter 19 of Race Car Vehicle Dynamics_
 
-\
-
+<br>
 
 #### Lux Geometry - The Steering Hardpoint
 
@@ -180,8 +177,7 @@ _Race Car Vehicle Dynamics, Chapter 19, Milliken (Warning: Although extremely us
 
 _The Winning Solar Car, Chapter 9, Carrol (Less in depth, but aimed at solar cars.)_
 
-\
-
+<br>
 
 this is just a spacer
 

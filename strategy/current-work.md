@@ -29,4 +29,4 @@ This could also be used for showing the car to companies with VR/AR if they cann
 
 As more projects are created they should be added to this list. Feel free to be creative, if it peaks you interest and can benefit the club go for it. Share all developments with the strategy director.
 
-\
+<br>

@@ -12,8 +12,7 @@ The team began its resurgence with Apollo. We had very little data on previous c
 
 The final design which was only used during a few tests had one MPU 9250 mounted on the floor by the driver, a thermal couple right next to it, then 4 ultrasonic sensors, one in each corner of the car. This data was then saved to a local SD card all managed by a ESP 32. The ESP also hosted a web server that we could connect to through a webpage to start and stop data collection. Data was stored in csv, then read and graphed using python afterwards.
 
-The data was interesting to look at, but without camera views, multiple people watching, or specific tests in mind we were unable to draw any conclusions.\
-
+The data was interesting to look at, but without camera views, multiple people watching, or specific tests in mind we were unable to draw any conclusions.<br>
 
 ## Lux
 
@@ -22,7 +21,7 @@ An emphasis was put on data collection for Lux although not carried as well as w
 Data collection begins on car start, the Raspberry Pi listens for all CAN messages and stores them. Each one is labeled with a CAN ID that is later used to sort into a more readable format
 
 Collected Data:\
-Data can be found here: [https://purdue0-my.sharepoint.com/personal/saschaef\_purdue\_edu/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsaschaef%5Fpurdue%5Fedu%2FDocuments%2FASC%20Race%20Data\&ga=1](https://purdue0-my.sharepoint.com/personal/saschaef\_purdue\_edu/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsaschaef%5Fpurdue%5Fedu%2FDocuments%2FASC%20Race%20Data\&ga=1)
+Data can be found here: [https://purdue0-my.sharepoint.com/personal/saschaef\_purdue\_edu/\_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsaschaef%5Fpurdue%5Fedu%2FDocuments%2FASC%20Race%20Data\&ga=1](https://purdue0-my.sharepoint.com/personal/saschaef_purdue_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsaschaef%5Fpurdue%5Fedu%2FDocuments%2FASC%20Race%20Data\&ga=1)
 
 The data in the link is the data from the race with most small files (under 5 minutes) removed. We have all data in another folder shared in the GitHub most of this is useless as there is little to relate the data to.
 

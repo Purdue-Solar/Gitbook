@@ -18,8 +18,7 @@ Goals to aim for:
 * Gussets and plates are good
 * Use tube instead of pipe (commonly, 1.5” x 0.12” thickness or 1.75” x 0.12” thickness DOM tubes are used)
 
-\
-
+<br>
 
 General Roll Cage information:
 
@@ -47,19 +46,16 @@ The front roll bars shall be positioned far enough in front of the driver's head
 \
 \
 \
-\
-
+<br>
 
 [https://www.americansolarchallenge.org/ASC/wp-content/uploads/2023/04/Mechanical-Commentary-Rev-D.pdf](https://www.americansolarchallenge.org/ASC/wp-content/uploads/2023/04/Mechanical-Commentary-Rev-D.pdf)
 
-\
-
+<br>
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjHaNNPUjnNxFph2GXDUv22Va7Yslr0y3eYOTnF6rf9PEwRTmpsVm0bW-WK5_zAdWxCyQRNY6sb2KiFtMBdnW2wLtUFSqtK0z2XoAlXYhmYtuu24V573tEVbOfaJ4Jnh6m_zwPcA?key=wlAmq4rYL853Xukwt0eY0yND)
 
 \
-\
-
+<br>
 
 [https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026\_Regulations\_RevisionA.pdf](https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026_Regulations_RevisionA.pdf)
 

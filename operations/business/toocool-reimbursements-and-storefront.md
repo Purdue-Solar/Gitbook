@@ -43,4 +43,4 @@ Notes:&#x20;
 * An APF is required for gas reimbursement. While BOSO does permit receipt reimbursements of gas, they prefer you reimburse per mile. Simply sum up the net gas reimbursement, and divide it by the distance driven to get the per mile number.  You can reimburse up to 0.69 cents per mile. Attach a screenshot of the distance driven from Google Maps that lines up with the locations listed on the APF, and add a comment to the reimburesment stating the per mile cost.&#x20;
 * When adding a note or replying to a note from BOSO, date and sign your messages to add context to the communication.&#x20;
 
-\
+<br>
