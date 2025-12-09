@@ -14,25 +14,25 @@ Let's start with some terminology and definitions ([#glossary](introduction-and-
 
 <mark style="color:green;">**Camber**</mark>: From a front view, camber is the angle of a wheel relative to vertical. <mark style="color:green;">Positive camber</mark> means the top of the wheel is tilted away from the car.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption><p>Camber</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption><p>Camber</p></figcaption></figure>
 
 <mark style="color:green;">**Kingpin Axis**</mark>  ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Kingpin Axis for double wishbone (left), MacPherson strut (right)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Kingpin Axis for double wishbone (left), MacPherson strut (right)</p></figcaption></figure>
 
 <mark style="color:green;">**Kingpin Inclination**</mark> (<mark style="color:green;">**KPI**</mark>) / <mark style="color:yellow;">**Steering Axis Inclination**</mark>: From a front view (or a rear view), KPI is the angle of the kingpin axis relative to vertical. A <mark style="color:green;">positive KPI</mark> means the upper ball joint is closer to the chassis (more inboard).
 
 <mark style="color:green;">**Scrub Radius**</mark>: From a front view, scrub radius is the horizontal distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. A <mark style="color:green;">positive scrub radius</mark> means the intersection point of the kingpin axis with the ground is more inboard than the center of the tire contact patch.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="231"><figcaption><p>Positive KPI and positive scrub radius</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="231"><figcaption><p>Positive KPI and positive scrub radius</p></figcaption></figure>
 
 <mark style="color:green;">**Wheel Center Offset**</mark>: From a front view, wheel center offset is the horizontal distance from the center of the wheel to the kingpin axis. This parameter is often constrained as a minimum value for packaging reasons.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption><p>Wheel Center Offset</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption><p>Wheel Center Offset</p></figcaption></figure>
 
 <mark style="color:green;">**Caster Angle**</mark>: From a side view, caster angle is the angle of the kingpin axis relative to vertical. A <mark style="color:green;">positive caster angle</mark> means the lower ball joint is closer to the front of the car. Sometimes caster angle is referred to simply as <mark style="color:yellow;">caster</mark>.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption><p>Positive caster angle</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>Positive caster angle</p></figcaption></figure>
 
 <mark style="color:green;">**Mechanical Trail**</mark> (or <mark style="color:yellow;">**Caster Offset**</mark>): From a side view, mechanical trail (or **caster offset**) is the distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. <mark style="color:green;">Positive mechanical trail</mark> means the kingpin axis intersection with the ground leads the tire contact patch.&#x20;
 
