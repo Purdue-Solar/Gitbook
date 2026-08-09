@@ -10,7 +10,7 @@ coverY: 0
 
 ## Overview
 
-This CAD screenshot is out of date but generally shows most components Interiors is responsible for and their location in Lux:
+This CAD screenshot is out of date but generally shows most components Interiors is responsible for and their location in Lux (which was the 2024 car) but Artemis (2026) is similar
 
 <figure><img src="../.gitbook/assets/most of interiors.png" alt=""><figcaption><p>Details in table below</p></figcaption></figure>
 
