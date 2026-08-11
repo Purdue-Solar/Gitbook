@@ -1,6 +1,6 @@
-# Motor
+# Telemetry
 
-Intended Author: Haasini Sabbella
+Intended authors: Michael, Victor
 
 1. Purpose
 2. Requirements

@@ -1,6 +1,6 @@
-# Motor
+# CAN debugger
 
-Intended Author: Haasini Sabbella
+Intended Author: Ishaan Pitre
 
 1. Purpose
 2. Requirements

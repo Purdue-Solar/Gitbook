@@ -1,6 +1,6 @@
-# Motor
+# CAN Library
 
-Intended Author: Haasini Sabbella
+Intended authors: Michael Wu
 
 1. Purpose
 2. Requirements

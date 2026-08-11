@@ -111,13 +111,13 @@ The tie rods must be adjustable in length in order tune out bump steer. (pg 724,
 
 _When turning, the radius of the turn will vary by wheel. To account for this, each tire should turn at a slightly different angle than its counterpart on the other side in order to prevent scrubbing (think of this as dragging) across the road._
 
-![](https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-7-29_13-58-56.png)
+<img src="https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-7-29_13-58-56.png" alt="" width="563">
 
 _The geometry of Ackermann steering_ (Carroll, ch 9)
 
 (Upside Down)
 
-![](https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/Ackerman_Steering_Linkage.gif)
+<img src="https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/Ackerman_Steering_Linkage.gif" alt="" height="250" width="213">
 
 _Depiction of Ackermann steering principle in motion. NOTE: This is not what actual implementation of geometry should look like. The steering bar must be constrained to move linearly._
 
@@ -153,7 +153,7 @@ Required angle to complete this test: atan(1/3) = 13.24 deg
 
 <br>
 
-![](https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-9-27_23-50-53.png)
+<img src="https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-9-27_23-50-53.png" alt="" width="375">
 
 _"A reasonable approximation to this geometry may be made as shown in Figure 19.3 ... A good approximation of 'Perfect Ackermann' will be achieved" - Milliken, Ch. 19_
 
@@ -197,5 +197,5 @@ DtoK: .763 in
 
 Expected steering rack travel: 1.25 in each
 
-![](https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-11-3_17-1-50.png)
+<img src="https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-11-3_17-1-50.png" alt="" width="563">
 

@@ -1,6 +1,10 @@
-# Motor
+---
+description: Handles visualization of information for drivers
+---
 
-Intended Author: Haasini Sabbella
+# Display
+
+Intended Authors: Aurora and Rishab&#x20;
 
 1. Purpose
 2. Requirements

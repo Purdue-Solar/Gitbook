@@ -2,6 +2,24 @@
 description: >-
   This page is laid out in order of complexity and depth: the further down you
   scroll, the more in-depth and dense the information becomes.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Introduction and Resources

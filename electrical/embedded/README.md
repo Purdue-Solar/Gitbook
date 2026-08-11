@@ -1,6 +1,0 @@
----
-icon: microchip
----
-
-# Embedded
-

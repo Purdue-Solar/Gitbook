@@ -1,6 +1,6 @@
-# Motor
+# Fans
 
-Intended Author: Haasini Sabbella
+Intended Author: Gavin Loyall
 
 1. Purpose
 2. Requirements

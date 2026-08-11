@@ -1,6 +1,6 @@
-# Motor
+# Backup Camera
 
-Intended Author: Haasini Sabbella
+Intended author: Gavin Loyall
 
 1. Purpose
 2. Requirements

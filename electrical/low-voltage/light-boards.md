@@ -1,6 +1,6 @@
-# Motor
+# Light Boards
 
-Intended Author: Haasini Sabbella
+Intended Author: Joel
 
 1. Purpose
 2. Requirements
