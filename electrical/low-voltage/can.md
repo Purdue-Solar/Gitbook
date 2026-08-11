@@ -20,9 +20,10 @@ CAN is the primary communication protocol used throughout the car. The steering 
    1. Every can line must have two wires: CANH and CANL. These two wires must be connected with each other using 120 ohm resistors.
    2. Each board must have two connection points with the CAN line, because the CAN line has to pass through each component.
    3. Endpoints are devices with one of the two 120 ohm resistors.
-   4. Ideally, the CAN connection points use RJ45 connectors, but in practice other connectors are used for compatibility with off-the-shelf parts.
-   5. The can library has a file which describes the CAN definition in exact detail. It should always reflect the CAN definition spreadsheet, which is the source of truth.
-   6. Other architectural details regarding CAN are in the can definition spreadsheet.
+   4. System CAN Baud-rate: 500kps
+   5. Ideally, the CAN connection points use RJ45 connectors, but in practice other connectors are used for compatibility with off-the-shelf parts.
+   6. The can library has a file which describes the CAN definition in exact detail. It should always reflect the CAN definition spreadsheet, which is the source of truth.
+   7. Other architectural details regarding CAN are in the can definition spreadsheet.
 4. Rationale
    1. The method of choosing IDs for CAN messages came from the fact that the CAN protocol prioritizes lower CAN ids. Safety critical messages were prioritized over supplementary telemetry messages
    2. Every CAN message has distinct sources and destinations because it is easy to do so at this scale without filling up all the CAN ID space. It is entirely possible that strategies to make better use of the CAN ID space will be required in the w.

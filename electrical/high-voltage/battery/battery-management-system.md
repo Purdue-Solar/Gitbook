@@ -19,4 +19,6 @@ Intended author: Han Luu
 8. Bring-up procedures
 9. Lessons learned
 
-The battery manager consists of two parts, the controller and the cell-group monitors.
+The battery manager consists of two parts, the controller and the cell-group monitors
+
+BMS - Multipurpose 4 (MPO4) pin is configurable to provide pwm signal with 10%-90% duty cycle
