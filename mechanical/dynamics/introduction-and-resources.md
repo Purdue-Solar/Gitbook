@@ -24,6 +24,12 @@ layout:
 
 # Introduction and Resources
 
+## Beginner's Intro
+
+Purdue has been designing 3-wheeled bullet-style solar cars since 2023. They feature two wheels in the front, which steer, and one wheel in the rear, which has a motor on it and moves the whole car. The wheels are each attached to the chassis (the main body of the car in which the driver sits) with suspension. Featuring a shock absorber and some sort of stiff arm(s), suspension allows bumps in the road to be absorbed instead of rattling the driver and other fragile components. Suspension geometry - the lengths of the arms, their angles, how they are mounted - helps decide how easy the car is to steer, how prone it is to rolling over, and lots more.
+
+Lux and Artemis both have double wishbone suspension in the front and a trailing arm in the rear.
+
 ## Nomenclature, Important Geometries, and Visualization
 
 Let's start with some terminology and definitions ([#glossary](introduction-and-resources.md#glossary "mention")). I recommend coming back to this section often to remember certain definitions. New terms or definitions are highlighted in <mark style="color:green;">green</mark> or <mark style="color:yellow;">yellow</mark> or <mark style="color:blue;">blue</mark>, with the <mark style="color:yellow;">yellow</mark> terms being an alternative name and the <mark style="color:blue;">blue</mark> terms being a new definition not directly listed in the glossary. Some hard-to-visualize definitions mention a <mark style="color:purple;">video</mark> to reference.

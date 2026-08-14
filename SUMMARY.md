@@ -19,9 +19,6 @@
   * [Brake Rotor](mechanical/brakes/brake-rotor.md)
   * [Brake Pedal](mechanical/brakes/brake-pedal.md)
   * [Parking Brake](mechanical/brakes/parking-brake.md)
-* [ASC 2026 Car Design Parameters](mechanical/asc-2026-car-design-parameters/README.md)
-  * [ASC 2026 Systems](mechanical/asc-2026-car-design-parameters/asc-2026-systems.md)
-  * [ASC 2026 Vehicle Stability](mechanical/asc-2026-car-design-parameters/asc-2026-vehicle-stability.md)
 * [Dynamics](mechanical/dynamics/README.md)
   * [Introduction and Resources](mechanical/dynamics/introduction-and-resources.md)
   * [Vehicle Dynamics Lecture Series](mechanical/dynamics/vehicle-dynamics-lecture-series.md)
@@ -34,6 +31,8 @@
       * [What Went Wrong? What Could be Better?](mechanical/dynamics/suspension/how-lux/what-went-wrong-what-could-be-better.md)
     * [Random Ideas and Research Projects](mechanical/dynamics/suspension/random-ideas-and-research-projects.md)
     * [Suspension Style](mechanical/dynamics/suspension/suspension-style.md)
+  * [Artemis Dynamics](mechanical/dynamics/artemis-dynamics.md)
+  * [Dynamics Calculations](mechanical/dynamics/dynamics-calculations.md)
 * [Interiors](mechanical/interiors.md)
 * [Roll Cage](mechanical/roll-cage/README.md)
   * [Lux FSGP 2025 RC FEA Issues Changelog](mechanical/roll-cage/lux-fsgp-2025-rc-fea-issues-changelog.md)
@@ -45,6 +44,9 @@
 * [Machining Practices](mechanical/machining-practices.md)
 * [Mech Meetings](mechanical/mech-meetings.md)
 * [Artemis CAD](mechanical/artemis-cad.md)
+* [Early Artemis Design Parameters](mechanical/early-artemis-design-parameters/README.md)
+  * [ASC 2026 Systems](mechanical/early-artemis-design-parameters/asc-2026-systems.md)
+  * [ASC 2026 Vehicle Stability](mechanical/early-artemis-design-parameters/asc-2026-vehicle-stability.md)
 * [Team Meetings](mechanical/team-meetings.md)
 
 ## Electrical
