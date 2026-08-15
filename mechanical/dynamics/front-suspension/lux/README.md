@@ -1,6 +1,6 @@
-# How Lux?
+# Lux
 
-## What Ideas were Explored?
+## Designing
 
 ### Suspension Style
 
@@ -16,7 +16,7 @@
 
 ### Shocks
 
-* For mounting the shocks, we considered several different ideas. A pushrod was the top candidate, but with us having basically 0 experience we were concerned about doing it wrong. We were late in the design cycle at this point, and after forgetting that we needed to actually mount the shock to somewhere we needed something quick and simple. Since our suspension was fairly wide and we had already ordered our shocks, the only choices we could see were pushrod or a jank-ass chassis extension. If we were going to mount the shock to the chassis wall, it would have had to sit basically in the middle of our lower wishbone, mounted by some bracket either welded or bolted onto the lower arm. the bending moment on the lower arm would have been massive, and everything would have needed to be very stiff and strong. So unfortunately we were left with the chassis extension idea and I'll explain why it was so bad in [what-went-wrong-what-could-be-better.md](what-went-wrong-what-could-be-better.md "mention").
+* For mounting the shocks, we considered several different ideas. A pushrod was the top candidate, but with us having basically 0 experience we were concerned about doing it wrong. We were late in the design cycle at this point, and after forgetting that we needed to actually mount the shock to somewhere we needed something quick and simple. Since our suspension was fairly wide and we had already ordered our shocks, the only choices we could see were pushrod or a jank-ass chassis extension. If we were going to mount the shock to the chassis wall, it would have had to sit basically in the middle of our lower wishbone, mounted by some bracket either welded or bolted onto the lower arm. the bending moment on the lower arm would have been massive, and everything would have needed to be very stiff and strong. So unfortunately we were left with the chassis extension idea and I'll explain why it was so bad in [manufacturing.md](manufacturing.md "mention").
 * We chose to use Gen 1 Cane Creek DB Coil IL 200mm x 50mm stroke mostly because we got a good discount and they had recently discontinued the Gen 1 product. In restrospect, we could have gone with a little bit longer of an eye-to-length length, but the 50mm stroke length was pretty good for not doing a push/pull rod. Note that the stroke length listed is without the bump stop and spacer that came with, so the actual stroke length ended up being more like 38-40mm. This worked pretty well, and you can alwas reduce stroke length if needed by adding spaces.
 * We used Cane Creek Linear Vault springs. Since we ended up not using a push/pull rod, the effective spring rate at the wheel ended up decreasing with travel, so a progressive spring would have been nice. However, I think linear springs are the way to go if doing a push/pull rod since you have full control over your effective spring rate curve, but I guess its really a matter of personal preference. If you really want to avoid bottoming out or you want a little extra push at the end of your travel, go with progressive. For solar, it really does matter a whole lot as long as you make sure you don't bottom out and you can hit your ride height without insane preload.
 

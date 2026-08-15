@@ -1,2 +1,0 @@
-# Bevel Gear Steering Column
-

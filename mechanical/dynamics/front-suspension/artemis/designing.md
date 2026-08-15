@@ -1,10 +1,10 @@
 ---
-description: >-
-  This page will discuss considerations for shock mounting (push/pull rods,
-  direct mounting)
+description: use info from gates + current leads
 ---
 
-# Suspension Style
+# Designing
+
+## Shock Mounting
 
 **Direct Chassis Shock Mount**
 

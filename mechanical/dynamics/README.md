@@ -1,8 +1,8 @@
 ---
 description: >-
-  This section is dedicated to teaching everything I know about vehicle
-  dynamics, from an introduction to more complex resources, as well as a place
-  to host presentation and notes on vehicle dynamics.
+  Dynamics is the grouping of both the suspension and steering subteams. They
+  use a lot of the same vehicle dynamics theory, as steering behavior can be
+  pretty dependent on suspension geometry.
 icon: tricycle-adult
 cover: ../../.gitbook/assets/2019_01_07_01.webp
 coverY: -136.44533333333334
@@ -31,4 +31,6 @@ layout:
 ---
 
 # Dynamics
+
+
 

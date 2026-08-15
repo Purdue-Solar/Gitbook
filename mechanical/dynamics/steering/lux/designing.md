@@ -1,11 +1,10 @@
 ---
 description: >-
-  A comprehensive guide of how we Lux's steering was created: rack ratio,
-  steering ratio, translating parameters to design, manufacturing, alignment,
-  and more.
+  A comprehensive guide of how Lux's steering was created: rack ratio, steering
+  ratio, translating parameters to design, manufacturing, alignment, and more.
 ---
 
-# Lux Steering Retrospective
+# Designing
 
 ### Project Description
 
@@ -196,6 +195,10 @@ Rack/TR rest angle: 3.8 degrees
 DtoK: .763 in
 
 Expected steering rack travel: 1.25 in each
+
+### Bevel Gear Steering Column
+
+
 
 <img src="https://purdue0.sharepoint.com/sites/PurdueSolarRacing/Shared%20Documents/Lux/Lux_Mechanical/Lux_Dynamics/Steering/image-2023-11-3_17-1-50.png" alt="" width="563">
 
