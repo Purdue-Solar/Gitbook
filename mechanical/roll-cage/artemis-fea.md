@@ -10,8 +10,6 @@ description: Artemis FEA results YIPPEE
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-
-
 <figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 </details>
@@ -51,7 +49,7 @@ Combined Loading Front Loading: **2.14** Safety Factor
 
 5g Rearward Rear Loading: **2.31** Safety Factor
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-07-15 012341.png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt="" width="548"><figcaption></figcaption></figure>
 
 5g Sideways 60 deg Rear Loading: **3.02** Safety Factor
 
@@ -66,4 +64,3 @@ Combined Rear Loading: **1.81** Safety Factor
 <figure><img src="../../.gitbook/assets/image (73).png" alt="" width="519"><figcaption></figcaption></figure>
 
 </details>
-

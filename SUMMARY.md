@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Home](README.md)
-  * [CAD Standards and Pratices](readme/cad-standards-and-pratices/README.md)
+  * [Solar Racing](readme/solar-racing.md)
+  * [CAD Standards and Practices](readme/cad-standards-and-pratices/README.md)
     * [Guide to Product Data Management](readme/cad-standards-and-pratices/guide-to-product-data-management.md)
   * [How to not cry while using SimCenter3D](readme/cad-standards-and-pratices/how-to-not-cry-while-using-simcenter3d.md)
     * [General](readme/how-to-not-cry-while-using-simcenter3d/general.md)
@@ -14,6 +15,12 @@
 
 ## Mechanical
 
+* [General Info](mechanical/general-info/README.md)
+  * [Machining Practices](mechanical/general-info/machining-practices.md)
+  * [Early Artemis Design Notes](mechanical/general-info/early-artemis-design-parameters/README.md)
+    * [Team Meetings](mechanical/general-info/early-artemis-design-parameters/team-meetings.md)
+    * [ASC 2026 Systems](mechanical/general-info/early-artemis-design-parameters/asc-2026-systems.md)
+    * [Artemis CAD](mechanical/general-info/early-artemis-design-parameters/artemis-cad.md)
 * [Brakes](mechanical/brakes/README.md)
   * [Intro and Background](mechanical/brakes/intro-and-background.md)
   * [Brake Rotor](mechanical/brakes/brake-rotor.md)
@@ -65,13 +72,6 @@
   * [Roll Cage Rules](mechanical/roll-cage/roll-cage-rules.md)
   * [General Artemis Roll Cage Stuff](mechanical/roll-cage/general-artemis-roll-cage-stuff.md)
   * [Artemis FEA](mechanical/roll-cage/artemis-fea.md)
-* [Machining Practices](mechanical/machining-practices.md)
-* [Mech Meetings](mechanical/mech-meetings.md)
-* [Artemis CAD](mechanical/artemis-cad.md)
-* [Early Artemis Design Parameters](mechanical/early-artemis-design-parameters/README.md)
-  * [ASC 2026 Systems](mechanical/early-artemis-design-parameters/asc-2026-systems.md)
-  * [ASC 2026 Vehicle Stability](mechanical/early-artemis-design-parameters/asc-2026-vehicle-stability.md)
-* [Team Meetings](mechanical/team-meetings.md)
 
 ## Electrical
 
