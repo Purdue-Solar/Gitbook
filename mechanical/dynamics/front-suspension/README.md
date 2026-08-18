@@ -5,5 +5,8 @@ description: >-
 icon: tire-pressure-warning
 ---
 
-# Suspension
+# Front Suspension
 
+necessary background info:
+
+* fore/aft

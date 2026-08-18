@@ -2,7 +2,7 @@
 description: >-
   Dynamics is the grouping of both the suspension and steering subteams. They
   use a lot of the same vehicle dynamics theory, as steering behavior can be
-  fairly dependent on suspension geometry.
+  fairly dependent on front suspension geometry.
 icon: tricycle-adult
 layout:
   width: default
