@@ -4,7 +4,15 @@ description: use info from gates + current leads
 
 # Designing
 
-## Shock Mounting
+## Goals after Lux
+
+* improve serviceability and adjustability&#x20;
+  * being able to physically assemble and repair more easily
+  * being able to change control arm angles
+
+## Specific Topics
+
+### Shock Mounting
 
 **Direct Chassis Shock Mount**
 
