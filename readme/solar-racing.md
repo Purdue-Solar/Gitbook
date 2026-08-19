@@ -4,10 +4,6 @@ description: What a solar car is, how our team works, and when
 
 # Solar Racing
 
-
-
-<figure><img src="../.gitbook/assets/Screenshot 2026-08-19 123801.png" alt="" width="177"><figcaption></figcaption></figure>
-
 ## Solar Car
 
 Solar car races are usually about endurance more than speed; the winning car travels the furthest distance on just solar energy, meaning the car needs to use that energy very efficiently. Where in regular racecar competitions on closed tracks the idea is to maximize speed through corners, the solar car designer aims to reduce friction wherever possible:
@@ -21,13 +17,19 @@ Solar car races are usually about endurance more than speed; the winning car tra
 
 Additionally, the huge solar array (6 m^2 as of ASC 2026 regulations) means there has to be a large, somewhat flat area of the aero shell pointing up towards the sky. As a result, there are two shapes of top solar car designs: the bullet and the catamaran. The 3-wheeled bullet is what we've been designing and building for the past two cars, and will likely continue to do until we've just about perfected it. The catamaran is named for a style of boats where two bodies are attached by a platform on top, and can have either 3 or 4 wheels. See [Early Artemis Design Notes](https://app.gitbook.com/o/VgqQpOyMtIqpSG170vlO/sites/site_Ly1Ao/s/UuRMvpyeM6qdlkjmzeYV/~/edit/~/changes/182/mechanical/general-info/early-artemis-design-parameters) to know more about why we chose the bullet.
 
-all the parts of the solar car
-
 ## Team Structure
 
-PSR (Purdue Solar Racing) is made up of 4 subteams: Mechanical, Composites, Electrical, and Operations.
+PSR (Purdue Solar Racing) is made up of 4 subteams: Mechanical, Composites, Electrical, and Operations. Each subteam has 1 or 2 directors that keep their team on the right timelines, onboard new members, and oversee their subsystem leads.
 
-The team is led by the President, who serves as the face of the club when interacting with sponsors, other clubs, Purdue departments, and more. They also are meant to be a bridge between Operations and the engineering subteams.
+Operations is in charge of all the non-engineering aspects of running such a large club and going to races. The Treasurer handles the money, of which there is a lot moving around - solar cars are not cheap. PSR has a Marketing Lead, HR Lead, and Logistics Lead that help bring people and sponsors into the club, as well as organize events like the semesterly PSR barbecue and the annual pumpkin carving. Operations also has to organize the logistics of attending the race(s) every year, which is a complicated ordeal of sleeping arrangements and renting cars and making food and more.
+
+The President serves as the face of the club when interacting with sponsors, other clubs, Purdue departments, and more. They also are meant to be a bridge between Operations and the 3 engineering subteams. The Chief Engineer is in charge of maintaining our CAD and file systems' organization. They make sure that integrations between the 3 engineering subteams are well-communicated.
+
+Composites handles the parts of the car that are made of composite materials like carbon fiber, as well as other associated parts. The subsystems of structures and aerodynamics concern the monocoque ("single-shell") structural chassis and the aerodynamic shell, which is divided into the boat-like bottom shell and the top shell where the solar cells are integrated. They make ribs that attach the chassis to the inside of the bottom shell, as well as the battery box, wheel covers and light covers, the canopy (windshield bubble over the driver's head), and more.
+
+Mechanical is made up of the brakes, dynamics (suspension and steering), hubs, roll cage, and interiors subteams. Brakes stop the car, suspension makes it absorb bumps in the road, steering controls where it goes, hubs attach the wheels to the suspension, the roll cage protects the driver from being hit or the car flipping over, and interiors (-and ergonomics) handles everything else the driver interacts with.
+
+Electrical has high voltage, low voltage, and strategy. High voltage concerns the battery and drivetrain (motor), where low voltage is in charge of the auxiliary electrical system that has its own smaller battery, lights, horn, screens for the driver, and more. Embedded works on software to communicate between components, and strategy uses data from the systems (telemetry) while driving to figure out optimal driving speed.
 
 ## Races and Timeline
 

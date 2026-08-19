@@ -1,2 +1,6 @@
+---
+icon: person-seat
+---
+
 # Interiors
 
