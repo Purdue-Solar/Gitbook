@@ -1,6 +1,8 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Screenshot 2026-08-19 125053.png
+cover:
+  light: .gitbook/assets/Screenshot 2026-08-19 125053.png
+  dark: .gitbook/assets/Screenshot 2026-08-19 124326.png
 coverY: 0
 coverHeight: 157
 layout:
