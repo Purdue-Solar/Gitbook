@@ -20,9 +20,7 @@ Last edit on 11/15/2024
 
 ## Video Series
 
-{% embed url="https://youtube.com/playlist?list=PLbimC6Gw8Q9BU-Gq6RMgcE8nyxHtqS5fn&si=KCvRZ8hmtZOwInyQ" %}
-\#Get\_Gud\_V2 - last updated 01/02/2025
-{% endembed %}
+Watch this 36-video [playlist](https://www.youtube.com/playlist?list=PLbimC6Gw8Q9BU-Gq6RMgcE8nyxHtqS5fn) for some thorough lessons on dynamics designing. Originally by Vatsal Jain on Youtube with improvements by our Gus Brannock, last edited Jan 2025.
 
 ### Notes on Videos
 

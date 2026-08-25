@@ -15,6 +15,8 @@ Solar car races are usually about endurance more than speed; the winning car tra
 * very efficient drivetrain and battery
 * low resistance wiring and low energy lights and electronics
 
+<figure><img src="../.gitbook/assets/psr catamaran.jpe" alt="" width="283"><figcaption><p>catamaran-style solar car</p></figcaption></figure>
+
 Additionally, the huge solar array (6 m^2 as of ASC 2026 regulations) means there has to be a large, somewhat flat area of the aero shell pointing up towards the sky. As a result, there are two shapes of top solar car designs: the bullet and the catamaran. The 3-wheeled bullet is what we've been designing and building for the past two cars, and will likely continue to do until we've just about perfected it. The catamaran is named for a style of boats where two bodies are attached by a platform on top, and can have either 3 or 4 wheels. See [Early Artemis Design Notes](https://app.gitbook.com/o/VgqQpOyMtIqpSG170vlO/sites/site_Ly1Ao/s/UuRMvpyeM6qdlkjmzeYV/~/edit/~/changes/182/mechanical/general-info/early-artemis-design-parameters) to know more about why we chose the bullet.
 
 ## Team Structure
@@ -22,6 +24,8 @@ Additionally, the huge solar array (6 m^2 as of ASC 2026 regulations) means ther
 PSR (Purdue Solar Racing) is made up of 4 subteams: Mechanical, Composites, Electrical, and Operations. Each subteam has 1 or 2 directors that keep their team on the right timelines, onboard new members, and oversee their subsystem leads.
 
 Operations is in charge of all the non-engineering aspects of running such a large club and going to races. The Treasurer handles the money, of which there is a lot moving around - solar cars are not cheap. PSR has a Marketing Lead, HR Lead, and Logistics Lead that help bring people and sponsors into the club, as well as organize events like the semesterly PSR barbecue and the annual pumpkin carving. Operations also has to organize the logistics of attending the race(s) every year, which is a complicated ordeal of sleeping arrangements and renting cars and making food and more.
+
+<div><figure><img src="../.gitbook/assets/the whole forrest cooking fsgp.JPG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/DSCF1277.JPG" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-08-25 114054.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 The President serves as the face of the club when interacting with sponsors, other clubs, Purdue departments, and more. They also are meant to be a bridge between Operations and the 3 engineering subteams. The Chief Engineer is in charge of maintaining our CAD and file systems' organization. They make sure that integrations between the 3 engineering subteams are well-communicated.
 
