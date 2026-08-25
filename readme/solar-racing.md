@@ -8,7 +8,7 @@ description: What a solar car is, how our team works, and when
 
 A solar car is a full-sized car, driven by a person inside, that collects energy using its solar array to charge a battery and power a motor.
 
-
+<figure><img src="../.gitbook/assets/Screenshot 2026-08-25 133337.png" alt="" width="375"><figcaption><p>it's a solar car !</p></figcaption></figure>
 
 Solar car races are usually about endurance more than speed; the winning car travels the furthest distance on just solar energy, meaning the car needs to use that energy very efficiently. Where in regular racecar competitions on closed tracks the idea is to maximize speed through corners, the solar car designer aims to reduce friction wherever possible:
 
@@ -50,6 +50,8 @@ Mechanical is made up of the brakes, dynamics (suspension and steering), hubs, r
 #### Electrical
 
 Electrical has high voltage, low voltage, and strategy. High voltage concerns the battery and drivetrain (motor), where low voltage is in charge of the auxiliary electrical system that has its own smaller battery, lights, horn, screens for the driver, and more. Embedded works on software to communicate between components, and strategy uses data from the systems (telemetry) while driving to figure out optimal driving speed.
+
+<div><figure><img src="../.gitbook/assets/Screenshot 2026-08-25 153151.png" alt="" width="161"><figcaption><p>battery pack</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-08-25 154053.png" alt="" width="188"><figcaption><p>solar charging</p></figcaption></figure> <figure><img src="../.gitbook/assets/Screenshot 2026-08-25 155329.png" alt="" width="189"><figcaption><p>steering wheel controls</p></figcaption></figure></div>
 
 ## Races and Timeline
 
