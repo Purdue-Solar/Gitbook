@@ -19,9 +19,7 @@ description: Gate 3 DR Expectations To Follow
 
     * Box moves as you look through the CAD
 
-
-
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of general overview with box</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Example of general overview with box</p></figcaption></figure>
 * Have everything in CAD in it's final form, shown in the slideshow
 * All FEA and any types of load analysis done and shown
 * All parts adhere to rules fully and are shown that they do in the slideshow

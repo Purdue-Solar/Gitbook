@@ -4,14 +4,15 @@
   * [Solar Racing](readme/solar-racing.md)
   * [CAD Standards and Practices](readme/cad-standards-and-pratices/README.md)
     * [Guide to Product Data Management](readme/cad-standards-and-pratices/guide-to-product-data-management.md)
-  * [How to not cry while using SimCenter3D](readme/cad-standards-and-pratices/how-to-not-cry-while-using-simcenter3d.md)
-    * [General](readme/how-to-not-cry-while-using-simcenter3d/general.md)
-    * [The .fem](readme/how-to-not-cry-while-using-simcenter3d/the-.fem.md)
-    * [The .sim](readme/how-to-not-cry-while-using-simcenter3d/the-.sim.md)
   * [Our Sponsors](readme/our-sponsors.md)
   * [Shop Safety](readme/shop-safety.md)
-  * [Gate 1 Design Review Expectations](readme/gate-1-design-review-expectations.md)
-  * [Gate 3 Design Review Expectations](readme/gate-3-design-review-expectations.md)
+  * [Other Resources](readme/other-resources/README.md)
+    * [How to not cry while using SimCenter3D](readme/other-resources/how-to-not-cry-while-using-simcenter3d/README.md)
+      * [General](readme/other-resources/how-to-not-cry-while-using-simcenter3d/general.md)
+      * [The .fem](readme/other-resources/how-to-not-cry-while-using-simcenter3d/the-.fem.md)
+      * [The .sim](readme/other-resources/how-to-not-cry-while-using-simcenter3d/the-.sim.md)
+    * [Gate 1 Design Review Expectations](readme/other-resources/gate-1-design-review-expectations.md)
+    * [Gate 3 Design Review Expectations](readme/other-resources/gate-3-design-review-expectations.md)
 
 ## Mechanical
 
