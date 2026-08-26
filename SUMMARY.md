@@ -106,18 +106,21 @@
 
 ## Composites
 
-* [Aerodynamics](composites/aerodynamics/README.md)
-  * [Fundamentals](composites/aerodynamics/fundamentals.md)
-  * [Design](composites/aerodynamics/design.md)
-  * [Simulation](composites/aerodynamics/simulation.md)
-* [Bottom Shell](composites/bottom-shell.md)
-* [Structures](composites/structures/README.md)
-  * [Altair Hypermesh FEA](composites/structures/altair-hypermesh-fea.md)
-  * [Altair Hypermesh MAT Cards](composites/structures/altair-hypermesh-mat-cards.md)
-  * [Altair Hypermesh Load Cards](composites/structures/altair-hypermesh-load-cards.md)
-  * [Molds](composites/structures/molds.md)
-* [Top Shell](composites/top-shell/README.md)
-  * [Canopy](composites/top-shell/canopy.md)
+## Group 1
+
+* [Aerodynamics](group-1/aerodynamics/README.md)
+  * [Fundamentals](group-1/aerodynamics/fundamentals.md)
+  * [Design](group-1/aerodynamics/design.md)
+  * [Simulation](group-1/aerodynamics/simulation.md)
+* [Structures](group-1/structures/README.md)
+  * [Chassis](group-1/structures/chassis.md)
+  * [Top Shell](group-1/structures/top-shell/README.md)
+    * [Canopy](group-1/structures/top-shell/canopy.md)
+  * [Bottom Shell](group-1/structures/bottom-shell.md)
+  * [Molds](group-1/structures/molds.md)
+  * [Altair Hypermesh FEA](group-1/structures/altair-hypermesh-fea/README.md)
+    * [Altair Hypermesh MAT Cards](group-1/structures/altair-hypermesh-fea/altair-hypermesh-mat-cards.md)
+    * [Altair Hypermesh Load Cards](group-1/structures/altair-hypermesh-fea/altair-hypermesh-load-cards.md)
 
 ## Strategy
 

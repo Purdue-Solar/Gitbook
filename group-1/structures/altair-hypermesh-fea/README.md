@@ -4,7 +4,7 @@ description: A guide to Altair Hypermesh composite FEA
 
 # Altair Hypermesh FEA
 
-<figure><img src="../../.gitbook/assets/Screenshot_20260826_104928.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20260826_104928.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [Slideshow guide](https://docs.google.com/presentation/d/1UXROaVFQWAnqdjul2bFxvcXntUodfhMfZ_6AoO2F8Fg/edit?slide=id.g37a37f01acc_1_221#slide=id.g37a37f01acc_1_221)
@@ -24,7 +24,7 @@ The next step is to create and apply a property with the wanted card image and Z
 
 #### FEA Setup
 
-To begin Altair Hypermesh FEA, create [load and constraint](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/param_inrel_bulk_r.htm#param_inrel_bulk_r) collectors as well as [Load Step](https://2021.help.altair.com/2021.2/hwdesktop/hm/topics/pre_processing/entities/load_steps_r.htm?zoom_highlight=subcase) cards for each analysis.
+To begin Altair Hypermesh FEA, create [load and constraint](altair-hypermesh-load-cards.md) collectors as well as [Load Step](https://2021.help.altair.com/2021.2/hwdesktop/hm/topics/pre_processing/entities/load_steps_r.htm?zoom_highlight=subcase) cards for each analysis.
 
 * Load Collector - Force ([FORCE](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/force_bulk_r.htm)) and/or pressure ([PLOAD](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/pload_bulk_r.htm)) cards applied to the model for analysis.
 * Constraint Collector - Fixed point ([SPC](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/spc_bulk_r.htm)), fixed set ([SPC1](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/spc1_bulk_r.htm)), or inertial relief ([PARAM, INREL](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/param_inrel_bulk_r.htm#param_inrel_bulk_r)) cards to constrain model displacement.
