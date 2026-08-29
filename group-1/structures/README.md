@@ -1,6 +1,0 @@
----
-icon: bridge
----
-
-# Structures
-

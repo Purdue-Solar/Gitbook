@@ -7,7 +7,7 @@ description: A guide to Altair Hypermesh composite FEA
 <figure><img src="../../../.gitbook/assets/Screenshot_20260826_104928.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[Slideshow guide](https://docs.google.com/presentation/d/1UXROaVFQWAnqdjul2bFxvcXntUodfhMfZ_6AoO2F8Fg/edit?slide=id.g37a37f01acc_1_221#slide=id.g37a37f01acc_1_221)
+[Slideshow guide](https://docs.google.com/presentation/d/1UXROaVFQWAnqdjul2bFxvcXntUodfhMfZ_6AoO2F8Fg/edit?usp=sharing)
 {% endhint %}
 
 #### Reasons to Use Altair Hypermesh
