@@ -5,6 +5,7 @@
   * [CAD Standards and Practices](readme/cad-standards-and-pratices/README.md)
     * [Guide to Product Data Management](readme/cad-standards-and-pratices/guide-to-product-data-management.md)
   * [Our Sponsors](readme/our-sponsors.md)
+  * [Vehicle Design Reports](readme/vehicle-design-reports.md)
   * [Shop Safety](readme/shop-safety.md)
   * [Other Resources](readme/other-resources/README.md)
     * [How to not cry while using SimCenter3D](readme/other-resources/how-to-not-cry-while-using-simcenter3d/README.md)
@@ -18,6 +19,7 @@
 
 * [General Info](mechanical/general-info/README.md)
   * [Machining Practices](mechanical/general-info/machining-practices.md)
+  * [CG Height Tipping Procedure](mechanical/general-info/cg-height-tipping-procedure.md)
   * [Early Artemis Design Notes](mechanical/general-info/early-artemis-design-parameters/README.md)
     * [Team Meetings](mechanical/general-info/early-artemis-design-parameters/team-meetings.md)
     * [ASC 2026 Systems](mechanical/general-info/early-artemis-design-parameters/asc-2026-systems.md)
