@@ -20,9 +20,11 @@ Raised height - the height at which the rear is raised, as in the vertical displ
 
 #### Procedure
 
-Make sure all weights are on the car, including the driver with their ballast, top shell, and battery. A ballast bag of the right weight and approximate CG height can replace the battery in a pinch, as long as it doesn't slide too much.
+Make sure all weights are on the car and at the correct height distributions, including the driver with their ballast, top shell, and battery. A ballast bag of the right weight and approximate CG height can replace the battery in a pinch, as long as the bag doesn't slide too much.
 
-Measure the length of the shocks while the car is loaded, after which you can prop up the car and lock the shocks. Locking the shocks may look like sticking a PVC pipe inside the front springs to block the pistons from compressing, and tying zip ties around the rear shock to prevent it from stretching.
+Measure the length of the shocks while the car is fully loaded, after which you can prop up the car and lock the shocks. If the shocks aren't able to lock on their own, then you may have to replace them entirely with a strong rigid object, such as an aluminum plate with bolt holes where the shock eyelets would be when fully loaded.
 
+Place the car onto tared scales (lift one end of the car at a time and have someone slide scales under the wheels). Record the static weight of all three wheels.
 
+Get a box or some sturdy object of a known height greater than 10 inches and carefully raise the car so that the rear wheel rests on the box. The driver should be holding the brakes down whenever the car is raised so it doesn't roll off the scales. Record the new weights of the front wheels.
 

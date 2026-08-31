@@ -1,6 +1,0 @@
----
-icon: octagon
----
-
-# Brakes
-
