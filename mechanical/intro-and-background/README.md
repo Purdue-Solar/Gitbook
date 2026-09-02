@@ -20,16 +20,14 @@ Solar cars generally use hydraulic brakes, which you will nearly always find on 
 
 ## Glossary of Terms
 
-Brake caliper
+Brake caliper - device with pistons that push on the brake rotor with a big hydraulic pinching force
 
-Brake rotor
+Brake rotor - large metal disc attached to the hub, which is pinched to stop the car
 
-Brake pedal
+Brake pedal - foot operated device found in commercial cars that the driver presses to activate the brakes.
 
-Brake pad
+Brake pad - inside the calipers, they have low friction coefficients and are the component that touches the rotor&#x20;
 
-Effective rotor radius
-
-Axle force
+Effective rotor radius - The distance from the center of the pad to the center of the rotor
 
 Braking torque
