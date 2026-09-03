@@ -6,11 +6,9 @@ description: Slides, videos, examples to help you learn the basics of vehicle dy
 
 ## Lecture Slides
 
-#### Basics of Suspension and Steering
+#### Basics of Suspension and Steering Geometry
 
-{% embed url="https://docs.google.com/presentation/d/1X5M0Yzq0o6T3Ig3eqw6W2nCqKcBqxZI_/edit#slide=id.p3" %}
-Last edit on 10/25/2024
-{% endembed %}
+{% embed url="https://docs.google.com/presentation/d/1X5M0Yzq0o6T3Ig3eqw6W2nCqKcBqxZI_/edit?slide=id.p1#slide=id.p1" %}
 
 #### Double Wishbone Design
 
