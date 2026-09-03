@@ -176,6 +176,7 @@
   * [5/31/2026](team-meetings/5-31-2026.md)
   * [6/7/2026](team-meetings/6-7-2026.md)
   * [6/14/2026](team-meetings/6-14-2026.md)
+  * [2/2/2026](team-meetings/2-2-2026.md)
 
 ## Page Creation Examples
 
