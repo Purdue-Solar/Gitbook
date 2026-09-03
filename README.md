@@ -1,10 +1,7 @@
 ---
 icon: hand-wave
-cover:
-  light: .gitbook/assets/Screenshot 2026-08-19 125053.png
-  dark: .gitbook/assets/Screenshot 2026-08-19 124326.png
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
-coverHeight: 157
 layout:
   width: default
   cover:
