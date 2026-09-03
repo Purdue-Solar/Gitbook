@@ -39,4 +39,6 @@ _"As the coach and advisor for a university solar car team, I had the problem of
 
 \- Douglas R. Carroll, _The Winning Solar Car_<br>
 
+Note: Many portions of the Gitbook are works in progress; feedback for leadership on readability, organization, and content are always appreciated.
+
 A massive thank you to GitBook for providing their software free to us!!!
