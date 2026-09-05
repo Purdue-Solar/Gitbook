@@ -20,7 +20,7 @@ Before you begin FEA, you must make sure your model is properly imported into Hy
 
 #### Creating Properties, Sets, and Plies
 
-The next step is to create and apply a property with the wanted card image and Z-offset. Create sets of elements (typical zone-based approach) and plies as needed.
+The next step is to create and apply a property with the wanted card image, Z-offset, and failure criterion (we typically use Tsai-Wu). Create sets of elements (typical zone-based approach) and plies as needed.
 
 #### FEA Setup
 
