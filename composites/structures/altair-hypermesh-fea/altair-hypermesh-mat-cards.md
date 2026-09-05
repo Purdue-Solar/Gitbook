@@ -11,3 +11,5 @@ description: Descriptions for Altair Hypermesh material cards
   * [MAT8](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/mat8_bulk_r.htm) - Linear, temperature-independent, orthotropic 2D elements.
   * [MAT9](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/mat9_bulk_r.htm) - Linear, temperature-independent, anisotropic solid elements.
   * [MAT9OR](https://2021.help.altair.com/2021.2/hwsolvers/os/topics/solvers/os/mat9ort_bulk_r.htm) - Linear, temperature-independent, orthotropic solid elements.
+* [Altair OptiStruct MATF Bulk Data Entry](https://help.altair.com/hwsolvers/os/topics/solvers/os/matf_bulk_r.htm)
+  * Set CRITERIA to TSAI (TSAI3D for MAT9OR)
