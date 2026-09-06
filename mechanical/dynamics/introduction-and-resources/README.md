@@ -1,8 +1,5 @@
 ---
-description: >-
-  This page is laid out in order of complexity and depth: the further down you
-  scroll, the more in-depth and dense the information becomes. *include big
-  picture of solar car theory
+description: Dynamics concepts and how they apply to solar car design
 layout:
   width: default
   title:
@@ -25,23 +22,21 @@ layout:
 
 # Introduction and Resources
 
-## Beginner's Intro
+Solar car suspension and steering in racecars is designed to maximize grip when turning. Because solar cars need to minimize friction, we aim to balance getting enough grip to remain stable with getting rid of friction to save energy.
 
-Purdue has been designing 3-wheeled bullet-style solar cars since 2023. They feature two wheels in the front, which steer, and one wheel in the rear, which has a motor on it and moves the whole car. The wheels are each attached to the chassis (the main body of the car in which the driver sits) with suspension. Featuring a shock absorber and some sort of stiff arm(s), suspension allows bumps in the road to be absorbed instead of rattling the driver and other fragile components. Suspension geometry - the lengths of the arms, their angles, how they are mounted - helps decide how easy the car is to steer, how prone it is to rolling over, and lots more.
-
-Lux and Artemis both have double wishbone suspension in the front and a trailing arm in the rear.
+This page will include suspension and steering design concepts, with key explanations of their applications in solar car engineering.
 
 ## Nomenclature, Important Geometries, and Visualization
 
-Let's start with some terminology and definitions ([#glossary](./#glossary "mention")). I recommend coming back to this section often to remember certain definitions. New terms or definitions are highlighted in <mark style="color:green;">green</mark> or <mark style="color:yellow;">yellow</mark> or <mark style="color:blue;">blue</mark>, with the <mark style="color:yellow;">yellow</mark> terms being an alternative name and the <mark style="color:blue;">blue</mark> terms being a new definition not directly listed in the glossary. Some hard-to-visualize definitions mention a <mark style="color:purple;">video</mark> to reference.
+Let's start with some terminology and definitions (written 2024). I recommend coming back to this section often to remember certain definitions. New terms or definitions are highlighted in <mark style="color:green;">green</mark> or <mark style="color:yellow;">yellow</mark> or <mark style="color:blue;">blue</mark>, with the <mark style="color:yellow;">yellow</mark> terms being an alternative name and the <mark style="color:blue;">blue</mark> terms being a new definition not directly listed in the glossary. Some hard-to-visualize definitions mention a <mark style="color:purple;">video</mark> to reference.
 
 ### Glossary <a href="#glossary" id="glossary"></a>
 
-<mark style="color:green;">**Camber**</mark>: From a front view, camber is the angle of a wheel relative to vertical. <mark style="color:green;">Positive camber</mark> means the top of the wheel is tilted away from the car.
+<mark style="color:green;">**Camber**</mark>: From a front view, camber is the angle of a wheel relative to vertical. <mark style="color:green;">Positive camber</mark> means the top of the wheel is tilted away from the car. We generally aim for 0 camber on solar cars&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption><p>Camber</p></figcaption></figure>
 
-<mark style="color:green;">**Kingpin Axis**</mark>  ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering
+<mark style="color:green;">**Kingpin Axis**</mark> ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Kingpin Axis for double wishbone (left), MacPherson strut (right)</p></figcaption></figure>
 
@@ -59,7 +54,7 @@ Let's start with some terminology and definitions ([#glossary](./#glossary "ment
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="375"><figcaption><p>Positive caster angle</p></figcaption></figure>
 
-<mark style="color:green;">**Mechanical Trail**</mark> (or <mark style="color:yellow;">**Caster Offset**</mark>): From a side view, mechanical trail (or **caster offset**) is the distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. <mark style="color:green;">Positive mechanical trail</mark> means the kingpin axis intersection with the ground leads the tire contact patch.&#x20;
+<mark style="color:green;">**Mechanical Trail**</mark> (or <mark style="color:yellow;">**Caster Offset**</mark>): From a side view, mechanical trail (or **caster offset**) is the distance from the center of the tire contact patch to the point where the kingpin axis intersects the ground. <mark style="color:green;">Positive mechanical trail</mark> means the kingpin axis intersection with the ground leads the tire contact patch.
 
 <mark style="color:green;">**Caster Displacement**</mark>: From a side view, caster displacement is the horizontal distance from the center of the wheel (or the <mark style="color:blue;">axis of wheel rotation</mark>) to the kingpin axis. <mark style="color:green;">Positive caster displacement</mark> means the kingpin axis leads the center of the wheel. Negative caster displacement is sometimes called "<mark style="color:yellow;">caster trail</mark>."
 
@@ -84,7 +79,7 @@ Let's start with some terminology and definitions ([#glossary](./#glossary "ment
 <figure><img src="../../../.gitbook/assets/image (11) (1).png" alt="" width="375"><figcaption><p>Roll center</p></figcaption></figure>
 
 <mark style="color:green;">**Side View Instant Center**</mark> (<mark style="color:green;">**SVIC**</mark>) and <mark style="color:green;">**Side View Swing Arm**</mark> (<mark style="color:green;">**SVSA**</mark>): From a side view, the side view instant center is the imaginary intersection created by tracing lines through the inboard chassis hardpoints. The SVSA is created by drawing a line from the center of the tire contact patch to the SVIC.\
-&#x20;   Now you may be asking: "what happens to the SVIC in a multilink suspension?" The answer is: I have no fucking clue, ask someone smarter. But for real I think when you get to the level of multi-link suspension, you stop relying on these neat and easy to understand tools that we use, and you begin to rely mostly on large and complex systems of nonlinear equations to design and model your suspension. You shouldn't touch multilink suspensions unless you know exactly what you're doing. There's a reason F1 suspension engineers make a lot of money.
+Now you may be asking: "what happens to the SVIC in a multilink suspension?" The answer is: I have no fucking clue, ask someone smarter. But for real I think when you get to the level of multi-link suspension, you stop relying on these neat and easy to understand tools that we use, and you begin to rely mostly on large and complex systems of nonlinear equations to design and model your suspension. You shouldn't touch multilink suspensions unless you know exactly what you're doing. There's a reason F1 suspension engineers make a lot of money.
 
 <mark style="color:green;">**Pitch Center**</mark>: From a side view, the pitch center is the intersection of the SVSAs of the front and rear wheels. Note that different types of suspensions might have different ways of finding the SVSAs and thus the pitch center, I'm not too sure about this, will require more research, but I think for anti squat it depends on how the differential is mounted, but we don't have one so I think the picture below is correct for us. <mark style="color:red;">Note</mark>: As with roll centers, the line joining the left and right side pitch centers creates the <mark style="color:blue;">pitch axis</mark>. The car will pitch about the pitch axis. Ideally the pitch axis is perpendicular to the side view plane of the vehicle.
 
@@ -106,13 +101,12 @@ Let's start with some terminology and definitions ([#glossary](./#glossary "ment
 
 <figure><img src="../../../.gitbook/assets/galleryImage1681287136-2.webp" alt="" width="375"><figcaption><p>Anti-dive geometry</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-13 181343.png" alt="" width="375"><figcaption><p>Anti-dive calculation: there are conflicting sources on how this is<br>actually calculated. I encourage you to research this or write a<br>quick matlab script that varies parameters of interest and<br>calculates percentage<br>(change in force through spring)/(weight transfer) </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-13 181343.png" alt="" width="375"><figcaption><p>Anti-dive calculation: there are conflicting sources on how this is<br>actually calculated. I encourage you to research this or write a<br>quick matlab script that varies parameters of interest and<br>calculates percentage<br>(change in force through spring)/(weight transfer)</p></figcaption></figure>
 
 ***
 
 ### Introductory Playlist
 
-Here is a short playlist on double wishbone front suspension geometry. We will only consider a double wishbone geometry as it introduces the highest level of complexity that we will need, and anything of lower complexity can be derived from what we learn about a double wishbone.
+Here is a two hour playlist (extracted from the 36-video playlist found on the next page) on suspension geometry, essentially reviewing this page with visuals and a few extra concepts. We will only consider a double wishbone geometry in designing the front as it introduces the highest level of complexity that we will need, and anything of lower complexity can be derived from what we learn about a double wishbone.
 
-<mark style="color:orange;">\*embed videos here\*</mark>
-
+[<mark style="color:orange;">https://youtube.com/playlist?list=PLACrfQOk-a\_U\&si=WQF4SZNEjQKkuQyV</mark>](https://youtube.com/playlist?list=PLACrfQOk-a_U\&si=WQF4SZNEjQKkuQyV)

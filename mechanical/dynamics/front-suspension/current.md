@@ -25,7 +25,7 @@ Control arms are otherwise known as A-arms or wishbones. The name double wishbon
 * **lower control arm** consists of one carbon rod and one aluminum triangular part (named lower wishbone fore) that replaces the fore carbon rod
   * inserts and rod ends are similar to upper control arm's
   * the **fore lower wishbone** is aluminum in order to take on more of the bending stresses that carbon rods tend to be vulnerable to
-    * the pushrod is bolted through a built-in bracket on the lower wishbone
+    * the pushrod is bolted through a built-in bracket on the lower wishbone - a pushrod on any other car might be mounted to the bottom of the upright, but we have it on the wishbone fore in order to have those bending stresses more on the aluminum than the carbon
     * it has a slightly bigger swivel joint than the upper wishbone joint and is bolted through to the bottom of the upright
     * similar built-in cylindrical insert for epoxied carbon rod, as well as a threaded hole to put a rod end into
 
