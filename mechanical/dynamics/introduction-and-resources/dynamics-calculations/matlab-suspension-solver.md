@@ -6,7 +6,7 @@ description: >-
 
 # MATLAB Suspension Solver
 
-As the car turns, brakes, or goes over a bump, the tire contact patches experience forces. These forces go through the control arms and tie rods and pushrod in the front, and through the trailing arm endpoints and shock in the rear. To solve for the forces in all those linkages, we set the contact patch forces equal to the linkages’ forces (which we know the direction of using CAD coordinates) and end up with lots of net force equations; this is best handled using matrices in MATLAB. The front sus solver as of 8/29/2026 is pasted at the end of this page.
+As the car turns, brakes, or goes over a bump, the tire contact patches experience forces. These forces go through the control arms and tie rods and pushrod in the front, and through the trailing arm endpoints and shock in the rear. To solve for the forces in all those linkages, we set the contact patch forces equal to the linkages’ forces (which we know the direction of using CAD coordinates) and end up with lots of net force equations; this is best handled using matrices in MATLAB. The front sus solver as of 8/29/2026 is pasted at the end of this page for learning purposes, use the current file in Box for updated CG height.
 
 #### Inputs and how to collect them
 
