@@ -45,4 +45,4 @@ Possible improvements to this for weight optimization could consist of removing 
 
 ## Array Soldering
 
-Array soldering is the most delicate process of encapsulation. The cells are extremely fragile and must be handled in specific manner.&#x20;
+Array soldering is the most delicate process of encapsulation. The cells are extremely fragile and must be handled in specific manner. Fall 2026 onboarding project is coming up with a better way to solder cells more precisely with either stencil or jigs.
