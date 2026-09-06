@@ -1,7 +1,5 @@
 # Aux Battery
 
-Intended Author: Haasini Sabbella
-
 1. Purpose: Solar energy storage to power motor and low-voltage distribution board
 2. Requirements:
    1. Capacity: <5.25kWh

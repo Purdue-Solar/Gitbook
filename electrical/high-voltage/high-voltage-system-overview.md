@@ -1,10 +1,8 @@
 # High Voltage System Overview
 
-Intended author: Han Luu
-
 <img src="../../.gitbook/assets/unknown (1).png" alt="High voltage system diagram" height="205" width="624">
 
-PPE: \
+PPE:\
 [https://docs.google.com/document/d/11vxSX-9wnqPkQms9DxsGn7u1GDEfLAG-RPG2bgVTY4I/edit?usp=sharing](https://docs.google.com/document/d/11vxSX-9wnqPkQms9DxsGn7u1GDEfLAG-RPG2bgVTY4I/edit?usp=sharing)
 
 1. Purpose
