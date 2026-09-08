@@ -4,4 +4,4 @@
 
 Artemis's rear suspension uses a trailing arm design, somewhat like the rear of a motorcycle: one large, stiff aluminum arm with a shock mounted to it and the chassis. Because the rear is where the motor pushes the entire car and because there is only one wheel, a big goal of rear suspension is to achieve stiffness.
 
-Stiffness and strength are different concepts. Stiffness is about rigidity, and strength is resistance to breaking or permanently bending. A rope can be very strong but is not stiff, whereas a glass vase is stiff but can break easily. We do want rear suspension to be strong, as with all critical components on the car, but it is especially important that it be torsionally (twisting) stiff so that it doesn't deform when cornering.
+As the car turns, all the lateral forces that would normally be distributed between two rear wheels are concentrated on the single rear wheel, meaning the rear suspension has to have very good torsional (twisting) stiffness to avoid flexing or deforming.
