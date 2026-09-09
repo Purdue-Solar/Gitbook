@@ -22,7 +22,7 @@ layout:
 
 # Introduction and Resources
 
-Solar car suspension and steering in racecars is designed to maximize grip when turning. Because solar cars need to minimize friction, we aim to balance getting enough grip to remain stable with getting rid of friction to save energy.
+Suspension and steering in racecars is designed to maximize grip when turning. Because solar cars need to minimize friction, we aim to balance getting enough grip to remain stable with getting rid of friction to save energy.
 
 This page will include suspension and steering design concepts, with key explanations of their applications in solar car engineering.
 
@@ -32,11 +32,11 @@ Let's start with some terminology and definitions (written 2024). I recommend co
 
 ### Glossary <a href="#glossary" id="glossary"></a>
 
-<mark style="color:green;">**Camber**</mark>: From a front view, camber is the angle of a wheel relative to vertical. <mark style="color:green;">Positive camber</mark> means the top of the wheel is tilted away from the car. We generally aim for 0 camber on solar cars&#x20;
+<mark style="color:green;">**Camber**</mark>: From a front view, camber is the angle of a wheel relative to vertical. <mark style="color:green;">Positive camber</mark> means the top of the wheel is tilted away from the car. We generally aim for 0 camber on solar cars, because unlike racecars that have some negative camber, we prefer less friction when moving in a straight line over the better grip for turning that camber would provide.
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption><p>Camber</p></figcaption></figure>
 
-<mark style="color:green;">**Kingpin Axis**</mark> ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering
+<mark style="color:green;">**Kingpin Axis**</mark> ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Kingpin Axis for double wishbone (left), MacPherson strut (right)</p></figcaption></figure>
 

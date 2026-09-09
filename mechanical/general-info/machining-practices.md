@@ -10,7 +10,7 @@ icon: hammer
 
 ## CNC Machining
 
-*
+* physical description of how machining works, comes before dfm
 
 ## Manual Machining
 
