@@ -4,11 +4,13 @@ description: Procedure used for finding center of gravity height of physical car
 
 # CG Height Tipping Procedure
 
-The center of gravity (CG) of the car is an important data point used to calculate how the car reacts to various forces. The longitudinal and lateral dimensions of the CG (x and y) are easy to find by placing scales under each wheel and by measuring wheelbase and track width. However, the CG height must be found by lifting the rear wheel a known height off the ground and then doing a little trigonometry. This was especially necessary just after building Artemis when we found that the car was more than 40 kg heavier than we'd designed it to be (314 kg instead of 265) (possibly due to unaccounted-for composites resin and epoxies, and electrical wiring).
+The center of gravity (CG) of the car is an important data point used to calculate how the car reacts to various forces. The longitudinal and lateral dimensions of the CG (x and y) are easy to find by placing scales under each wheel and by measuring wheelbase and track width. However, the CG height must be found by lifting the rear wheel a known height off the ground and then doing a little trigonometry. This was especially necessary just after building Artemis when we found that the car was more than 40 kg heavier than we'd designed it to be (314 kg instead of 265) (possibly due to unaccounted-for composites resin and epoxies, and electrical wiring). <mark style="color:$info;">Ben is amazing.</mark>
 
-<figure><img src="../../.gitbook/assets/artemis in klon.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/artemis in klon.jpg" alt="" width="563"><figcaption><p>At rest car</p></figcaption></figure>
 
-#### Parameters
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>Raised car</p></figcaption></figure>
+
+Parameters
 
 Wheelbase - the distance between the front (or middle of the front wheels) and rear tire contact patches
 
@@ -17,6 +19,8 @@ Static front wheel weight - the combined weight on the front wheels when all 3 a
 Raised front wheel weight - the combined weight on the front wheels when the rear is raised
 
 Raised height - the height at which the rear is raised, as in the vertical displacement of the rear axle - can be approximated by measuring the distance from the bottom of the tire to the scale under it; should be 10 inches or more for increased accuracy
+
+Track width - Track width is the distance between the contact patches of the front wheel (center to center)
 
 #### Calculations
 
