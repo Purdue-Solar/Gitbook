@@ -21,6 +21,7 @@
   * [Good to Know](mechanical/general-info/good-to-know.md)
   * [Machining Practices](mechanical/general-info/machining-practices.md)
   * [CG Height Tipping Procedure](mechanical/general-info/cg-height-tipping-procedure.md)
+  * [Mechanical Component + Chassis Integration](mechanical/general-info/mechanical-component-+-chassis-integration.md)
   * [Early Artemis Design Notes](mechanical/general-info/early-artemis-design-parameters/README.md)
     * [Vehicle Design Reports 2024-2026](mechanical/general-info/early-artemis-design-parameters/vehicle-design-reports-2024-2026.md)
     * [Team Meetings](mechanical/general-info/early-artemis-design-parameters/team-meetings.md)
