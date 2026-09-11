@@ -27,6 +27,7 @@
     * [Team Meetings](mechanical/general-info/early-artemis-design-parameters/team-meetings.md)
     * [ASC 2026 Systems](mechanical/general-info/early-artemis-design-parameters/asc-2026-systems.md)
     * [Artemis CAD](mechanical/general-info/early-artemis-design-parameters/artemis-cad.md)
+  * [Hardware](mechanical/general-info/hardware.md)
 * [Brakes](mechanical/intro-and-background/README.md)
   * [Main Brakes](mechanical/intro-and-background/main-brakes.md)
   * [Parking Brake](mechanical/intro-and-background/parking-brake.md)
