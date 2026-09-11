@@ -1,4 +1,10 @@
-# Mechanical Component + Chassis Integration
+---
+icon: screwdriver
+---
+
+# Assembly
+
+### Mechanical Component + Chassis Integration
 
 * Drill holes (needs more detail)
 * Sand Chassis with 220 grit, lightly scuff all areas

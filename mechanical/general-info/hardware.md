@@ -1,5 +1,6 @@
 ---
 description: Bolts, nuts, pins, bushings, bearings, and more
+icon: screwdriver-wrench
 ---
 
 # Hardware

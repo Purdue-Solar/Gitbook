@@ -1,5 +1,6 @@
 ---
 description: Concepts + quick definitions
+icon: head-side-brain
 ---
 
 # Good to Know

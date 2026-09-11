@@ -1,8 +1,9 @@
 ---
-description: written 2024
+description: Archive - written 2024 for early Artemis
+icon: folders
 ---
 
-# Early Artemis Design Notes
+# Old Design Notes
 
 Preliminary constraints and parameters for ASC 2026. See https://www.americansolarchallenge.org/regulations/solar-car-design-reference-material/ for ASC solar car design materials.
 

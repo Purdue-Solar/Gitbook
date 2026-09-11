@@ -6,9 +6,9 @@ description: Procedure used for finding center of gravity height of physical car
 
 The center of gravity (CG) of the car is an important data point used to calculate how the car reacts to various forces. The longitudinal and lateral dimensions of the CG (x and y) are easy to find by placing scales under each wheel and by measuring wheelbase and track width. However, the CG height must be found by lifting the rear wheel a known height off the ground and then doing a little trigonometry. This was especially necessary just after building Artemis when we found that the car was more than 40 kg heavier than we'd designed it to be (314 kg instead of 265) (possibly due to unaccounted-for composites resin and epoxies, and electrical wiring).
 
-<figure><img src="../../.gitbook/assets/artemis in klon.jpg" alt="" width="563"><figcaption><p>car at rest</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/artemis in klon.jpg" alt="" width="563"><figcaption><p>car at rest</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>car raised</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption><p>car raised</p></figcaption></figure>
 
 ### Parameters
 
@@ -24,7 +24,7 @@ Raised height - the height at which the rear is raised, as in the vertical displ
 
 #### Calculations
 
-<div><figure><img src="../../.gitbook/assets/cg calcs page 1.webp" alt="" width="247"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/cg calcs page 2.webp" alt="" width="247"><figcaption></figcaption></figure></div>
+<div><figure><img src="../../../.gitbook/assets/cg calcs page 1.webp" alt="" width="247"><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/cg calcs page 2.webp" alt="" width="247"><figcaption></figcaption></figure></div>
 
 Images and Matlab script by Casey, with measurements from 9/5/2026
 
