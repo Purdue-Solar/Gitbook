@@ -50,7 +50,6 @@
       * [Performance](mechanical/dynamics/front-suspension/lux/performance.md)
   * [Steering](mechanical/dynamics/steering/README.md)
     * [Manufacturing and Assembly](mechanical/dynamics/steering/manufacturing.md)
-    * [Top/Down Geometry](mechanical/dynamics/steering/top-down-geometry.md)
     * [Previous Designs](mechanical/dynamics/steering/previous-designs/README.md)
       * [Lux](mechanical/dynamics/steering/previous-designs/lux/README.md)
         * [Designing](mechanical/dynamics/steering/previous-designs/lux/designing.md)
