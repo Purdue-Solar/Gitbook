@@ -22,6 +22,7 @@ This [spreadsheet](https://docs.google.com/spreadsheets/d/1loBMHhL5lEdDHvUSlIfMU
 * Bill of Materials (BOM) - list of parts, including hardware
   * [here](https://docs.google.com/spreadsheets/d/1TEpdzDaXZCXzlvgXYFLtNxiyENT4nE1_JZkspxLFQ24/edit?gid=1600730585#gid=1600730585) is the Artemis '26 BOM as an example, though we'll be better organized in the future
 * check rules requirements - grade, threads past the nut if critical
+* safety wiring for blind holes
 * spares
 * check clearances esp for swivel joints
 * think about fitting a wrench in there, the length of a socket, the space that the socket arm has to rotate
@@ -38,6 +39,7 @@ This [spreadsheet](https://docs.google.com/spreadsheets/d/1loBMHhL5lEdDHvUSlIfMU
 * nuts and bolts and washers are so easy to lose, when putting things together or taking them apart do not lose track of them, put them in a bucket or something, and put things where other people will think to look for them
 * sometimes if you have trouble lining up a hole bunch of washers for a shoulder bolt to go through a bracket, you can stick an allen wrench in there and wiggle it a bunch to get them in line
 * socket wrenches are so nice, be careful about keeping sets together
+* sharpie mark on head and surface
 
 ### More Specific
 

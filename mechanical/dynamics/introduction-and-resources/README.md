@@ -26,6 +26,8 @@ Suspension and steering in racecars is designed to maximize grip when turning. B
 
 This page will include suspension and steering design concepts, with key explanations of their applications in solar car engineering.
 
+Note: If you ever see "rear sus" or "front sus" know that "sus" is simply lazy shorthand for "suspension".
+
 ## Nomenclature, Important Geometries, and Visualization
 
 Let's start with some terminology and definitions (written 2024). I recommend coming back to this section often to remember certain definitions. New terms or definitions are highlighted in <mark style="color:green;">green</mark> or <mark style="color:yellow;">yellow</mark> or <mark style="color:blue;">blue</mark>, with the <mark style="color:yellow;">yellow</mark> terms being an alternative name and the <mark style="color:blue;">blue</mark> terms being a new definition not directly listed in the glossary. Some hard-to-visualize definitions mention a <mark style="color:purple;">video</mark> to reference.

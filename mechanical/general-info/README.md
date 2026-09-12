@@ -2,7 +2,9 @@
 
 The mechanical team consists of the brakes, dynamics (suspension and steering), hubs, roll cage, and interiors subsystems.
 
-## Research Resources
+#### Research Resources
+
+Completely optional for general members:
 
 Tune to Win - great resource for general car design, more for racing applications but the basics are applicable for any type of design really
 

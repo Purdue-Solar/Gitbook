@@ -29,5 +29,13 @@ Stock refers to un-machined material. This might be a cylinder of aluminum, or a
 
 Also known as center of mass, CG, or CoG. The car has a center of gravity that we design to be in a certain location by placing large weights (battery, driver) along deliberate locations in the car. The CG has 3 coordinates in the 3D Cartesian coordinate system - x, y, and z. X is longitudinal (forward and back of car), Y is lateral (left and right of car), and Z is height (up and down). The CG height is important in weight transfer calculations as well as for the stability of the car overall.&#x20;
 
+#### Finite Element Analysis
 
+Finite element analysis, or FEA, is a kind of simulation method that allows you to run static stress simulations on CAD modeled parts. Softwares like Ansys or NX will take a CAD model and create a mesh, which models the surface of the part with a lot of tiny geometric shapes (finite elements) that allow it to analyze how the part responds to forces. "FEA" is more or less interchangeable with "stress simulation".
+
+At its simplest, running FEA means putting forces on your part in your computer and letting the colors tell you where it will break. This saves oodles of the money and time it would require to physically make parts to see how they break.
+
+#### Loading
+
+In statics, the word "load" pretty much means "force". A lot of our calculations are statics problems in disguise. For suspension to be "fully loaded" means the full weight of the car is resting on it normally, meaning the shock will probably be compressed by some amount, and the control arms will experience some stresses. You will likely see the word load a lot when doing FEA.
 

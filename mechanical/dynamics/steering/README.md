@@ -44,7 +44,7 @@ layout:
 
 **Steering Wheel:**
 
-<img src="../../../.gitbook/assets/unknown (2).png" alt="Old Upper Steering Assembly Artemis" height="162" width="314">
+<img src="../../../.gitbook/assets/unknown (2).png" alt="Upper Steering Assembly Artemis prior to May 2026" height="162" width="314">
 
 Transfers driver input to rotational energy.&#x20;
 
@@ -60,7 +60,7 @@ Using rigid and/or fewer connections is ideal to increase the efficiency of moti
 
 **Tie-rods**
 
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Tie-Rod on Artemis</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="331"><figcaption><p>Tie-Rod on Artemis</p></figcaption></figure>
 
 Tie-rods are connected to the car's steering rack and tire hubs, they're used to steer the car's tires to the left and right. The angle and length of the tie-rod changes how the car corners and the amount of feedback the driver receives while driving.
 
