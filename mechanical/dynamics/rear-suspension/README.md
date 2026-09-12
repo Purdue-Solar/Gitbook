@@ -17,7 +17,11 @@ The common designs for rear suspension are double wishbone, swingarm, and traili
 
 Double wishbone is what front suspension usually looks like, with two control arms connected to an upright that has the wheel on it. It looks a bit funny on the rear because the control arms are bolted onto the back of the chassis, so the upright has to manage a 90 degree rotation from the control arms to the wheel (compared to front sus). We nearly used double wishbone on Artemis's rear suspension, but decided against it - see [Design](https://app.gitbook.com/o/VgqQpOyMtIqpSG170vlO/sites/site_Ly1Ao/s/UuRMvpyeM6qdlkjmzeYV/~/edit/~/changes/227/mechanical/dynamics/rear-suspension/artemis/design) to know why.
 
-Swingarms are how the back half of motorcycles are attached. The wheel has a big arm that sandwiches either side of it, with an axle going through.&#x20;
+Swingarms are how the back half of motorcycles are attached. The wheel has a big arm that sandwiches either side of it, with an axle going through.
+
+<div><figure><img src="../../../.gitbook/assets/Screenshot 2026-09-12 000224.png" alt="" width="336"><figcaption><p>Early Artemis double wishbone concept</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/Screenshot 2026-09-12 000522.png" alt="" width="248"><figcaption><p>Swingarm on an e-bike</p></figcaption></figure></div>
+
+Trailing arms are like one-sided swingarms, where one hunk of metal with a side-arm holds the wheel on its other side (pictured at the top of the page). The trailing arm design is fairly similar to the swingarm, and I can only presume that we use a trailing arm because it's lighter (although increasing torsional stiffness usually requires adding extra material). The swingarm is worth looking into in the future, although integrating it with the hub motor would be an extra detail to iron out.
 
 #### Compared to Front Sus
 
@@ -38,6 +42,6 @@ We don't need to worry about:
 
 We get the additional nuances of:
 
-* hub motor 🤤
+* drivetrain (hub motor 🤤)
 * torsional stiffness
 * more load than a singular front wheel

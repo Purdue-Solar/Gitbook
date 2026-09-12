@@ -39,7 +39,6 @@
     * [Dynamics Calculations](mechanical/dynamics/introduction-and-resources/dynamics-calculations/README.md)
       * [MATLAB Suspension Solver](mechanical/dynamics/introduction-and-resources/dynamics-calculations/matlab-suspension-solver.md)
   * [Front Suspension](mechanical/dynamics/front-suspension/README.md)
-    * [Current](mechanical/dynamics/front-suspension/current.md)
     * [Artemis](mechanical/dynamics/front-suspension/artemis/README.md)
       * [Designing](mechanical/dynamics/front-suspension/artemis/designing.md)
       * [Manufacturing and Assembly](mechanical/dynamics/front-suspension/artemis/manufacturing.md)

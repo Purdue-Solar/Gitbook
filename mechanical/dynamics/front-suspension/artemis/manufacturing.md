@@ -1,3 +1,7 @@
+---
+description: in-progress
+---
+
 # Manufacturing and Assembly
 
 * awful wishbone bore tolerances (use upper wishbone joint doc to write this section), later easy at me shop

@@ -1,5 +1,5 @@
 ---
-description: incomplete! come back later (or add to it yourself)
+description: in-progress! come back later (or add to it yourself)
 icon: hammer
 ---
 
