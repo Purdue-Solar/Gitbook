@@ -4,12 +4,12 @@ icon: person-falling-burst
 cover: >-
   https://images.unsplash.com/photo-1508808787069-421e7986016e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHx5ZWxsb3d8ZW58MHx8fHwxNzg5MjU1OTYwfDA&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 356
+coverHeight: 218
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true

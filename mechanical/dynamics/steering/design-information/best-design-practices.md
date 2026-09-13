@@ -3,12 +3,12 @@ icon: jenkins
 cover: >-
   https://images.unsplash.com/photo-1581985673473-0784a7a44e39?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8d2hpdGUlMjBwaW5rJTIwYmx1ZXxlbnwwfHx8fDE3ODkyNjY3NTN8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 356
+coverHeight: 162
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true
@@ -33,7 +33,7 @@ layout:
 ### So generally for solar vehicles we want:
 
 * <mark style="color:$warning;">**100% Ackerman**</mark>
-* <mark style="color:$tint;">**Small Scrub Radius**</mark>&#x20;
+* <mark style="color:$primary;">**Small Scrub Radius**</mark>&#x20;
 * **Zero Static Camber**
 * <mark style="color:cyan;">**Negative Camber Gain**</mark>
 * <mark style="color:blue;">**Positive Caster Angle**</mark>

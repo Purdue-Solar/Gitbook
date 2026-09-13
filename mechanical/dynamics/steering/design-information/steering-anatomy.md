@@ -3,12 +3,12 @@ icon: lungs
 cover: >-
   https://images.unsplash.com/photo-1507471509451-1d04d60f896d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxyZWQlMjBmbG93ZXJzfGVufDB8fHx8MTc4OTI1NjA5Mnww&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 356
+coverHeight: 215
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true

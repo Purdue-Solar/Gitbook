@@ -3,12 +3,12 @@ icon: ruler-triangle
 cover: >-
   https://images.unsplash.com/photo-1707046024830-d503f94f4311?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxncmVlbiUyMGZsb3dlcnN8ZW58MHx8fHwxNzg5MjU2MTMwfDA&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 353
+coverHeight: 217
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true

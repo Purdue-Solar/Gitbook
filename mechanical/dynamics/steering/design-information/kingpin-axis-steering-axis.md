@@ -3,12 +3,12 @@ icon: chess-king
 cover: >-
   https://images.unsplash.com/photo-1530533718754-001d2668365a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxibHVlJTIwZmxvd2Vyc3xlbnwwfHx8fDE3ODkyNTYxNjZ8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 356
+coverHeight: 215
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true

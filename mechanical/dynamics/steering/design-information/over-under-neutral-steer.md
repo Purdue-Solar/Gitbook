@@ -1,14 +1,14 @@
 ---
 icon: carpool
 cover: >-
-  https://images.unsplash.com/photo-1534885320675-b08aa131cc5e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxwdXJwbGUlMjBmbG93ZXJzfGVufDB8fHx8MTc4OTI1NjI0NXww&ixlib=rb-4.1.0&q=85
+  https://images.unsplash.com/photo-1558350315-8aa00e8e4590?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxwdXJwbGUlMjBmbG93ZXJzfGVufDB8fHx8MTc4OTI1NjI0NXww&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 358
+coverHeight: 217
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true

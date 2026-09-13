@@ -3,12 +3,12 @@ icon: tricycle
 cover: >-
   https://images.unsplash.com/photo-1665524234045-163af33b8a7d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxvcmFuZ2UlMjBmbG93ZXJzfGVufDB8fHx8MTc4OTI1NjA3MHww&ixlib=rb-4.1.0&q=85
 coverY: 0
-coverHeight: 352
+coverHeight: 216
 layout:
   width: default
   cover:
     visible: true
-    size: background
+    size: hero
     mask: radial
   title:
     visible: true

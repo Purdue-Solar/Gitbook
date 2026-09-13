@@ -2,7 +2,7 @@
 icon: skull-cow
 cover: ../../../../.gitbook/assets/Screenshot 2026-09-12 115219.png
 coverY: 0
-coverHeight: 254
+coverHeight: 263
 layout:
   width: default
   cover:
