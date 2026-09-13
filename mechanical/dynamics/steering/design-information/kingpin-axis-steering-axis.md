@@ -62,7 +62,7 @@ The angle of the Kingpin Axis from a front view is called the **Kingpin Inclinat
 The angle of the Kingpin Axis from a side view is called the **Caster Angle.** Positive caster angles are angled towards the front of the vehicle whereas negative caster angles are angled towards the back of the vehicle. The caster angle affects:
 
 * How the car rises and falls during cornering. This produces a self centering effect.
-* Camber gain: A positive camber angle results in negative camber gain and vice versa.
+* Camber gain: A positive caster angle results in negative camber gain and vice versa.
 {% endcolumn %}
 {% endcolumns %}
 

@@ -55,7 +55,7 @@
       * [Parallel, Ackerman, and Anti-Ackerman](mechanical/dynamics/steering/design-information/parallel-ackerman-and-anti-ackerman.md)
       * [Kingpin Axis/Steering Axis](mechanical/dynamics/steering/design-information/kingpin-axis-steering-axis.md)
       * [Over/Under/Neutral Steer](mechanical/dynamics/steering/design-information/over-under-neutral-steer.md)
-      * [BEST DESIGN PRACTICES/ (things to avoid)](mechanical/dynamics/steering/design-information/best-design-practices-things-to-avoid.md)
+      * [BEST DESIGN PRACTICES](mechanical/dynamics/steering/design-information/best-design-practices.md)
     * [Manufacturing and Assembly](mechanical/dynamics/steering/manufacturing.md)
     * [Previous Designs](mechanical/dynamics/steering/previous-designs/README.md)
       * [Lux](mechanical/dynamics/steering/previous-designs/lux/README.md)

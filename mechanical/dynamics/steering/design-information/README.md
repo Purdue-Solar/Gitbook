@@ -38,7 +38,4 @@ layout:
 * **Kingpin Axis**
 * **Over/Under/Neutral Steer**
 * **Steering Ratio**
-* **Best Design Practices/ Things to Avoid**
-  * **Bump Steer**
-  * **Slop!**
-  * **DFM/ previous mistakes**
+* **Best Design Practices**
