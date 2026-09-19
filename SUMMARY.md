@@ -56,6 +56,8 @@
       * [Kingpin Axis/Steering Axis](mechanical/dynamics/steering/design-information/kingpin-axis-steering-axis.md)
       * [Over/Under/Neutral Steer](mechanical/dynamics/steering/design-information/over-under-neutral-steer.md)
       * [BEST DESIGN PRACTICES](mechanical/dynamics/steering/design-information/best-design-practices.md)
+      * [How to Design Artemis Steering](mechanical/dynamics/steering/design-information/how-to-design-artemis-steering.md)
+      * [Artemis Steering Lessons Learned](mechanical/dynamics/steering/design-information/artemis-steering-lessons-learned.md)
     * [Manufacturing and Assembly](mechanical/dynamics/steering/manufacturing.md)
     * [Previous Designs](mechanical/dynamics/steering/previous-designs/README.md)
       * [Lux](mechanical/dynamics/steering/previous-designs/lux/README.md)
