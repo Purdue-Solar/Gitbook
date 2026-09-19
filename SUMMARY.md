@@ -68,6 +68,7 @@
       * [Design](mechanical/dynamics/rear-suspension/artemis/design.md)
     * [Lux](mechanical/dynamics/rear-suspension/lux.md)
 * [Roll Cage](mechanical/roll-cage/README.md)
+  * [How to NX Simcenter](mechanical/roll-cage/how-to-nx-simcenter.md)
   * [Lux FSGP 2025 RC FEA Issues Changelog](mechanical/roll-cage/lux-fsgp-2025-rc-fea-issues-changelog.md)
   * [Lux RC FEA - Adventures in Simcenter](mechanical/roll-cage/lux-rc-fea-adventures-in-simcenter.md)
   * [Prior Art](mechanical/roll-cage/prior-art.md)

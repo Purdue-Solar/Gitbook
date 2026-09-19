@@ -39,7 +39,7 @@ _These are things you want to have before starting the steering design._
 * Front suspension geometry and hardpoints are set. For Artemis, I began the steering design with finalized hardpoints for the double wishbone front suspension.
 * Wireframe model containing wheel locations, front suspension hardpoints, wishbone lengths, and kingpin axis
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (103).png" alt="" width="382"><figcaption><p>The front suspension wireframe model should look something like this.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (103) (1).png" alt="" width="382"><figcaption><p>The front suspension wireframe model should look something like this.</p></figcaption></figure></div>
 
 #### Priority 1: How to Design for Ackermann Steering
 
@@ -55,13 +55,13 @@ The steering knuckle (the point where the tie rod connects to the upright) shoul
 3. The knuckle point can realistically attached to the upright
 4. Avoid interferences with the upright, wheel, hubs, and brakes
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (106).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (106) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (108).png" alt="" width="536"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (108) (1).png" alt="" width="536"><figcaption></figcaption></figure></div>
 
 Sketch from Artemis design:
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (105).png" alt="" width="246"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (105) (1).png" alt="" width="246"><figcaption></figcaption></figure></div>
 
 #### Priority 1: How to Minimize Bump Steer
 
@@ -81,7 +81,7 @@ Now that we've found the location of the steering knuckle point in the top view 
 
 Refer to figure 19.7 in Race Car Vehicle Dynamics
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (107).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (107) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 How to achieve this geometry:
 
