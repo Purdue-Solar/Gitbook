@@ -146,7 +146,8 @@
 
 ***
 
-* [ASC 2026 Observing](asc-2026-observing.md)
+* [ASC 2026 Observing](asc-2026-observing/README.md)
+  * [Samyak Notes](asc-2026-observing/samyak-notes.md)
 * [Team Meetings](team-meetings/README.md)
   * [5/24/2025](team-meetings/5-24-2025.md)
   * [5/31/2025](team-meetings/5-31-2025.md)
