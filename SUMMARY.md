@@ -19,6 +19,8 @@
 
 * [General Info](mechanical/general-info/README.md)
   * [Good to Know](mechanical/general-info/good-to-know.md)
+  * [Design](mechanical/general-info/design/README.md)
+    * [FEA](mechanical/general-info/design/fea.md)
   * [Hardware](mechanical/general-info/hardware.md)
   * [Manufacturing](mechanical/general-info/machining-practices.md)
   * [Assembly](mechanical/general-info/assembly.md)
