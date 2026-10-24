@@ -84,6 +84,10 @@
 ## Electrical
 
 * [High Voltage](electrical/high-voltage/README.md)
+  * [Embedded Systems](electrical/embedded-systems/README.md)
+    * [Developer Environment](electrical/embedded-systems/developer-environment.md)
+    * [Programming Standards](electrical/embedded-systems/programming-standards.md)
+    * [Documentation Standards](electrical/embedded-systems/documentation-standards.md)
   * [Energy Storage](electrical/high-voltage/energy-storage/README.md)
     * [Battery Configuration](electrical/high-voltage/energy-storage/battery-configuration.md)
     * [Aux Battery](electrical/high-voltage/energy-storage/aux-battery.md)
