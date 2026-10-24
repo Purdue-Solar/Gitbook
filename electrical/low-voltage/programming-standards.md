@@ -38,16 +38,12 @@ The steering wheel component on the car that competes in 2028 should be called `
 ### Project Structure
 Projects should follow the following file structure (where a trailing `/` indicates a directory):
 ```
-├── .vscode/
-├── inc/
+├── include/
 ├── lib/
 ├── src/
 ├── .gitignore
-├── .gitmodules
-├── CMakeLists.txt
-└── pico_sdk_import.cmake
+└── .gitmodules
 ```
-To follow this structure, start **all** projects as a fork of the team project template.
 
 {% hint style="info" %}
 #### Directories
@@ -98,24 +94,6 @@ Any modern IDE should be able to detect the documentation comment associated wit
 
 Minimize writing comments that are not documentation comments to explain or otherwise note parts of code as much as possible. If there is a block of code that that feels like it needs a comment explaining what it does to make sense, try to see if you can refactor it to have it make more sense on its own, rather than papering over the messiness with a comment. Of course, if there is something that truly cannot be simplified or refactored yet is still messy enough to warrant commenting, do comment it, but try your best to not write code like that.
 </details>
-
-### Project Summary
-All projects must have a project summary as their `README.md`. The project summary should be kept up-to-date during the development of the project. Project summaries must include all relevant section described below.
-
-#### Description
-Description of what the project is, does, and other relevant summary information.
-
-#### Usage
-Information required to deploy and use the project.
-
-#### Project Requirements
-Checklist of requirements project must fulfill and if they are currently completed.
-
-#### Hardware
-List of all hardware required for the project with links to relevant documentation.
-
-#### Software
-List of all external software required for the project with links to relevant documentation.
 
 
 ## Version Control
