@@ -82,12 +82,7 @@
   * [Lux](mechanical/interiors/interiors.md)
 
 ## Electrical
-
 * [High Voltage](electrical/high-voltage/README.md)
-  * [Embedded Systems](electrical/embedded-systems/README.md)
-    * [Developer Environment](electrical/embedded-systems/developer-environment.md)
-    * [Programming Standards](electrical/embedded-systems/programming-standards.md)
-    * [Documentation Standards](electrical/embedded-systems/documentation-standards.md)
   * [Energy Storage](electrical/high-voltage/energy-storage/README.md)
     * [Battery Configuration](electrical/high-voltage/energy-storage/battery-configuration.md)
     * [Aux Battery](electrical/high-voltage/energy-storage/aux-battery.md)
@@ -97,6 +92,9 @@
   * [Battery Management System](electrical/high-voltage/battery/battery-management-system.md)
   * [Fans](electrical/high-voltage/fans.md)
 * [Low Voltage](electrical/low-voltage/README.md)
+  * [Developer Environment](electrical/low-voltage/developer-environment.md)
+  * [Programming Standards](electrical/low-voltage/programming-standards.md)
+  * [Documentation Standards](electrical/low-voltage/documentation-standards.md)
   * [Power Distribution Board Overview](electrical/low-voltage/power-distribution-board-overview/README.md)
     * [Lux's Power Distribution Board](electrical/low-voltage/power-distribution-board-overview/luxs-power-distribution-board.md)
   * [Display](electrical/low-voltage/display.md)
