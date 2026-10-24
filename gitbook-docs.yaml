@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Purdue Solar Racing
+  structure:
+    - type: space
+      key: space-1
+      title: Purdue Solar Racing
+      path: purdue-solar-racing
+      default: true
+      content:
+        directory: ./purdue-solar-racing
