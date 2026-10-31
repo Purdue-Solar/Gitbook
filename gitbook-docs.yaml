@@ -7,5 +7,3 @@ site:
       title: Purdue Solar Racing
       path: purdue-solar-racing
       default: true
-      content:
-        directory: ./purdue-solar-racing
