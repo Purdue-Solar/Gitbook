@@ -5,7 +5,7 @@ icon: octagon
 
 # Brakes
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt="" width="563"><figcaption><p>exploded CAD of Lux front hub, spindle, and rotor assembly</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption><p>exploded CAD of Lux front hub, spindle, and rotor assembly</p></figcaption></figure>
 
 ## What do we need to make?
 
@@ -26,7 +26,7 @@ Brake rotor - large metal disc attached to the hub, which is pinched to stop the
 
 Brake pedal - foot operated device found in commercial cars that the driver presses to activate the brakes.
 
-Brake pad - inside the calipers, they have low friction coefficients and are the component that touches the rotor&#x20;
+Brake pad - inside the calipers, they have low friction coefficients and are the component that touches the rotor
 
 Effective rotor radius - The distance from the center of the pad to the center of the rotor
 

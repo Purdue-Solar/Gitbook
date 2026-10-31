@@ -7,7 +7,7 @@ icon: head-side-brain
 
 #### Center of Gravity
 
-Also known as center of mass, CG, or CoG. The car has a center of gravity that we design to be in a certain location by placing large weights (battery, driver) along deliberate locations in the car. The CG has 3 coordinates in the 3D Cartesian coordinate system - x, y, and z. X is longitudinal (forward and back of car), Y is lateral (left and right of car), and Z is height (up and down). The CG height is important in weight transfer calculations as well as for the stability of the car overall.&#x20;
+Also known as center of mass, CG, or CoG. The car has a center of gravity that we design to be in a certain location by placing large weights (battery, driver) along deliberate locations in the car. The CG has 3 coordinates in the 3D Cartesian coordinate system - x, y, and z. X is longitudinal (forward and back of car), Y is lateral (left and right of car), and Z is height (up and down). The CG height is important in weight transfer calculations as well as for the stability of the car overall.
 
 #### Track Width & Wheel Base
 
@@ -29,13 +29,13 @@ Stock refers to un-machined material. This might be a cylinder of aluminum, or a
 
 Finite element analysis, or FEA, is a kind of simulation method that allows you to run static stress simulations on CAD modeled parts. Softwares like Ansys or NX will take a CAD model and create a mesh, which models the surface of the part with a lot of tiny geometric shapes (finite elements) that allow it to analyze how the part responds to forces. "FEA" is more or less interchangeable with "stress simulation".
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-09-12 010823.png" alt="" width="180"><figcaption><p>colorsss</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-09-12 010823 (1).png" alt="" width="180"><figcaption><p>colorsss</p></figcaption></figure>
 
 At its simplest, running FEA means putting forces on your part in your computer and letting the colors tell you where it will break. This saves oodles of the money and time it would require to physically make parts to see how they break.
 
 #### Loading
 
-In statics, the word "load" pretty much means "force". A lot of our calculations are statics problems in disguise. For suspension to be "fully loaded" means the full weight of the car is resting on it normally, meaning the shock will probably be compressed by some amount, and the control arms will experience some stresses. You will likely see the word load a lot when doing FEA.&#x20;
+In statics, the word "load" pretty much means "force". A lot of our calculations are statics problems in disguise. For suspension to be "fully loaded" means the full weight of the car is resting on it normally, meaning the shock will probably be compressed by some amount, and the control arms will experience some stresses. You will likely see the word load a lot when doing FEA.
 
 A "load case" is a specific physical situation where certain loads would be placed on the part. FEA is run for different load cases for the same part - will a bracket break if it gets pulled on really hard? If it is hit from the side? If it's pushed really hard?
 
@@ -51,4 +51,4 @@ Stiffness and strength are different concepts. Stiffness is about rigidity, and 
 
 When materials undergo forces, they experience forces over areas, which creates stress patterns throughout the part. You'll learn this in ME 270 (statics) if you're in mechanical engineering, but there are several kinds of stresses according to the direction they act on a part. Depending on a material's properties, it will be more prone to yielding to some kinds of stresses than others. For example, an aluminum rod with a cross-sectional area shaped like an I is likely stronger against bending than a carbon tube of similar dimensions. There is math behind this that is easily learned.
 
-<div><figure><img src="../../.gitbook/assets/Screenshot 2026-09-12 010150.png" alt="" width="563"><figcaption><p>The main kinds of stress patterns</p></figcaption></figure> <figure><img src="../../.gitbook/assets/i beam.jpe" alt="" width="224"><figcaption><p>an I-beam, strong against bending stresses</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/Screenshot 2026-09-12 010150 (1).png" alt="" width="563"><figcaption><p>The main kinds of stress patterns</p></figcaption></figure> <figure><img src="../../.gitbook/assets/i beam (1).jpe" alt="" width="224"><figcaption><p>an I-beam, strong against bending stresses</p></figcaption></figure></div>

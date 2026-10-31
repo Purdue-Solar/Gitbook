@@ -48,11 +48,9 @@ Criteria for modules going on the pack:\
 Resistance of < 0.2 mOhms difference per module\
 Battery hardware:<br>
 
-<img src="../../../.gitbook/assets/unknown (1).jpeg" alt="" height="429.8613861386139" width="321">
+<img src="../../../.gitbook/assets/unknown (1) (1).jpeg" alt="" height="429.8613861386139" width="321">
 
-&#x20;
-
-<img src="../../../.gitbook/assets/unknown (3).jpeg" alt="" height="234" width="280">
+<img src="../../../.gitbook/assets/unknown (3) (1).jpeg" alt="" height="234" width="280">
 
 Radlocks RL9036-101 radloks - M4 (get M4 nuts)\
 Nickel cutting - Nickel 201 0.5mm thick\

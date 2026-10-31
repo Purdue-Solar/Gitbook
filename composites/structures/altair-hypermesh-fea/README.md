@@ -4,7 +4,7 @@ description: A guide to Altair Hypermesh composite FEA
 
 # Altair Hypermesh FEA
 
-<figure><img src="../../../.gitbook/assets/Screenshot_20260826_104928.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_20260826_104928 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [Slideshow guide](https://docs.google.com/presentation/d/1UXROaVFQWAnqdjul2bFxvcXntUodfhMfZ_6AoO2F8Fg/edit?usp=sharing)

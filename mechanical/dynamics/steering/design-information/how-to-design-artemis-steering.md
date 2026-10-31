@@ -55,13 +55,13 @@ The steering knuckle (the point where the tie rod connects to the upright) shoul
 3. The knuckle point can realistically attached to the upright
 4. Avoid interferences with the upright, wheel, hubs, and brakes
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (106) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (106) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 <div align="left"><figure><img src="../../../../.gitbook/assets/image (108) (1).png" alt="" width="536"><figcaption></figcaption></figure></div>
 
 Sketch from Artemis design:
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (105) (1).png" alt="" width="246"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (105) (1) (1).png" alt="" width="246"><figcaption></figcaption></figure></div>
 
 #### Priority 1: How to Minimize Bump Steer
 
@@ -69,26 +69,18 @@ Now that we've found the location of the steering knuckle point in the top view 
 
 1. Orient to a front view of the car (Y-Z plane for Artemis)
 
-
-
-
-
-
-
-
-
 ## How to Minimize Bump Steer
 
 Refer to figure 19.7 in Race Car Vehicle Dynamics
 
-<div align="left"><figure><img src="../../../../.gitbook/assets/image (107) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (107) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 How to achieve this geometry:
 
 * Orient to a front view of the car
 * Project the point you just chose for Ackermann steering to get your size-to-side geometry
-* Pick a realistic point&#x20;
+* Pick a realistic point
 * The tie rod must intersect the location where the upper and lower wishbone connect in the middle (roll center?)
 * Move wireframe model of the upright and wishbones up and down. The steering knuckle point will trace out a circular path
-* The inboard point of the tie rod (where the tie rod attaches to the steering rack) will align to the point on the rack where&#x20;
+* The inboard point of the tie rod (where the tie rod attaches to the steering rack) will align to the point on the rack where
 * Tie rod must remain at specific angle!

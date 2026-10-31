@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Introduction and Resources
@@ -38,7 +40,7 @@ Let's start with some terminology and definitions (written 2024). I recommend co
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption><p>Camber</p></figcaption></figure>
 
-<mark style="color:green;">**Kingpin Axis**</mark> ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering.&#x20;
+<mark style="color:green;">**Kingpin Axis**</mark> ( or <mark style="color:yellow;">**Steering Axis**</mark>): The axis that is created by drawing a straight line joining the outboard upper and lower ball joints is called the kingpin axis or the steering axis. The wheel assembly rotates about this axis when steering.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Kingpin Axis for double wishbone (left), MacPherson strut (right)</p></figcaption></figure>
 
@@ -60,7 +62,7 @@ Let's start with some terminology and definitions (written 2024). I recommend co
 
 <mark style="color:green;">**Caster Displacement**</mark>: From a side view, caster displacement is the horizontal distance from the center of the wheel (or the <mark style="color:blue;">axis of wheel rotation</mark>) to the kingpin axis. <mark style="color:green;">Positive caster displacement</mark> means the kingpin axis leads the center of the wheel. Negative caster displacement is sometimes called "<mark style="color:yellow;">caster trail</mark>."
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt="" width="311"><figcaption><p>Car is moving to the left: positive caster angle,<br>positive mechanical trail (caster offset),<br>and negative caster displacement<br>(shown as caster trail in the image)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt="" width="311"><figcaption><p>Car is moving to the left: positive caster angle,<br>positive mechanical trail (caster offset),<br>and negative caster displacement<br>(shown as caster trail in the image)</p></figcaption></figure>
 
 <mark style="color:green;">**Toe Angle**</mark>: From a top view, toe is the angle of a wheel relative to straight tracking. <mark style="color:green;">Toe in</mark> means the front of the wheel is pointed in toward the chassis, and <mark style="color:green;">toe out</mark> means the front of the wheel is pointed out away from the chassis.
 
@@ -93,7 +95,7 @@ Now you may be asking: "what happens to the SVIC in a multilink suspension?" The
 
 <mark style="color:green;">**Camber Thrust**</mark>: Camber thrust is a force that pushes the car in the direction of whatever side of the tire is deformed. If you have negative camber, the camber thrust points toward the chassis. This is one is a little tough to describe, but take the picture shown below: a single point on the inside of the tire (if negative camber) wants to roll on an ellipse when projected on the ground from a top view. Due to the no-slip condition with the road, friction causes this point is pulled into the straight line on the road, and this effect is known as camber thrust. This is why, when traveling in a straight line, camber wastes energy and increases tire wear, reducing the efficiency of the solar car.
 
-<figure><img src="../../../.gitbook/assets/Camber_thrust.png" alt="" width="224"><figcaption><p>Depiction of path traveled by point on<br>tire with camber, and how camber<br>thrust arises</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Camber_thrust (1).png" alt="" width="224"><figcaption><p>Depiction of path traveled by point on<br>tire with camber, and how camber<br>thrust arises</p></figcaption></figure>
 
 <mark style="color:green;">**Ackermann Steering**</mark>: A steering geometry where the inside wheel turns at a sharper angle than the outside wheel is called Ackermann geometry. The reason this is exists is to reduce the the scrub on the tire during low-speed cornering. In the picture, the lines perpendicular to the wheels' headings intersect at the same point on the rear axle, so this would be called 100% Ackermann. Anti-Ackermann means that the outside wheel turns more than the inside wheel. Anti-Ackermann is really only desirable in high-speed corners, where an anti-Ackermann setup can increase the traction on the inside tire. Since we don't care about high-speed cornering and tire wear is crucial for us, we will typically run 100% Ackermann.
 
@@ -101,9 +103,9 @@ Now you may be asking: "what happens to the SVIC in a multilink suspension?" The
 
 <mark style="color:green;">**Anti-Dive / Anti-Squat Geometry**</mark>: Anti-geometry refers to changing the amount that the springs will compress under due to acceleration or braking. Anti-dive refers to putting less of the weight transfer under braking through the front springs, and anti-squat refers to putting less of the weight transfer under acceleration through the rear springs. This helps control how much the car will pitch under braking and acceleration. 100% anti-dive means that 100% of the pitch moment from braking will be counteracted in the suspension arms and none will be absorbed by the springs. <mark style="color:red;">Note</mark>: anti-geometry does not change the weight transfer or the wheel loads; it only affects how the weight transfer is distributed between the control arms and the springs.
 
-<figure><img src="../../../.gitbook/assets/galleryImage1681287136-2.webp" alt="" width="375"><figcaption><p>Anti-dive geometry</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/galleryImage1681287136-2 (1).webp" alt="" width="375"><figcaption><p>Anti-dive geometry</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-13 181343.png" alt="" width="375"><figcaption><p>Anti-dive calculation: there are conflicting sources on how this is<br>actually calculated. I encourage you to research this or write a<br>quick matlab script that varies parameters of interest and<br>calculates percentage<br>(change in force through spring)/(weight transfer)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-11-13 181343 (1).png" alt="" width="375"><figcaption><p>Anti-dive calculation: there are conflicting sources on how this is<br>actually calculated. I encourage you to research this or write a<br>quick matlab script that varies parameters of interest and<br>calculates percentage<br>(change in force through spring)/(weight transfer)</p></figcaption></figure>
 
 ***
 

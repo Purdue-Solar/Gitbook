@@ -26,21 +26,21 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Over/Under/Neutral Steer
 
-![](<../../../../.gitbook/assets/unknown (24).png>)
+![](<../../../../.gitbook/assets/unknown (24) (1).png>)
 
 #### Oversteer:
 
-A steering condition where the vehicle turns less than expected. This is caused by a higher lateral force on the rear tires compared to the front tires.&#x20;
+A steering condition where the vehicle turns less than expected. This is caused by a higher lateral force on the rear tires compared to the front tires.
 
-#### &#x20;Understeer:
+#### Understeer:
 
 A steering condition where the vehicle turns more than expected. This is caused by a higher lateral force on the front tires compared to the front tires.
-
-
 
 #### Neutral-Steer:
 

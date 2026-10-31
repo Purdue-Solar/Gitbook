@@ -43,4 +43,4 @@ Front Suspension:
 Chassis
 
 * Driver seat should be simplfied\
-  ![](<../../../.gitbook/assets/image (66).png>)
+  ![](<../../../.gitbook/assets/image (66) (1).png>)
