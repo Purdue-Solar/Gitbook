@@ -94,7 +94,7 @@
   * [Battery Management System](electrical/high-voltage/battery/battery-management-system.md)
   * [Fans](electrical/high-voltage/fans.md)
 * [Embedded Systems](electrical/low-voltage/README.md)
-  * [Developer Environment](electrical/low-voltage/developer-environment.md)
+  * [Required Software](electrical/low-voltage/developer-environment.md)
   * [Low Voltage System Overview](electrical/low-voltage/low-voltage-system-overview/README.md)
     * [CAN](electrical/low-voltage/low-voltage-system-overview/can/README.md)
       * [CAN debugger](electrical/low-voltage/low-voltage-system-overview/can/can-debugger.md)

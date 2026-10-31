@@ -1,4 +1,8 @@
-# Developer Environment
+---
+description: Software required to develop software and hardware on the team
+---
+
+# Required Software
 
 ## Integrated Development Environment
 
@@ -6,7 +10,7 @@
 
 ### PlatformIO Extension
 
-[PlatformIO](developer-environment.md) is a development platform for working with a wide array of microcontrollers. To use PlatformIO, download the PlatformIO Visual Studio Code extension.
+[PlatformIO](developer-environment.md) is a development platform for working with a wide array of microcontrollers. To use PlatformIO, download the [PlatformIO Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide).
 
 PlatformIO manages toolchains (including compilers, build systems, and software deployment) individually for each project, allowing for easy project setup. To set up a project using PlatformIO, place the corresponding `platformio.ini` configuration file for the project's microcontroller in the project root.
 
@@ -30,10 +34,14 @@ framework = arduino
 {% endtab %}
 {% endtabs %}
 
+## PCB Design
+
+[KiCAD](https://www.kicad.org/) is the electronic design automation software used for PCB design on the team.
+
 ## Version Control
 
 [Git](https://git-scm.com/) is the version control software used on the team.
 
-## Code Hosting
+## Project Hosting
 
-[GitHub](https://github.com/) is the code host for the team. The team has a [GitHub organization](https://github.com/Purdue-Solar) which hosts the team's code, PCB designs, documentation, and other team resources.
+[GitHub](https://github.com/) is the code and PCB design host for the team. The team has a [GitHub organization](https://github.com/Purdue-Solar) which hosts the team's code, PCB designs, documentation, and other team resources.
