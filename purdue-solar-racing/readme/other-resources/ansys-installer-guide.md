@@ -36,4 +36,8 @@ Navigate to **Web Licensing** > **Products** > **Roaming.** You will need to cha
 
 You should be able to check out licenses now! I woudl recommend setting the expiration date of your license check out to be the end of your work session. This way, other people will be able to use them later!&#x20;
 
+<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+
+To double check that you are using PSR's Ansys licensing, the top bar should read **\[Ansys Academic Research Mechanical (1 task) - Shared Web]**. If it reads something use, then it is not using the correct license. If that is the case, please speak with your system lead or Chief Engineer.&#x20;
+
 Thank you for following this guide! If there are any errors, please let me (Kira) know :)
