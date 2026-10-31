@@ -100,7 +100,7 @@
       * [CAN debugger](electrical/low-voltage/low-voltage-system-overview/can/can-debugger.md)
   * [Standards](electrical/low-voltage/standards/README.md)
     * [Documentation Standards](electrical/low-voltage/standards/documentation-standards.md)
-    * [Programming Standards](electrical/low-voltage/standards/programming-standards.md)
+    * [Software Standards](electrical/low-voltage/standards/programming-standards.md)
   * [Libraries](electrical/low-voltage/libraries/README.md)
     * [CAN Library](electrical/low-voltage/libraries/can-library.md)
   * [Components](electrical/low-voltage/components/README.md)

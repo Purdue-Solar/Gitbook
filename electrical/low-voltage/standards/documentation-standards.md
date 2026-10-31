@@ -1,25 +1,31 @@
 # Documentation Standards
 
-## Project Summary
-All projects must have a project summary as their `README.md`. The project summary should be kept up-to-date during the development of the project. Project summaries must include all relevant section described below.
+Projects must be documented in the Libraries or Components section. Documentation should include all relevant sections listed below.
 
-### Description
+## Description
+
 Description of what the project is, does, and other relevant summary information.
 
-### Usage
+## Usage
+
 Information required to deploy and use the project.
 
-#### Connections
+### Connections
+
 List of connections that need to be made between this board and other components.
 
-#### Pinouts
-If the board has a microcontroller, list the pinouts between the microntroller pins and other components.
+### Pinouts
 
-### Hardware
+If the board has a microcontroller, list the pinouts between the microcontroller pins and other components.
+
+## Hardware
+
 List of all hardware required for the project with links to relevant documentation.
 
-### Software
+## Software
+
 List of all external software required for the project with links to relevant documentation.
 
-### Project Requirements
+## Project Requirements
+
 Checklist of requirements project must fulfill and if they are currently completed.
