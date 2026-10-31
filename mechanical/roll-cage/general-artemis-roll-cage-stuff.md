@@ -7,8 +7,6 @@ Questions to ask:
 * What materials? Bar dimensions? Thickness?
 * Outsourcing?
 
-
-
 Goals to aim for:
 
 * Minimum bending of tubes
@@ -27,10 +25,8 @@ General Roll Cage information:
 Previous Design Reviews:
 
 * Lux roll cage model specs [https://docs.google.com/spreadsheets/d/1ymPTH4kJ\_c1u6qyTFg17GD-LjxHdB0J1/edit?gid=807292489#gid=807292489](https://docs.google.com/spreadsheets/d/1ymPTH4kJ_c1u6qyTFg17GD-LjxHdB0J1/edit?gid=807292489#gid=807292489)
-* Possible Needed Measurements (based on previous designs) [https://www.roguefab.com/building-roll-cage/#Steps-to-Build-the-Roll-Cage](https://www.roguefab.com/building-roll-cage/#Steps-to-Build-the-Roll-Cage)&#x20;
-* FEA: [https://docs.google.com/document/d/1vVsxaPiJVaMXW7hCH9ix0deELAAbDVHwuoJySr1p1g0/edit?tab=t.0](https://docs.google.com/document/d/1vVsxaPiJVaMXW7hCH9ix0deELAAbDVHwuoJySr1p1g0/edit?tab=t.0)&#x20;
-
-&#x20; &#x20;
+* Possible Needed Measurements (based on previous designs) [https://www.roguefab.com/building-roll-cage/#Steps-to-Build-the-Roll-Cage](https://www.roguefab.com/building-roll-cage/#Steps-to-Build-the-Roll-Cage)
+* FEA: [https://docs.google.com/document/d/1vVsxaPiJVaMXW7hCH9ix0deELAAbDVHwuoJySr1p1g0/edit?tab=t.0](https://docs.google.com/document/d/1vVsxaPiJVaMXW7hCH9ix0deELAAbDVHwuoJySr1p1g0/edit?tab=t.0)
 
 [https://www.americansolarchallenge.org/ASC/wp-content/uploads/2017/11/Roll-Cage-Notes.pdf](https://www.americansolarchallenge.org/ASC/wp-content/uploads/2017/11/Roll-Cage-Notes.pdf)
 
@@ -59,5 +55,5 @@ The front roll bars shall be positioned far enough in front of the driver's head
 
 [https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026\_Regulations\_RevisionA.pdf](https://www.americansolarchallenge.org/ASC/wp-content/uploads/2024/12/ASC2026_Regulations_RevisionA.pdf)
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)\
+![](<../../.gitbook/assets/image (74).png>)\
 Shear mounting ideas

@@ -14,11 +14,11 @@ Array design can be a bit of a challenge and time crunch because it heavily reli
 
 * As of now (Nov. 2024) there are 3 main car designs that teams use: Three-wheel asymmetric catamaran, Four-wheel asymmetric catamaran, and Three-wheel bullet.
 
-<figure><img src="../../../.gitbook/assets/three_wheel_asym (1).jpg" alt=""><figcaption><p>Three-Wheel Asymmetric Catamaran</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/three_wheel_asym.jpg" alt=""><figcaption><p>Three-Wheel Asymmetric Catamaran</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/four_wheel_asym (1) (1).jpg" alt=""><figcaption><p>Four-Wheel Asymmetric Catamaran</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/four_wheel_asym (1).jpg" alt=""><figcaption><p>Four-Wheel Asymmetric Catamaran</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Three_wheel_bullet (1).jpg" alt=""><figcaption><p>Three-Wheel Bullet (Our 2024 Car)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Three_wheel_bullet.jpg" alt=""><figcaption><p>Three-Wheel Bullet (Our 2024 Car)</p></figcaption></figure>
 
 * Based on the three main designs, **the ideal setup for solar is either the three or four-wheel asymmetric catamaran**. It has a wide top shell, which limits the variety of sizes of your sub arrays. They can be made with many of the same size sub-array, reducing risk and difficulty when manufacturing.
 * Bullet is do-able, you just have to take care with the size of sub-arrays, try to make them mostly the same size.

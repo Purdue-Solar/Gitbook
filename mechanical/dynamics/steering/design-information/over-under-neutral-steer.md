@@ -32,7 +32,7 @@ layout:
 
 # Over/Under/Neutral Steer
 
-![](<../../../../.gitbook/assets/unknown (24) (1).png>)
+![](<../../../../.gitbook/assets/unknown (24).png>)
 
 #### Oversteer:
 

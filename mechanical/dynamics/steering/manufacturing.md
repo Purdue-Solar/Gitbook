@@ -4,7 +4,7 @@ description: Manufactured Parts for Artemis(Add details later, just list now)
 
 # Manufacturing and Assembly
 
-<figure><img src="../../../.gitbook/assets/IMG_3763 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IMG_3763.jpg" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:blue;">**Steering Bracket**</mark>
   * CAD: NX

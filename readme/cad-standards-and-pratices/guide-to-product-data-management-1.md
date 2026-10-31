@@ -9,7 +9,7 @@ description: >-
 
 ### Assemblies
 
-<figure><img src="../../.gitbook/assets/siemens assembly flowchart (1).png" alt="" width="519"><figcaption><p>watch <a href="https://youtu.be/bbtpvibk4Po?is=dNVO6PZIOZ4pJrJ7">this</a> for a thorough understanding</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/siemens assembly flowchart.png" alt="" width="519"><figcaption><p>watch <a href="https://youtu.be/bbtpvibk4Po?is=dNVO6PZIOZ4pJrJ7">this</a> for a thorough understanding</p></figcaption></figure>
 
 PSR Uses a Top Down - Bottom Up approach to assemblies.
 
@@ -23,7 +23,7 @@ PSR Uses a Top Down - Bottom Up approach to assemblies.
 
 The best way to understand the system is by practicing it yourself. [This document](https://docs.google.com/document/d/15HrRm2HiU8R01lRwW0lauaZjhwGq3Oqzdrx-hO2FBW4/edit?tab=t.0) is a core part of mechanical onboarding and walks you through building a handbrake assembly with our system.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-09-02 113459 (1).png" alt="" width="563"><figcaption><p>CAD this handbrake in NX!</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-09-02 113459.png" alt="" width="563"><figcaption><p>CAD this handbrake in NX!</p></figcaption></figure>
 
 ### Naming Convention
 

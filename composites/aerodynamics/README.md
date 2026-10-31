@@ -7,4 +7,4 @@ icon: wind
 
 shits hard yo, hopefully this page makes it less hard
 
-<figure><img src="../../.gitbook/assets/image (65) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>

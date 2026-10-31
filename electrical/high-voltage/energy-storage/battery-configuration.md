@@ -37,7 +37,7 @@ Criteria for modules going on the pack:
 
 Battery hardware:
 
-<div><img src="../../../.gitbook/assets/unknown (3).jpeg" alt="" height="676.6488576386432" width="508.1763341067285"> <img src="../../../.gitbook/assets/unknown (34).png" alt="" height="163" width="195"></div>
+<div><img src="../../../.gitbook/assets/unknown.jpeg" alt="" height="676.6488576386432" width="508.1763341067285"> <img src="../../../.gitbook/assets/unknown.png" alt="" height="163" width="195"></div>
 
 * Radlocks RL9036-101 radloks - M4 (get M4 nuts)
 * Nickel cutting - Nickel 201 0.5mm thick

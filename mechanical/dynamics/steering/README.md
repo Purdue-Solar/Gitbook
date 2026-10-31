@@ -1,7 +1,7 @@
 ---
 description: WELCOME TO THE STEERING PAGE RAGGHHH
 icon: steering-wheel
-cover: ../../../.gitbook/assets/Screenshot 2026-09-03 153537 (1).png
+cover: ../../../.gitbook/assets/Screenshot 2026-09-03 153537.png
 coverY: 0
 coverHeight: 293
 layout:

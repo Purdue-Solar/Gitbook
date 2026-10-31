@@ -5,7 +5,7 @@ icon: octagon
 
 # Brakes
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="563"><figcaption><p>exploded CAD of Lux front hub, spindle, and rotor assembly</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt="" width="563"><figcaption><p>exploded CAD of Lux front hub, spindle, and rotor assembly</p></figcaption></figure>
 
 ## What do we need to make?
 

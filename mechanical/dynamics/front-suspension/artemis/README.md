@@ -8,11 +8,11 @@ Artemis has double wishbone front suspension with a pushrod, mounted on either s
 
 ## Assembly
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 011428 (1).png" alt=""><figcaption><p>Front right suspension assembly in CAD of Artemis before FSGP 2026</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 011428.png" alt=""><figcaption><p>Front right suspension assembly in CAD of Artemis before FSGP 2026</p></figcaption></figure>
 
 ### Control Arms
 
-<div><figure><img src="../../../../.gitbook/assets/artemis just wishbones (1).png" alt="" width="313"><figcaption><p>on Artemis</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/standard car double wishbone (1).jpg" alt="" width="188"><figcaption><p>on commercial cars</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/wishbone bone with hands (1).jpg" alt="" width="375"><figcaption><p>on turkeys</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/artemis just wishbones.png" alt="" width="313"><figcaption><p>on Artemis</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/standard car double wishbone.jpg" alt="" width="188"><figcaption><p>on commercial cars</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/wishbone bone with hands.jpg" alt="" width="375"><figcaption><p>on turkeys</p></figcaption></figure></div>
 
 Control arms are otherwise known as A-arms or wishbones. The name double wishbone comes from having two of these arms for each wheel.
 
@@ -20,7 +20,7 @@ Control arms are otherwise known as A-arms or wishbones. The name double wishbon
   * carbon rods are bought from Rockwest Composites and are hollow tubes of layered carbon fiber - they are unidirectional so as to be strong in bending and in compression, yet they are not as strong as aluminum is in bending
   * **rod ends** are hardware, with a threaded rod on one end and a ball in a socket that allows a bolt or similar to rotate within a certain range of motion; these live on the end of each control arm and allow the arms to move up and down while being bolted into hardpoint brackets
 
-<div><figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 011636 (1).png" alt="" width="126"><figcaption><p>rod end!</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012111 (1).png" alt="" width="185"><figcaption><p>upper wishbone joint!</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012218 (1).png" alt="" width="375"><figcaption><p>CAD drawing of lower wishbone fore - notice the I-beams built in</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 011636.png" alt="" width="126"><figcaption><p>rod end!</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012111.png" alt="" width="185"><figcaption><p>upper wishbone joint!</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012218.png" alt="" width="375"><figcaption><p>CAD drawing of lower wishbone fore - notice the I-beams built in</p></figcaption></figure></div>
 
 * the **upper wishbone joint** has a built in bracket where a carbon rod fits in so that the control arm's angle can be adjusted
   * it also has a swivel joint (like the ball in socket of a rod end) that is bolted through to the upright, with a specific range of motion that will help determine max bump
@@ -35,13 +35,13 @@ Control arms are otherwise known as A-arms or wishbones. The name double wishbon
 
 The control arms are attached to the chassis with 4 **hardpoint brackets on** each side of the chassis. The control arms have rod ends at their extremities, which fit into the brackets and are bolted through with shoulder bolts - this way the control arms have a range of motion with respect to the chassis. The brackets themselves are both epoxied to and bolted through the face of the chassis.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012340 (1).png" alt="" width="276"><figcaption><p>Upper fore hardpoint bracket is circled</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012340.png" alt="" width="276"><figcaption><p>Upper fore hardpoint bracket is circled</p></figcaption></figure>
 
 ### Upright
 
 The **upright** is where all 6 linkages on the front suspension come together. The fore and aft of both the upper and lower control arms meet at swivel joints bolted into the upper and lower parts of the upright. The steering tie rod also bolts onto a part of the upright that sticks out, which gets pushed and pulled in order to turn the wheel.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012522 (1).png" alt="" width="233"><figcaption><p>an older Artemis upright design</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 012522.png" alt="" width="233"><figcaption><p>an older Artemis upright design</p></figcaption></figure>
 
 The upright has a big bore in the center where it integrates with the hub and spindle assembly, allowing the wheel to spin while staying attached to the suspension. The hubs assembly is a secret and complicated ordeal that is designed and manufactured by upperclassmen, since it requires upper level mechanical engineering knowledge - all you need to know is that the hubs attach the wheels to the uprights.
 
@@ -55,8 +55,8 @@ A pushrod system is an alternative to the common way of mounting a shock to doub
 
 The **pushrod** itself is a carbon rod, longer than the control arm rods, which mounts to the aluminum lower wishbone on one end and to the triangular **rocker** on the other. The rocker has specific sidelengths so as to have a desired motion ratio, where moving the pushrod by some amount will move the shock by a proportional amount. The rocker rotates about one of its corners, which is bolted to the chassis sitting atop a frustum. The **frustum** distributes force from the small area where the rocker makes contact with it to the larger area where it is bolted and epoxied into the chassis.
 
-<div><figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 100050 (1).png" alt="" width="174"><figcaption><p>pushrod</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 100832 (1).png" alt="" width="164"><figcaption><p>rocker</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 101002 (1).png" alt="" width="203"><figcaption><p>frustum</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 100050.png" alt="" width="174"><figcaption><p>pushrod</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 100832.png" alt="" width="164"><figcaption><p>rocker</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 101002.png" alt="" width="203"><figcaption><p>frustum</p></figcaption></figure></div>
 
 On the last corner of the rocker is where the **shock** is bolted. Shocks, otherwise known as shock absorbers or dampers, are often coilover shocks with a large spring. The shocks we use are gas shocks, so instead of using spring force to absorb energy from bumps, they use nitrogen-infused hydraulics. The other end of the shock is bolted into the **shock mount**, which is in turn bolted to the chassis.
 
-<div><figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 102117 (1).png" alt="" width="108"><figcaption><p>shock 😱</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 102512 (1).png" alt="" width="308"><figcaption><p>shock mount</p></figcaption></figure></div>
+<div><figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 102117.png" alt="" width="108"><figcaption><p>shock 😱</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/Screenshot 2026-09-12 102512.png" alt="" width="308"><figcaption><p>shock mount</p></figcaption></figure></div>

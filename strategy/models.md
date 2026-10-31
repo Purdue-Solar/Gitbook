@@ -4,7 +4,7 @@
 
 This model was originally created to find the maximum acceleration of the car with the intent to see if the car would be able to do a burnout. At first it seemed like a few simple torque calculations but there is much more math behind it. Now the program is able to "accurately" predict the energy use of the car with a few simple inputs. This paragraph goes over the development of the program and problems encountered along the way.
 
-{% file src="../.gitbook/assets/Energy_Consumption_Update (1).py" %}
+{% file src="../.gitbook/assets/Energy_Consumption_Update.py" %}
 Energy Model (Updated 11/2/24)
 {% endfile %}
 
@@ -14,7 +14,7 @@ The general structure of the program is to start with all of the constants given
 
 This program should be valid to find the energy consumed between two positions within 5%. The model is not known to be perfect right now since the CDA for Lux is not certain.
 
-{% file src="../.gitbook/assets/ELEN_alperkerem-Motor_Research (1).pdf" %}
+{% file src="../.gitbook/assets/ELEN_alperkerem-Motor_Research.pdf" %}
 Motor Research Paper
 {% endfile %}
 

@@ -36,7 +36,7 @@ Bicycle Model: A simplified model used to understand the effects of lateral forc
 
 <br>
 
-<img src="../../../../.gitbook/assets/unknown (7) (1).png" alt="" height="424" width="522">
+<img src="../../../../.gitbook/assets/unknown (7).png" alt="" height="424" width="522">
 
 <table><thead><tr><th width="194.199951171875">Variable</th><th>Meaning</th></tr></thead><tbody><tr><td>⍵</td><td>Yawing velocity around center of vehicle</td></tr><tr><td>𝛽</td><td>Vehicle slip angle</td></tr><tr><td>δ</td><td>Front steering angle</td></tr><tr><td>αF</td><td>Front slip angle</td></tr><tr><td>αR</td><td>Rear slip angle</td></tr><tr><td>U</td><td>Forward velocity</td></tr><tr><td>V</td><td>Turning velocity</td></tr><tr><td>R</td><td>Turning Radius</td></tr></tbody></table>
 

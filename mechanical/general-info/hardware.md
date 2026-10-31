@@ -7,7 +7,7 @@ icon: screwdriver-wrench
 
 When we say "hardware" in mechanical engineering, we refer to the standard (often) metal components that secure other parts together and/or help them move more smoothly. The most classic example of this is a bolt and nut, but there are many other pieces of hardware used on the car.
 
-<div><figure><img src="../../.gitbook/assets/image (97) (1).png" alt="" width="175"><figcaption><p>This is a bolt.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (98) (1).png" alt="" width="188"><figcaption><p>Look at these nuts!</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (139).png" alt="" width="175"><figcaption><p>This is a bolt.</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (140).png" alt="" width="188"><figcaption><p>Look at these nuts!</p></figcaption></figure></div>
 
 A large portion of our hardware is ordered directly off of [mcmaster.com](https://mcmaster.com), which we refer to as McMaster. For more specialized hardware like suspension swivel joints, websites like [timken.com](https://timken.com) also come in handy (although be sure that the hardware you're designing for actually exists...). For less specialized hardware, in-person trips to brick and mortar hardware stores like Menards may be quicker.
 

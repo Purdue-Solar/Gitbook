@@ -38,17 +38,17 @@ layout:
 * Tie Rod Length
 * Tie Rod Angle
 
-<img src="../../../../.gitbook/assets/unknown (13) (1).png" alt="" height="292" width="624">
+<img src="../../../../.gitbook/assets/unknown (13).png" alt="" height="292" width="624">
 
 #### Ackerman Steering
 
 A steering geometry where the tire on the inside of the vehicles turning radius turns at a higher rate than the outer wheel. This relationship depends on the ratio of the slip angles between the front tires and the wheel base:
 
-<figure><img src="../../../../.gitbook/assets/image (100) (1).png" alt=""><figcaption><p>Ackerman = arctan (wheelbase/((wheelbase/tangent(outside slip angle) - track length from the front)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Ackerman = arctan (wheelbase/((wheelbase/tangent(outside slip angle) - track length from the front)</p></figcaption></figure>
 
 Ackerman steering geometry is ideal since it produces a minimal amount of scrub against the ground which reduces tire wear and increases cornering efficiency.
 
-<img src="../../../../.gitbook/assets/unknown (14) (1).png" alt="" height="227" width="199">
+<img src="../../../../.gitbook/assets/unknown (14).png" alt="" height="227" width="199">
 
 Aligning the angle of the tie rods to the center of the rear wheel axel is another way some people create Ackerman angles. Ackerman geometry is best for application where the vechicle typically reaches between 30-70 mph.
 

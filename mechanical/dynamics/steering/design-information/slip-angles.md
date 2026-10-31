@@ -37,7 +37,7 @@ layout:
 
 A slip angle is the difference between the direction the tire is heading and where the vehicle actually goes
 
-<img src="../../../../.gitbook/assets/unknown (8) (1).png" alt="Slip angle = alpha" height="205" width="444">
+<img src="../../../../.gitbook/assets/unknown (8).png" alt="Slip angle = alpha" height="205" width="444">
 
 Slip angles are caused by the lateral deformation of a tire during cornering. The lateral grip from the tire's contact patch creates a lateral force that turns the tire away from its expected direction. Calculating slip angles under different forces is important for determining steering geometry characteristics, and turning radius.
 
@@ -51,7 +51,7 @@ What affects slip angles?
 
 Four Wheel Model For Calculating Slip Angle
 
-<img src="../../../../.gitbook/assets/unknown (11) (1).png" alt="" width="448">
+<img src="../../../../.gitbook/assets/unknown (11).png" alt="" width="448">
 
 Variables:
 
@@ -59,7 +59,7 @@ Variables:
 
 Bicycle Model for Calculating Slip Angle
 
-<img src="../../../../.gitbook/assets/unknown (12) (1).png" alt="" width="452">
+<img src="../../../../.gitbook/assets/unknown (12).png" alt="" width="452">
 
 <table><thead><tr><th width="141.4000244140625">Label</th><th>Meaning</th></tr></thead><tbody><tr><td>a</td><td>Distance between the center of the front tire's contact patch to the center of gravity</td></tr><tr><td>b</td><td>Distance between the rear tire's contact patch to the center of gravity</td></tr><tr><td>R</td><td>Turning Radius</td></tr><tr><td>Ff</td><td>Front tire lateral force</td></tr><tr><td>Fr</td><td>Rear tire lateral force</td></tr><tr><td>𝛽</td><td>Vehicle turning angle</td></tr><tr><td>N</td><td>Front wheel angular velocity</td></tr><tr><td>r</td><td>Vehicle angular velocity</td></tr><tr><td>u</td><td>Vehicle forward velocity</td></tr><tr><td>v</td><td>Vehicle turning velocity</td></tr></tbody></table>
 

@@ -28,7 +28,7 @@ Roll Cage (ASC 2026) Requirement:
     * Minimum 30 mm clearance between helmets and padding.
     * Can not obstruct/impair driving FOV (technically can a little, but avoid if possible)
 
-    <figure><img src="../../.gitbook/assets/Screenshot 2026-09-08 170152 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-09-08 170152.png" alt=""><figcaption></figcaption></figure>
 * Designed to deflect body/solar panels away from occupants during accidents. (15 degrees)
 * Documentation Requirements:
   * Teams must submit detailed Occupant Cell designs, safety calculations, and protective measures in various reports.
@@ -40,4 +40,4 @@ FEA Requirements:
 
     * If using titanium or any other non-standard material, a weld test should be conducted
 
-    <figure><img src="../../.gitbook/assets/Screenshot 2026-09-08 170708 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-09-08 170708.png" alt=""><figcaption></figcaption></figure>

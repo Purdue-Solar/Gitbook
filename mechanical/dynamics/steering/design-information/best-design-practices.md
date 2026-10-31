@@ -46,7 +46,7 @@ layout:
 
 #### <mark style="color:$warning;">100% Ackerman Steering:</mark>
 
-<img src="../../../../.gitbook/assets/unknown (31) (1).png" alt="" width="164">
+<img src="../../../../.gitbook/assets/unknown (31).png" alt="" width="164">
 
 Ideal for reducing tire scrub and increasing cornering efficiency
 
@@ -54,27 +54,27 @@ Ideal for reducing tire scrub and increasing cornering efficiency
 
 A large scrub radius increases the lateral grip between the tire contact patch and the road surface which makes steering more difficult and decreases cornering efficiency. Minimizing the scrub radius is key to making steering easier, however, a scrub radius of zero can decrease the feedback the driver gets while cornering and increase instability when cornering. A small negative scrub radius is ideal since it still allows the driver to have feedback while cornering with the added benefit of increasing stability during breaking by causing the one of the front tires to toe out if the other loses traction.
 
-<div><img src="../../../../.gitbook/assets/unknown (22) (1).png" alt="Negative Scrub Radius" height="225" width="226"> <figure><img src="../../../../.gitbook/assets/image (101) (1).png" alt="" width="255"><figcaption><p>Very Large Positive Scrub Radius</p></figcaption></figure></div>
+<div><img src="../../../../.gitbook/assets/unknown (22).png" alt="Negative Scrub Radius" height="225" width="226"> <figure><img src="../../../../.gitbook/assets/image (143).png" alt="" width="255"><figcaption><p>Very Large Positive Scrub Radius</p></figcaption></figure></div>
 
 #### Zero Static Camber
 
 Static camber doesn't really help us too much since it can lead to uneven tire wear while driving straight. Camber is much more beneficial during cornering which is why it's ideal to design a system for camber gain.
 
-<img src="../../../../.gitbook/assets/unknown (32) (1).png" alt="BIG ole static camber" height="234" width="341">
+<img src="../../../../.gitbook/assets/unknown (32).png" alt="BIG ole static camber" height="234" width="341">
 
 #### <mark style="color:cyan;">Negative Camber Gain</mark>
 
 Negative camber gain during cornering is ideal to reducing uneven tire wear and to increase cornering efficiency.
 
-<div><img src="../../../../.gitbook/assets/unknown (25) (1).png" alt="NO CAMBER: Left - Driving Straight, Right - Cornering" width="311"> <img src="../../../../.gitbook/assets/unknown (26) (1).png" alt="CAMBER: Left -  Driving Straight, Right, Cornering" width="334"></div>
+<div><img src="../../../../.gitbook/assets/unknown (25).png" alt="NO CAMBER: Left - Driving Straight, Right - Cornering" width="311"> <img src="../../../../.gitbook/assets/unknown (26).png" alt="CAMBER: Left -  Driving Straight, Right, Cornering" width="334"></div>
 
-<div><img src="../../../../.gitbook/assets/unknown (27) (1).png" alt="Uneven tire wear as a result of not having enough camber" width="375"> <figure><img src="../../../../.gitbook/assets/unknown (28) (1).png" alt="" width="375"><figcaption><p>Camber Gain During Bump</p></figcaption></figure></div>
+<div><img src="../../../../.gitbook/assets/unknown (27).png" alt="Uneven tire wear as a result of not having enough camber" width="375"> <figure><img src="../../../../.gitbook/assets/unknown (28).png" alt="" width="375"><figcaption><p>Camber Gain During Bump</p></figcaption></figure></div>
 
 Negative camber creates camber thrust in the direction of the turn, which makes cornering easier.<br>
 
 #### <mark style="color:blue;">Positive Caster Angle</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (102) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 A positive caster angle creates negative camber gain!
 
@@ -82,7 +82,7 @@ A positive caster angle creates negative camber gain!
 
 Bump steer occurs when a bump moves the wheel in a path inconsistent with the tie rod's path, creating unwanted relative motion (seen as toe in/out) between the wheels and the chassis. We want to avoid this as much as possible! We can avoid bump steer by aligning the tie rods with the front view instant center (the intersection point between the vectors formed by the upper and lower control arms).
 
-<img src="../../../../.gitbook/assets/unknown (33) (1).png" alt="Top Linkage = Upper control arm, Middle Linkage = tie rod, Bottom Linkage = Lower control arm" width="563">
+<img src="../../../../.gitbook/assets/unknown (33).png" alt="Top Linkage = Upper control arm, Middle Linkage = tie rod, Bottom Linkage = Lower control arm" width="563">
 
 #### <mark style="color:violet;">Positive KPI</mark>
 
