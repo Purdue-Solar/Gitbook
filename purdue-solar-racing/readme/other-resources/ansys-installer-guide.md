@@ -6,7 +6,7 @@ description: >-
 
 # Ansys Installer Guide
 
-Navigate to: [https://download.ansys.com/currentReleases](https://download.ansys.com/currentReleases). You may need to create an account. Navigate to **Primary Packages**. For FEA, download the **Structures** package. For CFD, download the **Fluids** package. Keep in mind that each package is roughly 60 GB. The installation will take a while, so make sure you have a stable connection before proceeding.&#x20;
+Navigate to: [https://download.ansys.com/currentReleases](https://download.ansys.com/currentReleases). You may need to create an account. Navigate to **Primary Packages**. For FEA, download the **Structures** package. For CFD, download the **Fluids** package. Keep in mind that each package is roughly 60 GB. The installation will take a while, so make sure you have a stable connection before proceeding. This guide will use the Structures package as an example. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
