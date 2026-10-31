@@ -27,4 +27,50 @@ The best way to understand the system is by practicing it yourself. [This docume
 
 ### Naming Convention
 
-* how to name part files and assemblies according to subteam and subsystem
+**Assembly Files:**
+
+A000X\_AssemblyName.prt
+
+* Assembly name should include the type of assembly (reference/sandbox/final)
+*   The system-level assembly will be called Sub-Assemblies
+
+    * ie. A000X\_BrakesReferenceAssembly.prt
+
+
+
+**Part Files:**
+
+P000X\_\[SA/FA] \_PartName\_Rev\[A/B/...].prt
+
+* Part files should denote which assembly it is under (SA or sandbox and FA for final)
+* There should not be more than one distinct part labeled with the same part number in each subsystem&#x20;
+  * ie. P0001\_SA\_Upright\_RevA.prt and P0001\_SA\_Rocker\_RevA.prt is not ok
+  * ie. P0001\_SA\_Upright\_RevA.prt and P0001\_SA\_TrailingArm\_RevA.prt is ok (different system)
+*   Revisions can share the same part number; they will be denoted by RevA/B/C/...
+
+    * Indicate which revision corresponds to what change in Notion
+    * **FINAL ASSEMBLY PARTS SHOULD NOT HAVE REVISIONS**
+
+
+
+**Off-the-Shelf Parts:**
+
+SXXX\_PartName.prt
+
+* XXX is the ID number of the part&#x20;
+  * ie. for McMaster-Carr hardware: S91259A626\_AlloySteelShoulderScrew.prt
+* McMaster will also download with .stp and .txt files, you can delete these when you have saved the hardware component as a .prt file
+*   For OTS parts that do not have provider ID numbers, start from S0001
+
+    * ie. S0001\_FrontShocks.prt
+
+
+
+**FEA (.fem and .sim) Files:**
+
+P000X\_SA\_PartName\_Rev\[A/B/C...].fem/.sim
+
+* FEA files should not have to be renamed
+* Save FEA files in the FEA folder (PSR FSGP27 > FEA)
+  * Try to get an granular as you can with folders and archives beacuse FEA sims create a lot of extraneous files
+  * **DO NOT SAVE FEA IN THE CAD FOLDER**
