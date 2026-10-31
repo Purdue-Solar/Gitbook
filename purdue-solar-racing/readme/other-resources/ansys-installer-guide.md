@@ -1,7 +1,7 @@
 ---
 description: >-
-  This is a guide to installing Ansys using the PSR license. IF YOU HAVE BEEN
-  ADDED AS A LICENSE USER, PLEASE SPEAK WITH THE CHIEF ENGINEER.
+  This is a guide to installing Ansys using the PSR license. IF YOU HAVE NOT
+  BEEN ADDED AS A LICENSE USER, PLEASE SPEAK WITH THE CHIEF ENGINEER.
 ---
 
 # Ansys Installer Guide
