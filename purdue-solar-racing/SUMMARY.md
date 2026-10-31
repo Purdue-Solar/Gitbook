@@ -14,6 +14,7 @@
       * [The .sim](readme/other-resources/how-to-not-cry-while-using-simcenter3d/the-.sim.md)
     * [Gate 1 Design Review Expectations](readme/other-resources/gate-1-design-review-expectations.md)
     * [Gate 3 Design Review Expectations](readme/other-resources/gate-3-design-review-expectations.md)
+    * [Ansys Installer Guide](readme/other-resources/ansys-installer-guide.md)
 
 ## Mechanical
 
