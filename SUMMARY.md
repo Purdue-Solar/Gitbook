@@ -15,6 +15,10 @@
     * [Gate 1 Design Review Expectations](readme/other-resources/gate-1-design-review-expectations.md)
     * [Gate 3 Design Review Expectations](readme/other-resources/gate-3-design-review-expectations.md)
     * [Ansys Installer Guide](readme/other-resources/ansys-installer-guide.md)
+  * [Artemis SOP's](readme/artemis-sops/README.md)
+    * [Getting in car](readme/artemis-sops/getting-in-car.md)
+    * [Lifting Car](readme/artemis-sops/lifting-car.md)
+    * [Loading Car into trailer](readme/artemis-sops/loading-car-into-trailer.md)
 
 ## Mechanical
 
