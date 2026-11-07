@@ -33,3 +33,7 @@ List of all external software required for the project with links to relevant do
 ## Project Requirements
 
 Checklist of requirements project must fulfill and if they are currently completed, including any applicable race regulations the component must follow.
+
+## Known Issues
+
+List any known issues with this component.

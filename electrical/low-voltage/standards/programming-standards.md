@@ -144,8 +144,7 @@ Headers should be included in a file in the following order:
 1. Header corresponding to the current file
 2. Other project-level headers
 3. Third-party library headers
-4. Pico SDK headers
-5. Standard library headers
+4. Standard library headers
 
 Each category of headers must be separated by an empty line. Headers must be organized alphabetically within each category.
 
