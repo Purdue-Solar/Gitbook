@@ -52,6 +52,7 @@ Projects should follow the following file structure (where a trailing `/` indica
 ├── include/
 ├── lib/
 ├── src/
+├── .clang-format
 ├── .gitignore
 └── .gitmodules
 ```
@@ -229,6 +230,17 @@ if (can_id == motorVoltageId) { .... } // do this
 ```
 {% endhint %}
 
-#### Formatting
+### Formatting
 
-TBD
+Projects should include the following `.clang-format` file:
+
+```yaml
+BasedOnStyle: LLVM
+IndentWidth: 4
+```
+
+{% hint style="info" %}
+## Visual Studio Code Auto-formatting
+
+The Visual Studio Code C/C++ extension recognizes `.clang-format` files and will format C and C++ files according to them. Turn on the `editor.formatOnSave` and `editor.formatOnPaste` settings to auto-format code according to the `.clang-format` file.
+{% endhint %}
