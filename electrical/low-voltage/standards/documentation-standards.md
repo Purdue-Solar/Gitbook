@@ -18,6 +18,10 @@ List of connections that need to be made between this board and other components
 
 If the board has a microcontroller, list the pinouts between the microcontroller pins and other components.
 
+### Testing
+
+List all procedures necessary to test component to verify all functionality is working correctly.
+
 ## Hardware
 
 List of all hardware required for the project with links to relevant documentation.
@@ -28,4 +32,4 @@ List of all external software required for the project with links to relevant do
 
 ## Project Requirements
 
-Checklist of requirements project must fulfill and if they are currently completed.
+Checklist of requirements project must fulfill and if they are currently completed, including any applicable race regulations the component must follow.

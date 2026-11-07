@@ -10,7 +10,7 @@ description: Software required to develop software and hardware on the team
 
 ### PlatformIO Extension
 
-[PlatformIO](developer-environment.md) is a development platform for working with a wide array of microcontrollers. To use PlatformIO, download the [PlatformIO Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide).
+[PlatformIO](https://platformio.org/) is a development platform for working with a wide array of microcontrollers. To use PlatformIO, download the [PlatformIO Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide).
 
 PlatformIO manages toolchains (including compilers, build systems, and software deployment) individually for each project, allowing for easy project setup. To set up a project using PlatformIO, place the corresponding `platformio.ini` configuration file for the project's microcontroller in the project root.
 
