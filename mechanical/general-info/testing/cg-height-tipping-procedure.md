@@ -61,9 +61,11 @@ Measure the length of the shocks while the car is fully loaded, after which you 
 
 Place the car onto zeroed scales (lift one end of the car at a time and have someone slide scales under the wheels). Record the static weight of all three wheels.
 
-Get a box or some sturdy object (large aluminum stock) of a known height greater than 10 inches and carefully raise the car so that the rear wheel rests on the box. It is better calculations-wise to raise the car from the rear wheel, and The driver should be holding the brakes down whenever the car is raised so it doesn't roll off the scales. Record the new weights of the front wheels.
+Get a box or some sturdy object (large aluminum stock) of a known height greater than 10 inches and carefully raise the car so that the rear wheel rests on the box. It is better calculations-wise to raise the car from the rear wheel, and the driver should be holding the brakes down whenever the car is raised so it doesn't roll off the scales. Record the new weights of the front wheels.
 
-The weight shift to the front wheels should be ballpark 10-20 lbs each, and our first attempt on 8/29/26 with unlocked shocks had a far greater weight shift that resulted in more than 133 in as the CG height. The successful attempt on 9/5/26 with aluminum linkages resulted in 27.1 in (.688 m) as the CG height estimate, which is far more accurate. The intended CG height of Artemis was .393 m, and the significant increase likely comes from, among other things, a much heavier topshell that is missing a lot of intended weight-saving cutouts.
+The weight shift to the front wheels should be ballpark 10-20 lbs each, and our first attempt on 8/29/26 with unlocked shocks had a far greater weight shift that resulted in more than 133 in as the CG height. The attempt on 9/5/26 with aluminum linkages resulted in 27.1 in (.688 m) as the CG height estimate, which is more accurate. The intended CG height of Artemis was .393 m, and the significant increase likely comes from, among other things, a much heavier topshell that is missing a lot of intended weight-saving cutouts.
+
+On 10/25/26, we repeated the procedure but replaced the ballast bag battery with the actual battery. Additionally, the drivers wore their helmets. We tested with topshell on and off, and with a 56 kg driver + 29 kg ballast as well as a 76 kg driver and 4 kg ballast. As a result, the highest CG height came to **.51 m** which is our current best estimate. Future CG height tests should use a range of rear wheel raised heights (we did 12 in only) as far as safely lifting the car can allow.
 
 ### Notes
 
