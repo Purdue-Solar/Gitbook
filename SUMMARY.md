@@ -85,6 +85,8 @@
 * [Interiors](mechanical/interiors/README.md)
   * [Artemis](mechanical/interiors/artemis.md)
   * [Lux](mechanical/interiors/interiors.md)
+* [Wheels/Hubs](mechanical/wheels-hubs/README.md)
+  * [Wheels](mechanical/wheels-hubs/wheels.md)
 
 ## Electrical
 
