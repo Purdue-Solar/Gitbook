@@ -19,7 +19,7 @@ Altair's ply-based modeling more intuitively depicts how the final layup will be
 Before you begin FEA, you must make sure your model is properly imported into Hypermesh and is of acceptable quality (but not needlessly high). Ensure element normals are correctly oriented and [material (MAT)](altair-hypermesh-mat-cards.md) cards are entered/imported.
 
 {% hint style="warning" %}
-Altair Hypermesh is "unitless", all numbers are implicit so be consistent/correct (We use IPS)
+Altair Hypermesh is "unitless", all numbers are implicit so be consistent/correct (We use [IPS](inch-pound-second-system.md))
 {% endhint %}
 
 #### Creating Properties, Sets, and Plies
