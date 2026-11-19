@@ -54,7 +54,7 @@ Ideal for reducing tire scrub and increasing cornering efficiency
 
 A large scrub radius increases the lateral grip between the tire contact patch and the road surface which makes steering more difficult and decreases cornering efficiency. Minimizing the scrub radius is key to making steering easier, however, a scrub radius of zero can decrease the feedback the driver gets while cornering and increase instability when cornering. A small negative scrub radius is ideal since it still allows the driver to have feedback while cornering with the added benefit of increasing stability during breaking by causing the one of the front tires to toe out if the other loses traction.
 
-<div><img src="../../../../.gitbook/assets/unknown (22).png" alt="Negative Scrub Radius" height="225" width="226"> <figure><img src="../../../../.gitbook/assets/image (143).png" alt="" width="255"><figcaption><p>Very Large Positive Scrub Radius</p></figcaption></figure></div>
+<div><img src="../../../../.gitbook/assets/unknown (22).png" alt="Negative Scrub Radius" height="225" width="226"> <figure><img src="../../../../.gitbook/assets/image (101).png" alt="" width="255"><figcaption><p>Very Large Positive Scrub Radius</p></figcaption></figure></div>
 
 #### Zero Static Camber
 
@@ -74,7 +74,7 @@ Negative camber creates camber thrust in the direction of the turn, which makes 
 
 #### <mark style="color:blue;">Positive Caster Angle</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 A positive caster angle creates negative camber gain!
 

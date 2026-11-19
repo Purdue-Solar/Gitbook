@@ -8,7 +8,7 @@ The center of gravity (CG) of the car is an important data point used to calcula
 
 <figure><img src="../../../.gitbook/assets/artemis in klon.jpg" alt="" width="563"><figcaption><p>car at rest</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (136).png" alt=""><figcaption><p>car raised</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption><p>car raised</p></figcaption></figure>
 
 ### Parameters
 

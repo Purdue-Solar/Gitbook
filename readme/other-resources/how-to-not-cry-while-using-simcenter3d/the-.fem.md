@@ -27,6 +27,6 @@ description: >-
     * 3D
   * cubes ("hex") or pyramids (tetrahedrons ("tets")
 
-<table><thead><tr><th></th><th width="328"></th><th></th></tr></thead><tbody><tr><td></td><td><img src="../../../.gitbook/assets/image (80).png" alt="" data-size="original"></td><td></td></tr><tr><td></td><td><img src="../../../.gitbook/assets/image (81).png" alt="" data-size="original"></td><td></td></tr><tr><td></td><td><img src="../../../.gitbook/assets/image (79).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
+<table><thead><tr><th></th><th width="328"></th><th></th></tr></thead><tbody><tr><td></td><td><img src="../../../.gitbook/assets/image (52).png" alt="" data-size="original"></td><td></td></tr><tr><td></td><td><img src="../../../.gitbook/assets/image (53).png" alt="" data-size="original"></td><td></td></tr><tr><td></td><td><img src="../../../.gitbook/assets/image (51).png" alt="" data-size="original"></td><td></td></tr></tbody></table>
 
 *

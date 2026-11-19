@@ -1,12 +1,12 @@
 ---
-description: Displays critical car information for driver
+description: Handles visualization of information for drivers
 ---
 
 # Display
 
 ## Description
 
-The display is mounted on the [steering wheel](./), and displays critical information for driver such as speed, motor current, etc.
+The display is mounted on the [steering wheel](steering-wheel.md), and displays critical information for driver such as speed, motor current, etc.
 
 ## Usage
 
@@ -26,8 +26,8 @@ To enable SPI on the display, the SPI jumpers on the back of the display must be
 
 ## Software
 
-* CAN library: [canlib](../../libraries/can-library.md)
-* Graphics library: [displaylib](../../libraries/displaylib.md)
+* CAN library: [canlib](can-library.md)
+* Graphics library: [displaylib](libraries/displaylib.md)
 
 ## Project Requirements
 

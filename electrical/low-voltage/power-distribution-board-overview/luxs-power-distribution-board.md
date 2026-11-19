@@ -8,8 +8,8 @@ description: >-
 
 ## Major Components
 
-{% content-ref url="../../low-voltage-system-overview/can/can-debugger.md" %}
-[can-debugger.md](../../low-voltage-system-overview/can/can-debugger.md)
+{% content-ref url="../can-debugger.md" %}
+[can-debugger.md](../can-debugger.md)
 {% endcontent-ref %}
 
 ### [CN200B110-13.8](https://product.tdk.com/en/search/power/switching-power/dc-dc-converter/info?part_no=CN200B110-13.8)

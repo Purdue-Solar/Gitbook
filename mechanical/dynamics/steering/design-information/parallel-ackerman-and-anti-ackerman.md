@@ -44,7 +44,7 @@ layout:
 
 A steering geometry where the tire on the inside of the vehicles turning radius turns at a higher rate than the outer wheel. This relationship depends on the ratio of the slip angles between the front tires and the wheel base:
 
-<figure><img src="../../../../.gitbook/assets/image (142).png" alt=""><figcaption><p>Ackerman = arctan (wheelbase/((wheelbase/tangent(outside slip angle) - track length from the front)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (100).png" alt=""><figcaption><p>Ackerman = arctan (wheelbase/((wheelbase/tangent(outside slip angle) - track length from the front)</p></figcaption></figure>
 
 Ackerman steering geometry is ideal since it produces a minimal amount of scrub against the ground which reduces tire wear and increases cornering efficiency.
 

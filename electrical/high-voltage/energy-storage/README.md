@@ -52,7 +52,7 @@ Battery hardware:<br>
 
 &#x20;
 
-<img src="../../../.gitbook/assets/unknown (2).jpeg" alt="" height="234" width="280">
+<img src="../../../.gitbook/assets/unknown (3).jpeg" alt="" height="234" width="280">
 
 Radlocks RL9036-101 radloks - M4 (get M4 nuts)\
 Nickel cutting - Nickel 201 0.5mm thick\

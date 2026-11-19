@@ -14,7 +14,7 @@ NX hates strange loops. Trying to do FEA on a soup can? You are cooked. Add a ra
 
 "The modeler gets scared, the mesher gets confused, its a mess." - Adin Freese
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>The mesher likes to chop up our soup cans for us. This is sketchy sometimes but mostly works, actually.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>The mesher likes to chop up our soup cans for us. This is sketchy sometimes but mostly works, actually.</p></figcaption></figure>
 
 The merge face tool in polygon geometry can be used to fix this (face based then box select everything). This gets rid of the crappy edges it generates. Delete mesh and remesh. Itll typically do better the second time.
 
@@ -22,9 +22,9 @@ What if it doesnt? Well idk tbh. Keep trying. Maybe try edge based. Little this,
 
 Ok it finally worked. damn.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>1.006 SF. Can bump up front fillet size.</p></figcaption></figure>
 
 Time to increase fillet size from this.
 

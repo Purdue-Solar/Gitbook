@@ -4,11 +4,11 @@ description: This page covers the data that is collected, the format, and some a
 
 # Data
 
-{% include "../.gitbook/includes/owners-block-seth.md" %}
+{% include "../.gitbook/includes/owners-block-seth (1).md" %}
 
 ## Apollo
 
-The team began its resurgence with Apollo. We had very little data on previous cars and wanted to begin collecting data with our brand new car Apollo. A small team was developed off of Mechanical with ideas of collecting data such as acceleration, ground clearance, and temperatures.&#x20;
+The team began its resurgence with Apollo. We had very little data on previous cars and wanted to begin collecting data with our brand new car Apollo. A small team was developed off of Mechanical with ideas of collecting data such as acceleration, ground clearance, and temperatures.
 
 The final design which was only used during a few tests had one MPU 9250 mounted on the floor by the driver, a thermal couple right next to it, then 4 ultrasonic sensors, one in each corner of the car. This data was then saved to a local SD card all managed by a ESP 32. The ESP also hosted a web server that we could connect to through a webpage to start and stop data collection. Data was stored in csv, then read and graphed using python afterwards.
 
@@ -27,10 +27,10 @@ The data in the link is the data from the race with most small files (under 5 mi
 
 **Data Format:**\
 Can dumps are created which are ran through the can decoder to create TSV files that are separated out for each can message. Once decoded a folder of the format "candump-2024-07-21T13\_14\_30.2456572Z" is created\
-(   Label   )(       Date    )(    Run#     )(Random?)
+( Label )( Date )( Run# )(Random?)
 
 In each candump folder all messages are displayed (around 50), example "0x400\_WaveSculptor.Broadcast.Identification"\
-(Address)(     Device     )(          Description            )
+(Address)( Device )( Description )
 
 Each file consists of a header with data type/description, and units if necessary. The first column is the time delta. The first row is the time delta off the minute before, then the delta between each message.\
 There are two main types of messages, data messages and status messages. These files are not exclusive to each other and are often combined. The status messages set flags for boolean logic typically for errors or lights.

@@ -1,4 +1,4 @@
-# Telemetry
+# Telemetry Board
 
 Intended authors: Michael, Victor
 

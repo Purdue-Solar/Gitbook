@@ -8,9 +8,9 @@ description: Artemis FEA results YIPPEE
 
 <summary>Preliminary FEA</summary>
 
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -45,22 +45,22 @@ Combined Loading Front Loading: **2.14** Safety Factor
 
 5g Sideways Rear Loading: **1.60** Safety Factor
 
-<figure><img src="../../.gitbook/assets/image (105).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5g Rearward Rear Loading: **2.31** Safety Factor
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt="" width="548"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt="" width="548"><figcaption></figcaption></figure>
 
 5g Sideways 60 deg Rear Loading: **3.02** Safety Factor
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt="" width="531"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt="" width="531"><figcaption></figcaption></figure>
 
 5g Sideways 30 deg Rear Loading: **1.80** Safety Factor
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt="" width="550"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="550"><figcaption></figcaption></figure>
 
 Combined Rear Loading: **1.81** Safety Factor
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt="" width="519"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt="" width="519"><figcaption></figcaption></figure>
 
 </details>

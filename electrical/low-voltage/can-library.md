@@ -1,9 +1,3 @@
----
-description: >-
-  Library for sending and receving CAN messages that works with Raspberry Pi
-  Pico, Teensy, and ESP32
----
-
 # canlib
 
 Intended authors: Michael Wu
