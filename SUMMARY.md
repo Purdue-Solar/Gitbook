@@ -143,9 +143,10 @@
   * [Bottom Shell](composites/structures/bottom-shell.md)
   * [Molds](composites/structures/molds.md)
   * [Altair Hypermesh FEA](composites/structures/altair-hypermesh-fea/README.md)
-    * [How to Retopologize FEA Meshes](composites/structures/altair-hypermesh-fea/how-to-retopologize-fea-meshes.md)
+    * [Altair Hypermesh Re-Topology](composites/structures/altair-hypermesh-fea/altair-hypermesh-re-topology.md)
     * [Altair Hypermesh MAT Cards](composites/structures/altair-hypermesh-fea/altair-hypermesh-mat-cards.md)
     * [Altair Hypermesh Load Cards](composites/structures/altair-hypermesh-fea/altair-hypermesh-load-cards.md)
+    * [Inch Pound Second System](composites/structures/altair-hypermesh-fea/inch-pound-second-system.md)
 
 ## Strategy
 
