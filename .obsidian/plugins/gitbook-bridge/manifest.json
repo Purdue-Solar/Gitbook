@@ -1,0 +1,9 @@
+{
+  "id": "gitbook-bridge",
+  "name": "GitBook Bridge",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Edit a GitBook Git Sync repo as a vault: renders GitBook blocks ({% hint %}, tabs, steppers, embeds, includes...), resolves file-relative HTML image paths, and indexes the .gitbook folder.",
+  "author": "Purdue Solar Racing",
+  "isDesktopOnly": true
+}

@@ -1,0 +1,18 @@
+#!/bin/sh
+# GitBook <-> Obsidian bridge: rewrite Obsidian-only markdown into GitBook
+# markdown and keep SUMMARY.md in sync before every commit.
+# Installed with:  python tools/obsidian-gitbook/gitbook_bridge.py install
+# Skip once with:  git commit --no-verify
+
+ROOT="$(git rev-parse --show-toplevel)"
+SCRIPT="$ROOT/tools/obsidian-gitbook/gitbook_bridge.py"
+
+for PY in python3 python "py -3"; do
+    if $PY -c "import sys; sys.exit(0 if sys.version_info >= (3, 8) else 1)" >/dev/null 2>&1; then
+        exec $PY "$SCRIPT" pre-commit
+    fi
+done
+
+echo "gitbook-bridge: Python 3.8+ was not found on PATH, so Obsidian markdown was not" >&2
+echo "converted for GitBook. Install Python, or commit with --no-verify to skip." >&2
+exit 1

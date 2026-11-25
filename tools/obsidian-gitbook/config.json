@@ -1,0 +1,23 @@
+{
+  "normalize_exclude": [
+    ".obsidian/**",
+    ".trash/**",
+    "tools/**",
+    "SUMMARY.md",
+    "**/SUMMARY.md"
+  ],
+  "summary_exclude": [
+    ".gitbook/**",
+    ".obsidian/**",
+    ".trash/**",
+    "tools/**",
+    "SUMMARY.md",
+    "**/SUMMARY.md"
+  ],
+  "summary_file": "SUMMARY.md",
+  "sync_summary": true,
+  "add_missing_h1": true,
+  "convert_inline_math": true,
+  "fail_on_broken_links": false,
+  "fail_on_uncommitted_files": true
+}

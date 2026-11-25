@@ -100,6 +100,8 @@
   * [Battery Management System](electrical/high-voltage/battery/battery-management-system.md)
   * [Fans](electrical/high-voltage/fans.md)
   * [Transient Current Analysis of TE EVC 250](electrical/high-voltage/TE-EVC250-testing.md)
+  * [test note](electrical/high-voltage/tests/test.md)
+  * [test 2 note](<electrical/high-voltage/tests/TE EVC250 Characterization/test2.md>)
 * [Embedded Systems](electrical/low-voltage/README.md)
   * [Required Software](electrical/low-voltage/developer-environment.md)
   * [Low Voltage System Overview](electrical/low-voltage/low-voltage-system-overview.md)

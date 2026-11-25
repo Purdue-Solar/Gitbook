@@ -1,0 +1,14 @@
+# Obsidian: only the vault settings needed to edit this repo as a GitBook-
+# compatible vault are shared; personal state (workspace, theme, other
+# plugins) stays local.
+/.obsidian/*
+!/.obsidian/app.json
+!/.obsidian/community-plugins.json
+!/.obsidian/plugins/
+/.obsidian/plugins/*
+!/.obsidian/plugins/gitbook-bridge/
+/.obsidian/plugins/gitbook-bridge/data.json
+/.trash/
+
+# Python
+__pycache__/
