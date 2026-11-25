@@ -1,6 +1,6 @@
 # Telemetry Board
 
-Intended authors: Michael, Victor
+Intended authors: Michael, Victor, Emilio
 
 1. Purpose
 2. Requirements
