@@ -21,7 +21,6 @@ Projects should **not** be written in pure C.
 The Pico SDK does support developing projects in both C and C++. Additionally, C++ is a superset of C, meaning all C code is generally valid C++ code as well, and that C++ can call C code. However, this also means that C code cannot call C++ code. Additionally, all team libraries are written in C++, which pure C code cannot use.
 
 </details>
-
 ### Project Types
 
 #### Libraries
